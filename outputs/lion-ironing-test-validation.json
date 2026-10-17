@@ -1,0 +1,103 @@
+{
+  "output": "C:\\Users\\mason\\Documents\\Codex\\2026-09-15\\i-d\\outputs\\lion-ironing-test-H2D.3mf",
+  "coupon_size_mm": [
+    62,
+    52,
+    2.5
+  ],
+  "crop_source_mm": [
+    -50,
+    -32,
+    10,
+    18
+  ],
+  "colored_panes_mm": 0.8,
+  "first_layer_mm": 0.2,
+  "layer_height_mm": 0.1,
+  "common_settings": {
+    "layer_height": "0.1",
+    "sparse_infill_density": "100%",
+    "sparse_infill_pattern": "zig-zag",
+    "enable_support": "0",
+    "brim_type": "no_brim",
+    "top_surface_speed": "50",
+    "gap_infill_speed": "30",
+    "infill_wall_overlap": "20%",
+    "top_surface_pattern": "monotonicline",
+    "ironing_speed": "30",
+    "ironing_flow": "10%",
+    "ironing_spacing": "0.15",
+    "ironing_pattern": "zig-zag"
+  },
+  "A_ironing": "off",
+  "B_ironing": "Top surfaces",
+  "colors_by_project_slot": {
+    "7": "Black",
+    "1": "Jade White",
+    "2": "Cyan",
+    "3": "Sunflower Yellow",
+    "4": "Pumpkin Orange",
+    "6": "Cocoa Brown"
+  },
+  "parts": [
+    {
+      "name": "Black",
+      "color": "#000000",
+      "volume_mm3": 2048.540990000001,
+      "watertight": true,
+      "triangles": 8340
+    },
+    {
+      "name": "Jade White",
+      "color": "#FFFFFF",
+      "volume_mm3": 344.3470496,
+      "watertight": true,
+      "triangles": 1736
+    },
+    {
+      "name": "Cyan",
+      "color": "#0086D6",
+      "volume_mm3": 507.99659680000013,
+      "watertight": true,
+      "triangles": 1432
+    },
+    {
+      "name": "Sunflower Yellow",
+      "color": "#FEC600",
+      "volume_mm3": 402.1866292,
+      "watertight": true,
+      "triangles": 1788
+    },
+    {
+      "name": "Pumpkin Orange",
+      "color": "#FF9016",
+      "volume_mm3": 275.58116320000005,
+      "watertight": true,
+      "triangles": 2044
+    },
+    {
+      "name": "Cocoa Brown",
+      "color": "#6F5034",
+      "volume_mm3": 393.55544439999994,
+      "watertight": true,
+      "triangles": 1260
+    }
+  ],
+  "geometry_validated": true,
+  "slicer_validated": false,
+  "print_started": false,
+  "serialized_geometry_checks": [
+    {
+      "path": "3D/Objects/object_1.model",
+      "footprint_mm2": 3224.0,
+      "watertight": true
+    },
+    {
+      "path": "3D/Objects/object_4.model",
+      "footprint_mm2": 3224.0,
+      "watertight": true
+    }
+  ],
+  "sha256": "540f3f7489ca526bac134623e6fbd5cb89994f10c6e6f5d93c043411ec16547a",
+  "full_insert_file_unchanged": true
+}

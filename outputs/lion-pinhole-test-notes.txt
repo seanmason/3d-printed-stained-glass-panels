@@ -1,0 +1,26 @@
+LION PINHOLE CORNER TEST
+
+Two 30 x 32 mm samples. Viewed from the front of the printer:
+A (left): original corner geometry, Arachne and zero seam gap.
+B (right): same settings, plus 0.25 mm corner rounding and a buried black
+ledge 0.2 mm thick extending 0.4 mm under adjacent colors, widened to 0.8 mm
+within 3 mm of the white muzzle tip.
+
+Both: ironing OFF, 0.1 mm layers, 0.2 mm first layer, 0.8 mm color panes,
+2.5 mm black framework, 100% infill, 50 mm/s top surfaces, 30 mm/s gap fill,
+20% infill/wall overlap. Materials explicitly partitioned without mesh overlap.
+
+Loaded-color substitutions: orange -> cyan; brown -> blue-gray.
+Keep samples in left/right order when removing from the bed.
+Compare the pointed upper left corner of the white muzzle against the same
+backlight after cooling. A tests the slicer changes; B adds geometry changes.
+
+Final project: lion-pinhole-test-v2-ready-H2D.3mf
+Final slice: lion-pinhole-test-v2-sliced.gcode.3mf
+Sent once to Haute H2D on 2026-10-16; confirmed active, changing filament.
+Slicer estimate: 1 h 14 min 20 sec; 17.25 g including purge material.
+AMS mapping: White B3, Cyan B2, Blue-gray B4, Yellow A3, Black A4.
+Bed leveling, flow dynamics calibration, and nozzle offset calibration ON.
+The nominal projected extrusion check found no straight-through void in B's
+8 x 8 mm corner detail. Physical backlit comparison is still needed.
+Slicing and physical print status are recorded separately in the validation JSON.

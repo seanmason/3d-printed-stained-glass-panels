@@ -1,0 +1,7 @@
+# Lion panel v4
+
+Edited from version 2 with built-in image generation. Visual concept, not a printable mesh.
+
+## Prompt
+
+Edit the supplied version 2 lion stained-glass panel, using THIS image as the baseline. Make a very restrained refinement: preserve the full broad yellow forehead, its width at eye level, the original eye spacing, swept orange forelock, outer mane silhouette, and large full cocoa-brown lower mane almost exactly as shown. Extend the lower face/muzzle down by only about 3% of the total face height and tuck the lowest cheeks inward by only about 2%, with a smooth natural transition. The top two-thirds of the yellow face must retain their original generous width and rounded outline. Do not make the face a narrow elongated teardrop. Preserve the balanced gentle neutral Apple-lion-inspired expression. Keep the broad dark brown lower mane at its original width and its original long pointed bottom silhouette; the very small downward muzzle adjustment alone should slightly reduce its visible height. Do not shorten the beard or recolor brown side sections orange. Overall this should look almost identical to the supplied image, with just a slightly less squat lower face. Maintain the same six colors, black outline weight, eye and nose sizes, four cyan background panes, square black frame, orange mane sections, ear size and positions. No other changes. Simple PLA stained-glass design concept, orthographic front view.

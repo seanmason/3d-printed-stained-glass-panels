@@ -1,0 +1,65 @@
+{
+  "source": "Bambu Studio Filament Manager, synced 2026-10-17; read both inventory pages",
+  "palette": [
+    {
+      "material": "Bambu Lab PLA Basic",
+      "color": "Black",
+      "code": "10101",
+      "hex": "#000000",
+      "remaining_g": 234,
+      "role": "outer border, leading, nose, pupils"
+    },
+    {
+      "material": "Bambu Lab PLA Basic",
+      "color": "Cocoa Brown",
+      "code": "10802",
+      "hex": "#6F5034",
+      "remaining_g": 595,
+      "role": "dark saddle and deepest coat shadows"
+    },
+    {
+      "material": "Bambu Lab PLA Metal",
+      "color": "Copper Brown Metallic",
+      "code": "13800",
+      "hex": "#AA6443",
+      "remaining_g": 560,
+      "role": "warm brown coat facets and brown iris"
+    },
+    {
+      "material": "Bambu Lab PLA Silk+",
+      "color": "Gold",
+      "code": "13405",
+      "hex": "#F4A925",
+      "remaining_g": 860,
+      "additional_spool_g": 390,
+      "role": "main golden coat and outer ears"
+    },
+    {
+      "material": "Bambu Lab PLA Silk+",
+      "color": "Champagne",
+      "code": "13404",
+      "hex": "#F3CFB2",
+      "remaining_g": 1000,
+      "role": "pale warm muzzle, inner ears and cream coat regions"
+    },
+    {
+      "material": "Bambu Lab PLA Basic",
+      "color": "Jade White",
+      "code": "10100",
+      "hex": "#FFFFFF",
+      "remaining_g": 173,
+      "role": "chest white patches and eye catchlights"
+    },
+    {
+      "material": "Bambu Lab PLA Basic",
+      "color": "Cyan",
+      "code": "10603",
+      "hex": "#0086D6",
+      "remaining_g": 612,
+      "role": "background panes"
+    }
+  ],
+  "rendering_is_approximate": true,
+  "design_geometry_not_yet_modeled": true,
+  "prompt": "Use case: precise-object-edit. Edit the provided approved stained-glass dog panel B. This image is the EDIT TARGET. Preserve its exact portrait framing, upward/right attentive three-quarter pose, two large ears, head proportions, long muzzle, brown almond-shaped eyes and eye direction, closed gentle mouth, neck/chest silhouette, black outer border thickness, blue background geometry and main lead-line layout. The user has approved this design: do not redesign the expression, shorten the muzzle, move eyes, add teeth or tongue, make it a baby puppy, add objects or crop the panel.\nPrimary request: show how this approved design looks using ONLY seven actual filaments verified in the user's Bambu Studio Filament Manager. Recolor the existing design into discrete printable color regions, removing its invented continuous glass shading. Palette and assignment:\n1. Bambu PLA Basic Black #000000: all leading, outer border, pupils, entire nose. No gray nose shine; a subtle finish highlight is acceptable only if clearly lighting, not an extra printed color.\n2. Bambu PLA Basic Cocoa Brown #6F5034: darkest large shoulder/saddle and deepest shadow panes.\n3. Bambu PLA Metal Copper Brown Metallic #AA6443: warm medium-brown face/neck/ear shadow panes, small brown iris areas.\n4. Bambu PLA Silk+ Gold #F4A925: most of the golden-tan face, cheek, brow, ear rims and coat.\n5. Bambu PLA Silk+ Champagne #F3CFB2: pale warm muzzle/cheek panes, inner ear panes and cream areas.\n6. Bambu PLA Basic Jade White #FFFFFF: selected chest white panes and the two restrained eye catchlights.\n7. Bambu PLA Basic Cyan #0086D6: ALL blue background panes in the SAME cyan. No pale blue/teal extra colors.\nImage style: an honest clean front-on 2D preview of a stained-glass-inspired MULTICOLOR PLA PRINT design. Broad flat color blocks with connected substantial black divisions. A mild satin response on Gold/Champagne and muted copper finish may be suggested very gently, but no glass glow, see-through refraction, gradients within fill pieces, artificial metallic glitter, hair texture or photorealistic dog fur. Favor the exact specified base color codes over decorative lighting. Retain the composition's roughly 25-35 broad shapes; no added microfacets or tiny slivers. Solid black must reach the outside perimeter on all four edges. Keep whole portrait panel visible, straight-on, aspect 108.2:144.2. No text, swatches, labels, watermark, environment or mockup stand. The result should remain recognizably the approved B image, only adapted to this seven-filament palette and clean printable regions."
+}

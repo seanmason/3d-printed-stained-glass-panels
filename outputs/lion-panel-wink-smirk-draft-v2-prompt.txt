@@ -1,0 +1,17 @@
+Generated with the built-in image_gen tool.
+
+Expression revision:
+Use case: precise-object-edit.
+Asset type: revised 2D draft of a six-color PLA stained-glass lion panel.
+Input image 1: edit target, the first wink-and-smirk draft. Input image 2: the approved original lion, reference for the correct eye placement and facial proportions.
+Correct only the closed eye and mouth. Everything else must remain exactly as in image 1.
+
+Wink correction: the existing closed eye is too broad and reads like a raised eyebrow. Replace it with a compact, smooth black closed eyelid centered at the original right-hand oval eye's center in image 2 (approximately x=748, y=548 on the 1280-square design). Its horizontal midpoint must be the mirror of the open eye about the nose. Make it approximately the original oval eye's width, about 85 pixels, not the current 150-pixel-wide arch. The closed eye should be near the open eye's vertical midpoint. Use a gentle, low curved or slightly angled squint with softly tapered rounded ends, approximately 14-18 pixels thick at the middle. A natural deliberate wink, not a big happy-eye rainbow, eyebrow, or sideways chevron. No added eyebrows.
+
+Smirk correction: the current sweeping smile and hook at the far corner are too broad and cheerful. Replace the mouth with a restrained, cheeky closed-mouth smirk. Keep the short vertical philtrum beneath the centered black nose. Give the left branch a short nearly level/downward curve, and the right branch a modestly longer shallow curve with its corner only slightly raised. Keep the entire mouth relatively compact and low in the white muzzle, near the original mouth location. Right branch extends about 95 pixels from the center, rather than 160; corner rises only about 20 pixels. Remove the prominent hook/arrow-shaped corner. A small smooth tapered end and subtle asymmetry should convey confident playful mischief, not a broad grin. No teeth, tongue, dimples, added lines, or new colored regions.
+
+Preserve the same broad forehead, long-ish face, nose size and position, white muzzle shape, open oval eye and highlight, full orange and cocoa-brown mane, ears, exact cyan background dividers, original rounded square outer BLACK border thickness. Retain black, jade white, cyan, sunflower yellow, pumpkin orange, cocoa brown only. Front-facing complete square panel. Smooth bold printable closed shapes. No text or perspective.
+
+Final eyelid refinement:
+Edit this lion draft. Change ONLY the closed eye on the viewer's right. Keep the entire rest of the artwork including the new compact asymmetric smirk exactly unchanged.
+The closed eye still looks like a thick eyebrow. Replace it with a slim compact winking eyelid: a short nearly horizontal black line with a subtle curve and a slight upward tilt at its outside end. It must be ONLY AS WIDE AS THE OPEN OVAL EYE (roughly half the width of the current closed-eye arch). Center it horizontally at the mirrored position of the open eye across the centered nose, and vertically at the open eye's halfway height. No tall arch, no filled crescent, no eyebrow, no extra accent or lashes. Smooth black line about the thickness of the mouth line. Natural knowing wink. Preserve the six-color stained-glass lion, mane, face, nose, muzzle, smirk, cyan panes, divider lines and black perimeter frame exactly. Complete front-facing square 2D draft.

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+work/pydeps/
+work/*scratch*/
+*.log
+.DS_Store

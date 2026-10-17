@@ -1,0 +1,18 @@
+LION SEAM AND IRONING TEST
+
+Two identical 62 x 52 mm samples on plate 1. Viewed from the front of the printer:
+A (left): no ironing. B (right): Top surfaces ironing, rectilinear, 30 mm/s,
+10% flow, 0.15 mm spacing. Both: 0.1 mm layers, 0.2 mm first layer,
+50 mm/s top surfaces, 30 mm/s gap fill, 20% infill/wall overlap, 100% infill.
+Classic walls and existing filament flow ratios retained.
+
+Same color-boundary geometry, 0.8 mm color thickness, and 2.5 mm black height
+as the original full insert. A 1 mm black perimeter supports the crop.
+
+Project colors: 1 White, 2 Cyan, 3 Yellow, 4 Orange, 6 Brown, 7 Black.
+Color 5 is unused. Project color numbers are not physical AMS slot numbers.
+Map against current filament labels before printing. Enable normal bed leveling
+and nozzle-offset/flow calibration when available in the print dialog.
+
+Compare both samples against the same backlight after cooling. Check pinholes
+at color boundaries separately from smoothness of the colored top surfaces.

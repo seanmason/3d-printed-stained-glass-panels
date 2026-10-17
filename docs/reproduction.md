@@ -1,0 +1,29 @@
+# Rebuilding and validating
+
+The editable 3MF files are the authoritative saved manufacturing artifacts. PNGs are visual design inputs; SVGs and part ZIPs preserve intermediate geometry. The Python scripts construct meshes and package Bambu projects; Bambu Studio 02.08.02.61 performed native saving and slicing. There is no Fusion source file.
+
+## Environment
+
+Use Python 3.12 in a virtual environment and install `requirements.txt`. The pins record the versions present in the original workspace; availability on other platforms may differ. Vendored packages and local account state are not included.
+
+Run `python tools/verify_archive.py` for a read-only checksum, ZIP-integrity, and JSON check. This needs only the standard library. It verifies the archived payload, not print quality. The historical validation scripts in `work/` perform additional geometry/toolpath checks but update their associated reports; run those in a working copy if preserving original evidence.
+
+## Historical build sequence
+
+1. `work/build_panel.py` extracts regions from the approved original lion image and constructs the square model. `configure_project.py` combines it with the saved Bambu template and installed system filament profiles.
+2. `inspect_lithophane.py` and `check_lightbox_fit.py` inspect the supplied lightbox. `build_lightbox_lion.py` creates the winking insert. `build_lightbox_pair.py` creates both inserts. `finalize_lightbox_pair.py` integrates the saved Studio intermediate project.
+3. `build_ironing_test.py` and `build_pinhole_test.py` preserve the experiments. Their results inform the final settings; do not treat every test geometry as an improvement.
+4. `build_original_arachne.py` and `build_wink_arachne.py` create the snug single-panel projects from the pair and the successful test settings.
+5. `build_clean_color.py` adds the contamination/stringing trial. The final nozzle separation was applied through Bambu Studio after the physical spool swap. `validate_separated_wink.py` checks that saved project and exported slice.
+
+This is a preserved iterative workflow, not a fully unattended one-command rebuild. Some steps consume intermediate projects saved by Studio; those are included. Native Save As and slicing are essential checkpoints. Do not run all scripts blindly: several overwrite historical filenames. Work on a branch or copy and choose the relevant stage.
+
+## Important implementation details
+
+Raster regions were classified by color, converted to polygons, repaired/partitioned, and extruded. The black frame is the remaining outline region. Keep the resulting partition closed and avoid disconnected slivers or tiny junction gaps. This lion-specific color classifier will need adaptation for the seven-color corgi palette.
+
+The 3MF archive contains mesh XML, model/object settings, project settings, thumbnails, and sometimes slice metadata. Validate the geometry after Bambu Studio serializes it, not just before opening it. `different_settings_to_system` has process, seven filament, and printer entries in these projects; unregistered custom fields can silently return to profile defaults.
+
+Preserve housing/light-guide mesh and placement evidence when editing inserts. Check positive volume and watertightness for all six lion parts, total XYZ bounds, layer heights, part filament indices, actual nozzle routing, absence of ironing, and the tower plus panel bounds inside the common dual-nozzle area. Archived latest bounds were X40–229.1 and Y77.9–303.5 mm, within the working common area X25–325/Y0–320.
+
+The archived reports retain old absolute paths as provenance. Resolve filenames through `outputs/`; do not expect those old user directories to exist. Source-lightbox paths in the scripts now point into `sources/`, and the system profile lookup uses APPDATA. The historical CLI slicer still assumes the standard Windows Bambu Studio installation path.

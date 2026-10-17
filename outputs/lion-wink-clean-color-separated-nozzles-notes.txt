@@ -1,0 +1,25 @@
+WINKING LION - CLEAN COLOR, SEPARATED NOZZLES - 2026-10-17
+Project: lion-wink-clean-color-separated-nozzles-H2D.3mf
+Slice: lion-wink-clean-color-separated-nozzles-sliced.gcode.3mf
+108.2 x 144.2 x 2.5 mm; color panes 0.8 mm.
+Arachne walls, 0% seam gap, 0.1 mm layers, no panel ironing.
+Black subsequent-layer temperature 215 C; first layer 220 C.
+Black retraction 0.6 mm, wipe 2 mm, 70% retract before wiping.
+Normal infill travel retractions and avoid crossing walls enabled.
+Prime volumes: 45 mm3 filament change, 90 mm3 hotend change.
+Revised conservative purge matrices, no flush into panel/infill.
+Geometry, housing, guide and placements retained.
+
+VERIFIED PRINT MAPPING
+Left nozzle: Cocoa Brown B4, Black B2.
+Right nozzle: Jade White A2, Cyan A4, Sunflower Yellow A3, Orange A1.
+White and Black RFID material names checked in Bambu Studio.
+All six print slots verified in the final send dialog.
+Physical cleaning completed by user before this print.
+Bed leveling, flow dynamics calibration, nozzle offset calibration ON.
+Timelapse OFF.
+
+24 layers, estimated 2 h 35 min 47 sec, 36.36 g including waste.
+Toolpaths and native settings validated after remapping.
+Physical improvement and completed print not yet confirmed.
+Print status recorded in lion-wink-clean-color-separated-nozzles-validation.json.

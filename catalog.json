@@ -1,0 +1,740 @@
+{
+  "archived_date": "2026-10-17",
+  "basis": "Conversation decisions, workspace artifacts, and archived validation records",
+  "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
+  "corgi_status": "B composition approved; library-palette rendering delivered; no mesh",
+  "artifacts": [
+    {
+      "path": "outputs/corgi-panel-B-library-palette-v1.json",
+      "bytes": 4289,
+      "sha256": "64759d475d7049f65ade005aa5ba9ef89deeefff2211270a570b69833eccac39",
+      "role": "verified_inventory_snapshot_and_render_prompt"
+    },
+    {
+      "path": "outputs/corgi-panel-B-library-palette-v1.png",
+      "bytes": 1466268,
+      "sha256": "75dc4745b895b122aafc2b7aaa9b1021e284ff1a4f6627f9668b79e9b2b4ad39",
+      "role": "latest_corgi_render_no_mesh"
+    },
+    {
+      "path": "outputs/corgi-panel-draft-A-attentive-supervisor.png",
+      "bytes": 2074782,
+      "sha256": "e989290c92e0b1b33cb3414ff8d7335ea38e39fbb8f3daf8a665321495beedf7",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/corgi-panel-draft-B-at-your-side.png",
+      "bytes": 1812167,
+      "sha256": "185111de1ab5cbbd92a33ac47bf3238d6e89ede1f2248f97a5f6694f97947fa3",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/corgi-panel-draft-C-puppy-dog-look.png",
+      "bytes": 1898120,
+      "sha256": "b60e8fc4465385cb00851ae8047bd8cd8617bed899d18207f4ca743b2cc257d5",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/corgi-panel-draft-prompts.json",
+      "bytes": 8400,
+      "sha256": "fd60dcbd627bb71f365dcbf0c09b3e0154d6a6cf46ed68acefaee3315c49faa8",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-clean-color-notes.txt",
+      "bytes": 3563,
+      "sha256": "987838357cc69c8c8186514ca30b9886767ac012790a6a78c4e4e90f89a2fe86",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-H2D.3mf",
+      "bytes": 503897,
+      "sha256": "540f3f7489ca526bac134623e6fbd5cb89994f10c6e6f5d93c043411ec16547a",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-loaded-PLA-H2D.3mf",
+      "bytes": 503967,
+      "sha256": "2bfe4d9afb1a489aa410aa6c2eebf354c5cbc969dab40a84bd393a10af536398",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-notes.txt",
+      "bytes": 1014,
+      "sha256": "580b0ed309f54b72d5a33fd28824a4d38b0888f64f5bc8a3f2eea8baa1f48919",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-preview.png",
+      "bytes": 16614,
+      "sha256": "d2c6d5176f31d0bd0315c4ee23f1f662ec66decc7eac849e9f3c03159e6628d9",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-ready-H2D.3mf",
+      "bytes": 472836,
+      "sha256": "d367a5b510fe4c65ad4e21be99514a7fef4a14a9d8929e21d86ebedff4afaa74",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-ready-notes.txt",
+      "bytes": 1105,
+      "sha256": "6d271778a282493e348494a6fc2a446e0ec66c48fd05f814dc437dcc128428d1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-ready-validation.json",
+      "bytes": 4582,
+      "sha256": "1308a624eb4e5ca8252f1a5d1a3317799103dcb81860fbb69c439200b404ebe0",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-ironing-test-validation.json",
+      "bytes": 2474,
+      "sha256": "73e460f238fc50452e23f5377815f7686f5cb958be1c72d622d9c72bb81147e4",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-lightbox-two-panels-H2D.3mf",
+      "bytes": 1359105,
+      "sha256": "92df0a5c72a42106274a25b10571b7a42e020d92290bf898010e5daf101ae533",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-lightbox-two-panels-preview.png",
+      "bytes": 25247,
+      "sha256": "b8133572fffb801ad61689630978221e44c3e61dbc607da226c38fd4fc27bbb3",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-lightbox-two-panels-print-notes.txt",
+      "bytes": 1863,
+      "sha256": "95ea6c60e79366244b1ded88aaf44f105d155b4cec22c385690321f283a15212",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-lightbox-two-panels-validation.json",
+      "bytes": 6146,
+      "sha256": "00976e8ad5717bebbf2f0339ebc25687cdf7b37624ff0032c177f89eb9944431",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-lightbox-two-panels.svg",
+      "bytes": 401117,
+      "sha256": "383953e2d52ed7d70f3c0823a158faf486a97b1f9b2e24debbb4aec178b1893b",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-clean-color-H2D.3mf",
+      "bytes": 1112940,
+      "sha256": "12dde4b501a9189e3ac7b703fed639d279fa0d15a755582c1860f660ab61a82b",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-clean-color-sliced.gcode.3mf",
+      "bytes": 3251446,
+      "sha256": "5ff719b01b07986b18f6798153301eb3df72aa8bd0172d31e5b1f3d0bd5c51aa",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-clean-color-validation.json",
+      "bytes": 10724,
+      "sha256": "848dc14cc5d0faa2f9b007ef0f9c5b5f777a9852b514c30515fd071d21459223",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-clean-color-verified-H2D.3mf",
+      "bytes": 1093143,
+      "sha256": "11c58eb4adce3e44c65a383fe63c0165f35afb8900a9a56a59af15864573c24b",
+      "role": "original_lion_clean_color_slicer_verified_old_routing"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-H2D.3mf",
+      "bytes": 1158785,
+      "sha256": "1e372dc7b1ad740b5028c1502356f2b10e5e1f96dfda5c203b97ce5b032498d9",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-notes.txt",
+      "bytes": 1608,
+      "sha256": "cfc61e0e5d87327a247e1889dd16b8628d252b011e3eb5418a262c7e4ea205ff",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-preview.png",
+      "bytes": 11249,
+      "sha256": "15d24ddf6c263e86a7a00a93e90fe343496480860e43d679c8b3fd8b8c2d1c79",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-ready-H2D.3mf",
+      "bytes": 1091954,
+      "sha256": "3db46da4d4596c11e0585b168a744d86816cb7716a9737ab35e1114a014b10ac",
+      "role": "original_lion_printed_baseline"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-sliced.gcode.3mf",
+      "bytes": 3220323,
+      "sha256": "fdd5def228420beefe42620cafbffd2404d995c5d79bb38314e327227c0cd2a6",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-original-arachne-snug-validation.json",
+      "bytes": 5096,
+      "sha256": "f327005bbc5d051c71b2ec4390014b944b8c3ded47e422c7b65aae845d282d30",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-200mm.3mf",
+      "bytes": 430804,
+      "sha256": "dff25c3b4058ef02f23b14465da2f54f96dd3ddabdf0fbb24afca5317a12a2ce",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-concept-v2.png",
+      "bytes": 1118703,
+      "sha256": "0fd0239324cf9f3a10752bec94bd13612bb438dc0fb5214debddf9281d1400be",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-concept-v3.png",
+      "bytes": 1122772,
+      "sha256": "4772dc1efcd379cdb463d92c2c7b40a04af36b35770921a051313e7e763336c7",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-concept-v4.png",
+      "bytes": 1142146,
+      "sha256": "8e8c0ea31844bafa35869550ac1348a8166a7ce4f1f6296bd81107cadb5ad20c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-concept-v5.png",
+      "bytes": 1128648,
+      "sha256": "7a1a9e120e25904e2547304909f3d57da80d62d4ea14d79c0760d7cb4457835d",
+      "role": "approved_original_lion_visual_source"
+    },
+    {
+      "path": "outputs/lion-panel-concept.png",
+      "bytes": 1232486,
+      "sha256": "b3519b2ab93b6d9dd357db52b541a72d0b0df60e4ab9a54fe89f4c7dd220ab81",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-design-notes.md",
+      "bytes": 2691,
+      "sha256": "e0635215ff7f9dd56058587218ed39735608459e60c6b24c253768f2adb8fc01",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-H2D.3mf",
+      "bytes": 535854,
+      "sha256": "545a376c7f5cc8419eaeeb9343d34897a1bd85fffcb7f745b5e2d59cb1090c78",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-manufacturing.svg",
+      "bytes": 209790,
+      "sha256": "a2013648831a6dd312c67c676fc76ad8be06ac396825a1c6a2a344d269c84072",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-model-preview.png",
+      "bytes": 13568,
+      "sha256": "8c4063ef905f0fe1a7af4fcf9e5ebeba47b037bc851d3197f69b824d322ba8b2",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/01-Black.stl",
+      "bytes": 1161884,
+      "sha256": "56385bbe8973f199ac79e04a9ef64d6a9f4bbfd64297a8412644c90d16bf3110",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/02-Jade-White.stl",
+      "bytes": 127484,
+      "sha256": "84192aa5fe4898e3abfec843f430a1277909dfbd3b042ac13cefcd48ef2771b3",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/03-Cyan.stl",
+      "bytes": 280484,
+      "sha256": "dfe04cdceb1551724be0907b724b70b9e739058ae04baa19dccf12c03d17e7b1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/04-Sunflower-Yellow.stl",
+      "bytes": 227684,
+      "sha256": "7ff574d4f5820f910ff7b0fab19651133ae6e2c67f51126dba808386387f4809",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/05-Pumpkin-Orange.stl",
+      "bytes": 354484,
+      "sha256": "931289e358c9251abee24793fab66bc466c413cf14c93221112373b3ce08cea1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts/06-Cocoa-Brown.stl",
+      "bytes": 157084,
+      "sha256": "fb10813d1bfcf24173dcb88eee6b373235417a35024920130e0b82bd8d5a7dcb",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts.zip",
+      "bytes": 457769,
+      "sha256": "712f0f0cf8e7b164ddbc0dab2eeabd7b6af1f09a861137eb28992029526a1e7b",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-print-guide.md",
+      "bytes": 3341,
+      "sha256": "dedd03d7d4e02a5437fd8e25bb9af9228f3cd012008f940694028624c273194c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-v2-prompt.md",
+      "bytes": 2626,
+      "sha256": "becc801bf440f65be331003be82b46192e4581ac13ba27f28dab6d80f546a404",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-v3-prompt.md",
+      "bytes": 1396,
+      "sha256": "1a952585e38fac5a0b1eed59ffa2297de82681de4b451c5411221fbadea8e7a7",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-v4-prompt.md",
+      "bytes": 1448,
+      "sha256": "fb4bf2cf74653946298d0438601c2f30e8e10c27334592ea695541f19be929c5",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-v5-prompt.md",
+      "bytes": 1606,
+      "sha256": "93f352d7f0ac32959db0458ed62f14b9bd559c58d0367da02c411e2de18f1f67",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-validation.json",
+      "bytes": 1754,
+      "sha256": "0148a33119322cd48ddffcd7f21bcb86a6f3f74289d8034fbe35eab21d9e2f22",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-wink-smirk-draft-v1-prompt.txt",
+      "bytes": 1606,
+      "sha256": "e36cf1220ceba1212971d8d9911022694cf36787ab68747affaf13fe29cdaf21",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-wink-smirk-draft-v1.png",
+      "bytes": 1292902,
+      "sha256": "e60b1e8e7670a5a48e5106db4af6572d2d5210b51d1bdc3e73c9a0b874ce0051",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-wink-smirk-draft-v2-prompt.txt",
+      "bytes": 3377,
+      "sha256": "124b2e9741818a2663524daf5d27d4ef16d95b283a54d7577679e5519ed65a00",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-wink-smirk-draft-v2.png",
+      "bytes": 1291761,
+      "sha256": "50a997f4b18bfed968750f2f7a9e02bc63d762ad498ab43d69561f6750eba6af",
+      "role": "approved_wink_visual_source"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-H2D.3mf",
+      "bytes": 641387,
+      "sha256": "1ac882c031792f9fe01ffa81a0d06d24ef3ed67dc02bfb7f8a63337aee1aa8b1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-notes.txt",
+      "bytes": 1481,
+      "sha256": "8b840e6fbb871dbf48dc8f5a8e045f90d28fbc4a2324bd60635316f9c5cb5dae",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-preview.png",
+      "bytes": 19652,
+      "sha256": "e030356b3bdbc890f09529c912c0cd728de4ea72eecd92884509c791bb5e0883",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-ready-H2D.3mf",
+      "bytes": 621975,
+      "sha256": "cf073588dca73fdfeba6b4116c22334770c5f6bceadf28ebcde797f2924f73fc",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-sliced.gcode.3mf",
+      "bytes": 1106306,
+      "sha256": "07396dae5c57ca18020d29420f9d409871cac249bacc573fde09562f2487d4cb",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-through-void-check.png",
+      "bytes": 8077,
+      "sha256": "84c1579d44a56139a057d00e13c303b2085012c6abb90461d114d2bd458dc834",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-toolpaths.png",
+      "bytes": 30818,
+      "sha256": "c1938f7e6176c7f2b61199537674823f5b7113e838aa316c77a4951ee6f2a1d7",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-v2-H2D.3mf",
+      "bytes": 641387,
+      "sha256": "1ac882c031792f9fe01ffa81a0d06d24ef3ed67dc02bfb7f8a63337aee1aa8b1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-v2-ready-H2D.3mf",
+      "bytes": 619391,
+      "sha256": "c112ffa32f53ec1575458783ac75018d706dd43094dab8cf52553b4d287d4c0c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-v2-sliced.gcode.3mf",
+      "bytes": 1128835,
+      "sha256": "746f390d0c28225a2747b4ebeb7ecc78727cb01c0c0f113f74486551cf94a4f9",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-pinhole-test-validation.json",
+      "bytes": 7082,
+      "sha256": "1e76bdeea7ce99efc55cf002a080bbeac74ab66b1f107c75a44a3ac471fcc1be",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-clean-color-H2D.3mf",
+      "bytes": 1111159,
+      "sha256": "833bd402ab3bac487b2772f157116baa070d3a2bc5eb025102fb5970dd30bc6d",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-clean-color-ready-H2D.3mf",
+      "bytes": 1092032,
+      "sha256": "b3a70467a6dcf281434077bdaa5d4a0ec5bff77f3fde97322f4f8d0e707e906b",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-clean-color-sliced.gcode.3mf",
+      "bytes": 3174602,
+      "sha256": "6b7ea223b4a92aae530e92430fec08bc38e48585dba31414c87fe07852e85a38",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-clean-color-validation.json",
+      "bytes": 10742,
+      "sha256": "301b9c0294d076fd8309efdef52477af483479042a850700c1df3cddae2c134c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-clean-color-verified-H2D.3mf",
+      "bytes": 1092032,
+      "sha256": "b3a70467a6dcf281434077bdaa5d4a0ec5bff77f3fde97322f4f8d0e707e906b",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-H2D.3mf",
+      "bytes": 1154873,
+      "sha256": "4106052c043dd6b7ae335ffc2b8e4355968968f2bacaf1165982d6fb8244efa1",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-notes.txt",
+      "bytes": 1618,
+      "sha256": "3b3a69c9202c3085115f178d46dcef327936bf81779c663f61ca4ec0109bb0bc",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-preview.png",
+      "bytes": 11304,
+      "sha256": "67fae8e1b3c3c3d219a6d98162c8d2706c9db25bf2a5e53b76afd4b9b9d919d5",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-ready-H2D.3mf",
+      "bytes": 1090867,
+      "sha256": "6aa791d7f23539d4c5566660698fb03df1823adc32195b2befc5136102c8e543",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-sliced.gcode.3mf",
+      "bytes": 3142939,
+      "sha256": "09f15ad38454fc52978499c97db93edd8e36474d2bd1b8ae8e35b2938b5cf0bd",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-arachne-snug-validation.json",
+      "bytes": 4975,
+      "sha256": "74ce10249e4aed8d79d233705e82c701a677cb251f1733f0d200f4f58e3ebae8",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-clean-color-separated-nozzles-H2D.3mf",
+      "bytes": 1092040,
+      "sha256": "d3427976f1c5072335435e2bc782d7558b11aad4a6c01b557b9a67383275ffd2",
+      "role": "latest_wink_print_started_result_pending"
+    },
+    {
+      "path": "outputs/lion-wink-clean-color-separated-nozzles-notes.txt",
+      "bytes": 1332,
+      "sha256": "739520ec9365066dcf823ec6ea883874313d0bf34dcce0c353031015daae4b6c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-clean-color-separated-nozzles-sliced.gcode.3mf",
+      "bytes": 3170946,
+      "sha256": "97b04da8980dcdfcbbbfd751232d7f779b4478cc745e05fe7392f19f1dba9913",
+      "role": "latest_wink_historical_slice_do_not_send_without_review"
+    },
+    {
+      "path": "outputs/lion-wink-clean-color-separated-nozzles-validation.json",
+      "bytes": 11698,
+      "sha256": "311a53660d105e091ade825858045bfcf7c6a7566dfb7ca17b8c88ee23efd08e",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-H2D.3mf",
+      "bytes": 1150111,
+      "sha256": "8b44baed66cfcdac650e8ca69e9f2c128e746a76a015e5cef9a1be19cd2d42be",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-manufacturing.svg",
+      "bytes": 202934,
+      "sha256": "ed10705e4983ac74f9b96162a487f828148550d3d7627085a15591c80d114c75",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/01-Black.stl",
+      "bytes": 1160284,
+      "sha256": "3c01c11c257924db8872a8322d34a9b2f4a040473042753376c708b6a2a3c05c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/02-Jade-White.stl",
+      "bytes": 132684,
+      "sha256": "9ef4e32b21919534c52f2c602832c6d3a37c237eaf61f8e1d8f5130c97b39d22",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/03-Cyan.stl",
+      "bytes": 286884,
+      "sha256": "47dbe73d16a0d91910522bec66911c13446bd863adb5b4b15f047bf736561489",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/04-Sunflower-Yellow.stl",
+      "bytes": 223884,
+      "sha256": "1da899525d290a968dbbc39f87b56b1bfd7f4faa57046600ed9dde2cc5878d5d",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/05-Pumpkin-Orange.stl",
+      "bytes": 362484,
+      "sha256": "314ab74b60ead444220f4a254319a4b2d9abc1789cc47fc5faa45a0d3d04e49c",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts/06-Cocoa-Brown.stl",
+      "bytes": 149084,
+      "sha256": "23096bed84b817cc6d317c2a85979fed3f65b37b6fe4deec6d68a3fbe1b2e037",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-parts.zip",
+      "bytes": 471156,
+      "sha256": "6d0dd09b7f6df6a264af902bfe8ba39b3b9575db79e85a52f0ce309f7f53f03a",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-wink-lightbox-validation.json",
+      "bytes": 1805,
+      "sha256": "0be13bc01bd08ff682c899d91989725efd449a9844a7f46d2d1fac9b5c463d4b",
+      "role": "historical_output"
+    },
+    {
+      "path": "work/bambu-template.3mf",
+      "bytes": 533310,
+      "sha256": "9444fdba125ea8efed0341245985bb68582693ae3d6430160dc87daf00d3436b",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_clean_color.py",
+      "bytes": 5801,
+      "sha256": "83ce5ff807efe0466134afb28e6f7efbb3b399b877db0ff670839ce97575a78d",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_ironing_test.py",
+      "bytes": 9943,
+      "sha256": "3a9ade01f1ecd889d0d74162724f51d7ecd17ddc1f39103d60ce57eba0aaaff7",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_lightbox_lion.py",
+      "bytes": 9508,
+      "sha256": "f6d3881e99323bedba28a9845dc2fda8f3f7c1c592ec2153b36199a233850e4c",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_lightbox_pair.py",
+      "bytes": 8151,
+      "sha256": "749ff6d6d61b7fe733526b360f234ed34a3ba4db11641b96a922b28cad8e1beb",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_original_arachne.py",
+      "bytes": 8007,
+      "sha256": "b32a8b2bc1006e831e4a260fc555fb5d6a198cc915ff65e029f5dbfa466464a5",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_panel.py",
+      "bytes": 7622,
+      "sha256": "1c1bab37fa4bd19af31c6160c20d026bf8ac9656dc939ed570d4906886f50a94",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_pinhole_test.py",
+      "bytes": 13871,
+      "sha256": "821d20709a6f00da0ec9a032f94d1d15e4db79eff9b6a500fcbb54a1523c1ddd",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_wink_arachne.py",
+      "bytes": 8021,
+      "sha256": "9a3725f7c4f1f6374686b5a6e62337677576ff9fd9c6a09f0f494faf2ccd8bf3",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/check_lightbox_fit.py",
+      "bytes": 936,
+      "sha256": "9cd015f55b095bf320d51ef6d4cb31cd63e6dfe1e62da76ceca505ffd60a3ab5",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/check_pinhole_slice.py",
+      "bytes": 7030,
+      "sha256": "93ba36e4a687573ffcc82fe2585ba351acba7256ff389e5657d436a4e2a24f4b",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/configure_project.py",
+      "bytes": 2524,
+      "sha256": "c703beec32a2b9b49af0409538b80ebd3f5a129b32254d403eb98fc95c4f374a",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/finalize_lightbox_pair.py",
+      "bytes": 4334,
+      "sha256": "6f050c6ba1020eacd05b5dfa263e0d7d7380f288fb5aa816d4f84fb7c5ed5e07",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/inspect_lithophane.py",
+      "bytes": 1430,
+      "sha256": "63c79215cee8a500830ee53f725ff485378faf823f476fb4f255f41b37e1de79",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/lion-pair-studio-check.3mf",
+      "bytes": 1586650,
+      "sha256": "f4a09869b730d328e1cd211eb92f16101804c5feac8bc1ea5b2917e8b4a15e71",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/lion-pair-studio-success.3mf",
+      "bytes": 1586569,
+      "sha256": "8157bb0cc89ef606dc4a47db86303309c99af4789c590b1d462ae9f83e69997c",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/lithophane-original-bounds.json",
+      "bytes": 1647,
+      "sha256": "aec26e81947386463744a1f24155f6f654bca2d2030a0aa9b39d564f7bbd675b",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-2.npz",
+      "bytes": 2624,
+      "sha256": "970e48adebbf099554526fc84d4c482c9fe58dee04e3de66d6269c2bb9fd6cb1",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-2.stl",
+      "bytes": 4084,
+      "sha256": "6b66006fbd432223f68fd81ecbea3fc053e8e064cd38fa56b345626ba853c95e",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-7.npz",
+      "bytes": 677600,
+      "sha256": "26f681028cbaf566f54adc2696fd46561a0f5ec07c464775d91295edb26628bd",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-7.stl",
+      "bytes": 1410784,
+      "sha256": "7352d09017fa0311588804609154df29347ab3253cd41587eab564dbd66c5c77",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-9.npz",
+      "bytes": 1232,
+      "sha256": "dd2776af24eba1e77ec33c0dcfe6ffdad04ab27842eaf3895af9bcc85ca3e1df",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/original-object-9.stl",
+      "bytes": 1484,
+      "sha256": "385a5128b19adcdaf8f0d81444ff5ecc7d9b51dd106a2534c3ca2cf7a7415c5e",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/slice_ironing_test.py",
+      "bytes": 807,
+      "sha256": "6f04344e1ac937fe562429407dbfbeb2ad76a293bce4c4635f5bbafd98d56602",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/validate_clean_color.py",
+      "bytes": 5093,
+      "sha256": "54cd9cbeead19c180e2910b9bec3b1ef3052e702c5db27f4f246b684a8f466cc",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/validate_original_arachne.py",
+      "bytes": 3821,
+      "sha256": "e101f967df58a10464b9a097a64b23b6c3306e4d828a731cede1fb6a897ed70d",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/validate_separated_wink.py",
+      "bytes": 5057,
+      "sha256": "793e1ae4d58db74905e1ac3b330ea9f4e80a178608dd5cd6b0acd6f795757088",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "work/validate_wink_arachne.py",
+      "bytes": 3817,
+      "sha256": "719a1656c5522d8df1af223abe7880831f15758f380fcff5472c77803f76ab03",
+      "role": "rebuild_support"
+    },
+    {
+      "path": "sources/example_lithophane.3mf",
+      "bytes": 13418784,
+      "sha256": "e4e967f23dfe09e0b4721361b6c51f50dfe241352f5a0c4c33a15b7ec35af250",
+      "role": "user_supplied_source"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Generated with the built-in image_gen tool.
+Edit target: lion-panel-concept-v5.png.
+
+Use case: precise-object-edit.
+Asset type: 2D approval draft for a six-color PLA stained-glass-style lion panel.
+Input image: edit target, the user's approved lion panel version 5.
+Change only the lion's facial expression into a clearly winking, playfully smirking lion. Close one eye into a simple bold curved black eyelid with a gentle cheek lift, keeping the other original tall oval black eye and its white highlight. Make the mouth a clearly asymmetric closed-mouth smirk, with one corner lifted mischievously, expressed with a few smooth bold black curves within the white muzzle. Friendly and confident, not angry, mean, goofy, or toothy. Keep the familiar Apple-lion-emoji-inspired facial identity.
+Preserve the approved broad forehead, face length and width, nose, white muzzle proportions, full large orange mane and brown bottom mane, ears, placement, four simple cyan background panes, black dividers, exact existing outer black frame width and rounded corners. The outside edge must remain solid black all around. Do not shrink the mane or narrow the forehead.
+Style: straight-on flat 2D panel artwork, smooth clean closed shapes and strong black outlines suitable for tracing into 3D printable color regions. Retain only six existing colors: black, jade white, cyan, sunflower yellow, pumpkin orange, cocoa brown. Solid color fills, no additional colors or photoreal glass textures. No text, dimensions, mockup, perspective, extra objects or border redesign. Single complete square panel filling the image.

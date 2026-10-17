@@ -1,0 +1,33 @@
+ORIGINAL LION - ARACHNE, SNUG FIT
+
+Non-winking v5 lion. One panel on plate 1.
+Original housing and light guide remain on plates 2 and 3 in the project.
+Generated source package retains their mesh bytes, placement, and object settings.
+
+New panel dimensions: 108.2 x 144.2 x 2.5 mm.
+Previous panel: 108 x 144 x 2.5 mm. Increase is 0.1 mm per edge.
+Color panes remain 0.8 mm thick. The approved geometry is scaled in XY only.
+Physical fit of the enlarged insert must be assessed after cooling.
+
+Successful sample A settings applied:
+Arachne walls, seam gap 0%, no ironing; 0.1 mm layers with 0.2 mm first layer.
+100% zigzag infill; 20% infill/wall overlap.
+Top surface speed 50 mm/s; gap fill 30 mm/s; monotonic-line top surfaces.
+No rounded-corner or buried-ledge modifications.
+
+H2D with two standard 0.4 mm nozzles, textured PEI plate.
+Convenience Mode matches loaded filaments to nozzles:
+Left: White B3, Cyan B2, Cocoa Brown B4.
+Right: Sunflower Yellow A3, Orange A1, Black A4.
+Orange and Cocoa Brown identities verified in AMS material dialogs.
+
+Bambu Studio slice: 24 layers, 2 h 40 min 50 sec, 40.13 g including waste.
+Native saved geometry and slice verified; one lion object in exported plate.
+Bed leveling, flow dynamics calibration, nozzle offset calibration ON.
+Timelapse OFF.
+
+Final editable project: lion-original-arachne-snug-ready-H2D.3mf
+Final sliced plate: lion-original-arachne-snug-sliced.gcode.3mf
+Print status is recorded separately in lion-original-arachne-snug-validation.json.
+
+Sent once to Haute H2D on 2026-10-16; confirmed active, homing toolhead.

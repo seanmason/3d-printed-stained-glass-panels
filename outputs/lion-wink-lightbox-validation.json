@@ -1,0 +1,71 @@
+{
+  "source": "C:\\Users\\mason\\Downloads\\example_lithophane.3mf",
+  "output": "C:\\Users\\mason\\Documents\\Codex\\2026-09-15\\i-d\\outputs\\lion-wink-lightbox-H2D.3mf",
+  "insert_size_mm": [
+    108,
+    144,
+    2.5
+  ],
+  "colored_panes_mm": 0.8,
+  "fit": "Original rectangular mounting envelope matched exactly; physical fit untested",
+  "parts": [
+    {
+      "name": "Black",
+      "color": "#000000",
+      "height_mm": 2.5,
+      "volume_mm3": 7868.205522500011,
+      "triangles": 23204,
+      "watertight": true
+    },
+    {
+      "name": "Jade White",
+      "color": "#FFFFFF",
+      "height_mm": 0.8,
+      "volume_mm3": 469.71873680000004,
+      "triangles": 2652,
+      "watertight": true
+    },
+    {
+      "name": "Cyan",
+      "color": "#0086D6",
+      "height_mm": 0.8,
+      "volume_mm3": 6624.541955599998,
+      "triangles": 5736,
+      "watertight": true
+    },
+    {
+      "name": "Sunflower Yellow",
+      "color": "#FEC600",
+      "height_mm": 0.8,
+      "volume_mm3": 796.9988663999999,
+      "triangles": 4476,
+      "watertight": true
+    },
+    {
+      "name": "Pumpkin Orange",
+      "color": "#FF9016",
+      "height_mm": 0.8,
+      "volume_mm3": 1314.1809004,
+      "triangles": 7248,
+      "watertight": true
+    },
+    {
+      "name": "Cocoa Brown",
+      "color": "#6F5034",
+      "height_mm": 0.8,
+      "volume_mm3": 718.3337736,
+      "triangles": 2980,
+      "watertight": true
+    }
+  ],
+  "retained_objects_checks": {
+    "3D/Objects/object_2.model": true,
+    "3D/Objects/object_3.model": true,
+    "object_8_assembly": true,
+    "object_8_placement": true,
+    "object_8_settings": true,
+    "object_10_assembly": true,
+    "object_10_placement": true,
+    "object_10_settings": true
+  }
+}

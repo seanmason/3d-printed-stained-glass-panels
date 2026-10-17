@@ -1,0 +1,8 @@
+# Lion panel v5
+
+Built-in image generation edit of version 4. Visual draft only; border reduction is approximate, not a CAD measurement. Black outer edge retained.
+
+## Prompt
+
+Edit the supplied approved version 4 image. Make ONLY a modest reduction in the OUTER black border thickness: reduce BY about 20 percent, meaning RETAIN 80 percent of its current thickness. Original border on straight sides is roughly 50 image pixels; the new border should be roughly 40 image pixels, NOT 10 or 15 pixels. Keep the same outside dimensions and expand the enclosed cyan panes outward into only the innermost approximately 10 pixels of the original border. The outermost edge of the panel and image MUST remain solid BLACK on every side. NO blue outside the frame, NO cyan margins, NO detached thin black outline floating inside a blue square. All cyan must be contained inside the thick continuous black frame. Black must extend from the frame to the canvas edges, as in the reference. Preserve rounded INNER frame corners. The perimeter must still look substantial, only subtly thinner than the supplied reference.
+Preserve the lion artwork EXACTLY: broad forehead, full cocoa brown lower mane, face and muzzle proportions, eyes, expression, swept orange forelock, all interior line weights, colors, placement and scale. Preserve the four cyan panes and their internal black dividing bars exactly. Do not alter internal dividers. Only gently enlarge the background pane boundaries toward the outer edge to achieve 80% of the old outer border thickness. Same square image and front view, no extra elements or text.

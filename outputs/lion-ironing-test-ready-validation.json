@@ -1,0 +1,184 @@
+{
+  "output": "C:\\Users\\mason\\Documents\\Codex\\2026-09-15\\i-d\\outputs\\lion-ironing-test-ready-H2D.3mf",
+  "coupon_size_mm": [
+    62,
+    52,
+    2.5
+  ],
+  "crop_source_mm": [
+    -50,
+    -32,
+    10,
+    18
+  ],
+  "colored_panes_mm": 0.8,
+  "first_layer_mm": 0.2,
+  "layer_height_mm": 0.1,
+  "common_settings": {
+    "layer_height": "0.1",
+    "sparse_infill_density": "100%",
+    "sparse_infill_pattern": "zig-zag",
+    "enable_support": "0",
+    "brim_type": "no_brim",
+    "top_surface_speed": "50",
+    "gap_infill_speed": "30",
+    "infill_wall_overlap": "20%",
+    "top_surface_pattern": "monotonicline",
+    "ironing_speed": "30",
+    "ironing_flow": "10%",
+    "ironing_spacing": "0.15",
+    "ironing_pattern": "zig-zag"
+  },
+  "A_ironing": "off",
+  "B_ironing": "Top surfaces",
+  "colors_by_project_slot": {
+    "7": "Black",
+    "1": "Jade White",
+    "2": "Cyan",
+    "3": "Sunflower Yellow",
+    "4": "Pumpkin Orange",
+    "6": "Cocoa Brown"
+  },
+  "parts": [
+    {
+      "name": "Black",
+      "color": "#000000",
+      "volume_mm3": 2048.540990000001,
+      "watertight": true,
+      "triangles": 8340
+    },
+    {
+      "name": "Jade White",
+      "color": "#FFFFFF",
+      "volume_mm3": 344.3470496,
+      "watertight": true,
+      "triangles": 1736
+    },
+    {
+      "name": "Cyan",
+      "color": "#0086D6",
+      "volume_mm3": 507.99659680000013,
+      "watertight": true,
+      "triangles": 1432
+    },
+    {
+      "name": "Sunflower Yellow",
+      "color": "#FEC600",
+      "volume_mm3": 402.1866292,
+      "watertight": true,
+      "triangles": 1788
+    },
+    {
+      "name": "Pumpkin Orange",
+      "color": "#FF9016",
+      "volume_mm3": 275.58116320000005,
+      "watertight": true,
+      "triangles": 2044
+    },
+    {
+      "name": "Cocoa Brown",
+      "color": "#6F5034",
+      "volume_mm3": 393.55544439999994,
+      "watertight": true,
+      "triangles": 1260
+    }
+  ],
+  "geometry_validated": true,
+  "slicer_validated": true,
+  "print_started": true,
+  "serialized_geometry_checks": [
+    {
+      "path": "3D/Objects/object_1.model",
+      "footprint_mm2": 3224.0,
+      "watertight": true
+    },
+    {
+      "path": "3D/Objects/object_4.model",
+      "footprint_mm2": 3224.0,
+      "watertight": true
+    }
+  ],
+  "sha256": "540f3f7489ca526bac134623e6fbd5cb89994f10c6e6f5d93c043411ec16547a",
+  "full_insert_file_unchanged": true,
+  "estimated_time": "2h22m",
+  "estimated_filament_g": 26.02,
+  "model_filament_g": 9.85,
+  "ironing_duration": "11m7s",
+  "printer": "Haute - Bambu Lab H2D",
+  "calibrations_enabled": [
+    "bed leveling",
+    "flow dynamics",
+    "nozzle offset"
+  ],
+  "color_substitutions": {
+    "orange": "Magenta",
+    "cocoa brown": "Blue Gray"
+  },
+  "ams_mapping": {
+    "White": "B3",
+    "Cyan": "B2",
+    "Sunflower Yellow": "A3",
+    "Magenta": "A2",
+    "Blue Gray": "B4",
+    "Black": "A4"
+  },
+  "slice_plate_metadata": {
+    "bbox_all": [
+      40.0,
+      134.0,
+      246.00000000000003,
+      286.0
+    ],
+    "bbox_objects": [
+      {
+        "area": 3223.99755859375,
+        "bbox": [
+          104.00000000000001,
+          134.0,
+          166.0,
+          186.00000000000003
+        ],
+        "id": 12717,
+        "layer_height": 0.20000000298023224,
+        "name": "A - no ironing"
+      },
+      {
+        "area": 3223.99755859375,
+        "bbox": [
+          184.00000000000003,
+          134.0,
+          246.00000000000003,
+          186.00000000000003
+        ],
+        "id": 12718,
+        "layer_height": 0.20000000298023224,
+        "name": "B - top-surface ironing"
+      },
+      {
+        "area": 3223.99755859375,
+        "bbox": [
+          40.0,
+          235.00000000000003,
+          75.0,
+          286.0
+        ],
+        "id": 1000,
+        "layer_height": 0.20000000298023224,
+        "name": "wipe_tower"
+      }
+    ],
+    "bed_type": "textured_plate",
+    "filament_colors": [],
+    "filament_ids": [],
+    "first_extruder": 2,
+    "first_layer_time": 1120.8968505859375,
+    "is_seq_print": false,
+    "nozzle_diameter": 0.4000000059604645,
+    "version": 2
+  },
+  "send_status": "Printer accepted the job and entered Homing toolhead",
+  "start_confirmed_date": "2026-10-13",
+  "printer_job_name": "lion-ironing-test-ready-H2D_Lion seam and ironing test",
+  "estimated_finish_displayed": "20:03",
+  "output_sha256": "d367a5b510fe4c65ad4e21be99514a7fef4a14a9d8929e21d86ebedff4afaa74"
+}

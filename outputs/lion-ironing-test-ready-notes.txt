@@ -1,0 +1,21 @@
+LION IRONING COMPARISON - 2026-10-13
+
+Printer: Haute, Bambu Lab H2D, 0.4 mm standard nozzles.
+Left sample A: no ironing. Right sample B: Top surfaces ironing.
+Each sample: 62 x 52 mm, 2.5 mm black height, 0.8 mm colored panes.
+Both: 0.1 mm layers (0.2 mm first layer), 100% infill, Classic walls,
+50 mm/s top surfaces, 30 mm/s gap fill, 20% infill/wall overlap.
+Ironing B: rectilinear, 30 mm/s, 10% flow, 0.15 mm spacing.
+Bed leveling, flow dynamics, and nozzle offset calibration enabled.
+
+Loaded PLA Basic substitutions for this test only:
+Magenta replaces orange; Blue Gray replaces cocoa brown.
+AMS mapping: White B3, Cyan B2, Sunflower Yellow A3, Magenta A2,
+Blue Gray B4, Black A4. All six colors match the final print dialog.
+
+Bambu Studio slice estimate: 2h22m, 26.02 g including purge waste.
+Models use 9.85 g; ironing accounts for 11m7s. Startup calibrations may
+add time. Compare both samples under the same light and backlight.
+
+Print start verified in Bambu Studio: Haute accepted this job and entered
+Homing toolhead at 0%, layer 0/24. Displayed finish estimate: 20:03.

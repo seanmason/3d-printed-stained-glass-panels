@@ -1,0 +1,68 @@
+LION PANELS - COLOR CONTAMINATION / STRINGING TRIAL, 2026-10-17
+
+Final editable Bambu Studio projects:
+lion-wink-arachne-snug-clean-color-verified-H2D.3mf
+lion-original-arachne-snug-clean-color-verified-H2D.3mf
+
+Final local sliced plates:
+lion-wink-arachne-snug-clean-color-sliced.gcode.3mf
+lion-original-arachne-snug-clean-color-sliced.gcode.3mf
+
+Both were loaded, sliced, and saved by Bambu Studio 02.08.02.61.
+The native saved settings and exported G-code were checked independently.
+Not sent to the printer. Physical improvement has not yet been tested.
+
+UNCHANGED
+108.2 x 144.2 x 2.5 mm, 0.8 mm color panes.
+Approved geometry, housing, light guide, object placements and other-object settings.
+Arachne walls, 0% seam gap, 0.1 mm layers, 0.2 mm first layer, no panel ironing.
+100% infill, 20% infill/wall overlap, calibrated flow settings.
+Dual standard 0.4 mm H2D nozzles and textured PEI plate.
+Plate 1 only contains the selected lion and its prime tower.
+
+CHANGES
+Black subsequent-layer nozzle temperature: 220 -> 215 C; first layer remains 220 C.
+Black standard-hotend retraction: 0.4 -> 0.6 mm.
+Black wipe distance: 1 -> 2 mm, with 70% of retraction before wiping.
+Reduce infill retraction: Disabled, so normal travel retractions remain active.
+Avoid crossing wall: enabled on the lion object, with unlimited detour allowance.
+Prime tower: 45 mm wide, kept at x40/y245.
+Prime volume after a filament change: 30 -> 45 mm3.
+Prime volume after a hotend change: 60 -> 90 mm3.
+No flushing into the panel or its infill.
+Both purge matrices updated for these source -> destination transitions:
+  Cocoa Brown -> White: at least 900 mm3 (previously 660).
+  Cocoa Brown -> Cyan: at least 500 mm3 (previously 330).
+  Black -> Orange: at least 850 mm3 (previously 640 / 655).
+  Orange -> Yellow: at least 500 mm3 (previously 375 / 390).
+Black -> Yellow already used 900 mm3 and remains at that value.
+Global flush multipliers remain 1.0.
+These extra purge amounts are a conservative trial, not calibrated minimums.
+
+EXPECTED AMS MAPPING - verify again before a future print
+Left: White B3, Cyan B2, Cocoa Brown B4.
+Right: Yellow A3, Orange A1, Black A4.
+Black and White use separate nozzles, but Brown can contaminate White/Cyan
+and Black can contaminate Yellow/Orange within their respective shared nozzles.
+Surface strands can also be carried by a dirty nozzle, wiper, or idle nozzle.
+
+VALIDATED SLICES
+Winking: 24 layers, 2 h 41 min 54 sec, 38.96 g including waste.
+Original: 24 layers, 2 h 46 min 34 sec, 41.52 g including waste.
+Both towers and panels fit inside the common H2D dual-nozzle print area.
+Black 215 C commands and the revised filament settings occur in exported G-code.
+See each clean-color-validation.json for bounds, checks and file hashes.
+
+PHYSICAL CHECK BEFORE TEST PRINT
+Remove black residue from nozzle tips / silicone socks and the wiping pad.
+Inspect the idle-nozzle flow blocker for residue, damage, or a visible sealing gap.
+Let the nozzles cool to room temperature before inspecting/adjusting the blocker.
+Dry suspect filament using Bambu's instructions for that exact material/spool.
+These physical checks have not been performed remotely.
+
+Reference: Bambu Lab H2D 3D Printing User Manual, sections 9.7, 11.8.4, 11.8.5
+https://csm.bblcdn.com/hub/4668d0ca43994ff3bff4b37f1a65c2e7.pdf
+
+If tint remains within the deposited light filament, investigate purge carryover.
+If clean-color hairs/streaks remain on top, prioritize nozzle/wiper/blocker and drying.
+Assess the printed result before making further temperature/retraction changes.

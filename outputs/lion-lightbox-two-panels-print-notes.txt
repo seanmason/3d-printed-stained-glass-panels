@@ -1,0 +1,36 @@
+LION LIGHT-BOX INSERTS - H2D
+
+Plate 1: Winking lion (left), original non-winking lion v5 (right).
+Plate 2: Original light-box housing, unchanged.
+Plate 3: Original light guide, unchanged.
+
+Dimensions, each insert: 108 x 144 mm. Black perimeter and dividers: 2.5 mm tall.
+Colored sections: 0.8 mm thick, flat underside. Lion proportions preserved.
+Mounting outline and maximum rim thickness match the original lithophane exactly.
+Actual printed fit is not yet physically tested.
+
+PLA Basic project color numbers:
+1 Jade White - muzzle and highlights; original light guide
+2 Cyan - background
+3 Sunflower Yellow - face and outer ears
+4 Pumpkin Orange - upper mane
+5 Charcoal Black - original housing only
+6 Cocoa Brown - lower mane and inner ears
+7 Black - insert perimeter, dividers, eyes, nose and mouth
+
+H2D: 0.4 mm standard nozzles, one AMS on each nozzle.
+Insert object overrides: 0.1 mm layers, 100% infill, no supports, no brim.
+The first layer remains 0.2 mm. Total insert height is 2.5 mm (24 layers).
+Keep both panels as multipart objects so every region retains its assigned color.
+The purge tower on plate 1 was moved to X=40, Y=245 for bed clearance.
+Thin PLA color panes may transmit light, with brightness depending on filament.
+
+Before sending a print, use filament names/numbers to map the six insert colors to
+physical AMS slots. Project color numbers are not physical AMS slot numbers.
+
+Validated in Bambu Studio 02.08.02.61: plate 1 reports "Slice ok".
+Estimate: 4h34m, 60.31 g including purge waste. Editable project; slice again
+after changing filaments or printer configuration.
+Current automatic nozzle grouping: left = 1 White, 2 Cyan, 4 Orange, 6 Brown;
+right = 3 Yellow, 7 Black. Choose Convenience Mode if this differs from the
+loaded AMS distribution; Bambu Studio will then generate a new grouping.
