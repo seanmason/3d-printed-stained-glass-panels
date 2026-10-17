@@ -3,5 +3,7 @@ __pycache__/
 .venv/
 work/pydeps/
 work/*scratch*/
+archive/work/pydeps/
+archive/work/*scratch*/
 *.log
 .DS_Store

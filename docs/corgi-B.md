@@ -1,8 +1,8 @@
 # Corgi B: at your side
 
-Latest editable project: [corgi-B-arachne-snug-v2-verified-H2D.3mf](../outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf).
+Latest editable project: [corgi-B-arachne-snug-v2-verified-H2D.3mf](../archive/outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf).
 
-![Actual manufacturing geometry](../outputs/corgi-B-arachne-snug-preview.png)
+![Actual manufacturing geometry](../archive/outputs/corgi-B-arachne-snug-preview.png)
 
 ## Design and status
 
@@ -42,4 +42,4 @@ Silk+ and Metal can transmit light differently from Basic; the seven-color appea
 
 Use the v2 verified native project for editing. The generated `-H2D.3mf` is the pre-native source; the `-v2-sliced.gcode.3mf` is slice evidence. Recheck loaded materials and re-slice before sending a future job. The part ZIP contains seven aligned STLs: import together as one multipart object to preserve registration. The SVG preserves the manufacturing partition, and the PNG shows its flat colors.
 
-`work/build_corgi.py` regenerates geometry from the library-palette rendering and the separated-nozzle lion template. `work/validate_corgi.py` validates the native model and slice; `work/check_corgi_toolpaths.py` generates the diagnostic projection. Read the validation JSON for hashes and evidence limits. Earlier local corgi files without `v2` in their native/sliced filenames are superseded and were not promoted into this repository.
+`archive/work/build_corgi.py` regenerates geometry from the library-palette rendering and the separated-nozzle lion template. `archive/work/validate_corgi.py` validates the native model and slice; `archive/work/check_corgi_toolpaths.py` generates the diagnostic projection. Read the validation JSON for hashes and evidence limits. Earlier local corgi files without `v2` in their native/sliced filenames are superseded and were not promoted into this repository.

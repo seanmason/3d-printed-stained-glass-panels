@@ -13,9 +13,9 @@ Read README.md, docs/design-history.md, docs/printing.md, and the relevant catal
 
 ## Current handoff
 
-Latest wink project: outputs/lion-wink-clean-color-separated-nozzles-H2D.3mf. Its print was started once on 2026-10-17; completion and physical result remain unconfirmed in the saved record. Do not resend it merely because this archive is opened.
+Latest wink project: archive/outputs/lion-wink-clean-color-separated-nozzles-H2D.3mf. Its print was started once on 2026-10-17; completion and physical result remain unconfirmed in the saved record. Do not resend it merely because this archive is opened.
 
-Corgi: B is now a seven-color, native-saved and slice-verified model: outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf. Read docs/corgi-B.md for first-print checks and material routing. No corgi print has been sent. The artwork source is outputs/corgi-panel-B-library-palette-v1.png and its JSON. Preserve the upward/right gaze, long tapered muzzle, very large upright ears, gentle closed mouth, dark saddle, and cream chest. Quantize to actual printable regions rather than reproducing rendered shading. Use material-specific Basic, Silk+, and Metal profiles; do not apply Basic settings indiscriminately.
+Corgi: B is now a seven-color, native-saved and slice-verified model: archive/outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf. Read docs/corgi-B.md for first-print checks and material routing. No corgi print has been sent. The artwork source is archive/outputs/corgi-panel-B-library-palette-v1.png and its JSON. Preserve the upward/right gaze, long tapered muzzle, very large upright ears, gentle closed mouth, dark saddle, and cream chest. Quantize to actual printable regions rather than reproducing rendered shading. Use material-specific Basic, Silk+, and Metal profiles; do not apply Basic settings indiscriminately.
 
 ## Required checks for changes
 
@@ -29,3 +29,9 @@ Corgi: B is now a seven-color, native-saved and slice-verified model: outputs/co
 Printer actions require authorization for the current job and a clear, ready bed. Past print authorization is not standing permission to print future designs. Send a job once and confirm status; reconcile an uncertain send before retrying. File edits and slicing can proceed within an authorized design task.
 
 Keep secrets, printer connection credentials, access codes, local account databases, and screenshots of unrelated work out of the repository. Do not operate on unrelated open Bambu Studio or Fusion projects.
+
+## Publication layout
+
+Humans start at models/README.md. Keep exactly one current editable project per design there, with a preview and accurate validation status. Tests belong under tests/. Historical evidence is in archive/{outputs,work,sources}; preserve those sibling paths for script compatibility. When promoting a model, copy the validated native artifact byte-for-byte into its curated folder, update the catalog source/hash mapping, and run tools/verify_archive.py. Do not silently promote an unprinted model to physically validated status. Never replace a current model with raw generated geometry before native saving and slicing.
+
+Material sample: tests/material-sample/ contains the native-saved, slice-verified seven-filament thickness/junction coupon. No print has been sent. Collect observations in its results.csv before choosing corgi pane thickness or changing the approved palette.
