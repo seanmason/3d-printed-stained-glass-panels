@@ -20,10 +20,16 @@ This is a preserved iterative workflow, not a fully unattended one-command rebui
 
 ## Important implementation details
 
-Raster regions were classified by color, converted to polygons, repaired/partitioned, and extruded. The black frame is the remaining outline region. Keep the resulting partition closed and avoid disconnected slivers or tiny junction gaps. This lion-specific color classifier will need adaptation for the seven-color corgi palette.
+Raster regions were classified by color, converted to polygons, repaired/partitioned, and extruded. The black frame is the remaining outline region. Keep the resulting partition closed and avoid disconnected slivers or tiny junction gaps. The corgi-specific classifier is in `work/build_corgi.py`; it separates the approved artwork into seven flat materials.
 
 The 3MF archive contains mesh XML, model/object settings, project settings, thumbnails, and sometimes slice metadata. Validate the geometry after Bambu Studio serializes it, not just before opening it. `different_settings_to_system` has process, seven filament, and printer entries in these projects; unregistered custom fields can silently return to profile defaults.
 
 Preserve housing/light-guide mesh and placement evidence when editing inserts. Check positive volume and watertightness for all six lion parts, total XYZ bounds, layer heights, part filament indices, actual nozzle routing, absence of ironing, and the tower plus panel bounds inside the common dual-nozzle area. Archived latest bounds were X40–229.1 and Y77.9–303.5 mm, within the working common area X25–325/Y0–320.
 
 The archived reports retain old absolute paths as provenance. Resolve filenames through `outputs/`; do not expect those old user directories to exist. Source-lightbox paths in the scripts now point into `sources/`, and the system profile lookup uses APPDATA. The historical CLI slicer still assumes the standard Windows Bambu Studio installation path.
+
+## Corgi B build
+
+Run `python work/build_corgi.py` in a working copy, then open the generated corgi project in Studio, confirm the custom nozzle groups, slice plate 1, and Save As `corgi-B-arachne-snug-v2-verified-H2D.3mf`. Export plate 1 to `corgi-B-arachne-snug-v2-sliced.gcode.3mf`. Run `work/validate_corgi.py`, then `work/check_corgi_toolpaths.py`. Generation overwrites its report with an unsliced state; revalidation is mandatory.
+
+When expanding from seven to eight project filament entries, extend `inherits_group`, `compatible_printers_condition_group`, and `different_settings_to_system` (process + filaments + printer). Update profile inheritance as well as display names: otherwise Silk+ can silently inherit Basic temperatures after native saving. Explicit plate-level `filament_map_mode=Manual` is also required; check the exported G-code map, not just global config. These fixes were verified in the final saved corgi slice.

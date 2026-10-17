@@ -1,0 +1,673 @@
+{
+  "source": "lion-wink-clean-color-separated-nozzles-H2D.3mf",
+  "project": "corgi-B-arachne-snug-H2D.3mf",
+  "dimensions_mm": [
+    108.2,
+    144.2,
+    2.5
+  ],
+  "colored_panes_mm": 0.8,
+  "parts": [
+    {
+      "name": "Black",
+      "color": "#000000",
+      "height_mm": 2.5,
+      "watertight": true,
+      "volume_mm3": 10064.98999499999,
+      "triangles": 29228,
+      "regions": 1
+    },
+    {
+      "name": "Jade White",
+      "color": "#FFFFFF",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 352.87659279999997,
+      "triangles": 1984,
+      "regions": 5
+    },
+    {
+      "name": "Cyan",
+      "color": "#0086D6",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 3568.041872000001,
+      "triangles": 4612,
+      "regions": 11
+    },
+    {
+      "name": "Gold",
+      "color": "#F4A925",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 1881.1392852,
+      "triangles": 9440,
+      "regions": 15
+    },
+    {
+      "name": "Champagne",
+      "color": "#F3CFB2",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 1309.2833792000001,
+      "triangles": 5164,
+      "regions": 13
+    },
+    {
+      "name": "Cocoa Brown",
+      "color": "#6F5034",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 1335.7770528000003,
+      "triangles": 4040,
+      "regions": 14
+    },
+    {
+      "name": "Copper Brown Metallic",
+      "color": "#AA6443",
+      "height_mm": 0.8,
+      "watertight": true,
+      "volume_mm3": 814.0370196,
+      "triangles": 3408,
+      "regions": 13
+    }
+  ],
+  "partition_area_mm2": 15602.439999999999,
+  "overlap_area_mm2": 0,
+  "uncovered_area_mm2": 0,
+  "retained_housing_and_guide_unchanged": true,
+  "black_boundary_expansion_mm": 0.12,
+  "outer_border_min_mm": 2.6,
+  "slots": [
+    "#FFFFFF",
+    "#0086D6",
+    "#F4A925",
+    "#F3CFB2",
+    "#222222",
+    "#6F5034",
+    "#000000",
+    "#AA6443"
+  ],
+  "nozzle_groups": {
+    "left": [
+      "Cocoa Brown",
+      "Black",
+      "Copper Brown Metallic"
+    ],
+    "right": [
+      "Jade White",
+      "Cyan",
+      "Gold",
+      "Champagne"
+    ]
+  },
+  "slicer_validated": true,
+  "print_started": false,
+  "physical_result_validated": false,
+  "sha256": "980f4247c0f42d0ddc8ef204316b051fa6c23ee31e4d09afe80b4465f84926bf",
+  "cells": [
+    {
+      "label": 1,
+      "color": "Jade White",
+      "pixels": 3201
+    },
+    {
+      "label": 3,
+      "color": "Jade White",
+      "pixels": 44
+    },
+    {
+      "label": 6,
+      "color": "Jade White",
+      "pixels": 130
+    },
+    {
+      "label": 8,
+      "color": "Jade White",
+      "pixels": 99
+    },
+    {
+      "label": 9,
+      "color": "Jade White",
+      "pixels": 68
+    },
+    {
+      "label": 12,
+      "color": "Jade White",
+      "pixels": 80
+    },
+    {
+      "label": 13,
+      "color": "Jade White",
+      "pixels": 98
+    },
+    {
+      "label": 14,
+      "color": "Jade White",
+      "pixels": 83
+    },
+    {
+      "label": 15,
+      "color": "Jade White",
+      "pixels": 174
+    },
+    {
+      "label": 17,
+      "color": "Jade White",
+      "pixels": 42
+    },
+    {
+      "label": 18,
+      "color": "Jade White",
+      "pixels": 309
+    },
+    {
+      "label": 19,
+      "color": "Jade White",
+      "pixels": 109
+    },
+    {
+      "label": 21,
+      "color": "Jade White",
+      "pixels": 79
+    },
+    {
+      "label": 25,
+      "color": "Jade White",
+      "pixels": 176
+    },
+    {
+      "label": 26,
+      "color": "Jade White",
+      "pixels": 30960
+    },
+    {
+      "label": 30,
+      "color": "Jade White",
+      "pixels": 15797
+    },
+    {
+      "label": 33,
+      "color": "Jade White",
+      "pixels": 138
+    },
+    {
+      "label": 34,
+      "color": "Jade White",
+      "pixels": 56
+    },
+    {
+      "label": 35,
+      "color": "Jade White",
+      "pixels": 165
+    },
+    {
+      "label": 36,
+      "color": "Jade White",
+      "pixels": 78
+    },
+    {
+      "label": 38,
+      "color": "Jade White",
+      "pixels": 46
+    },
+    {
+      "label": 39,
+      "color": "Jade White",
+      "pixels": 287
+    },
+    {
+      "label": 40,
+      "color": "Jade White",
+      "pixels": 52
+    },
+    {
+      "label": 43,
+      "color": "Jade White",
+      "pixels": 41
+    },
+    {
+      "label": 44,
+      "color": "Jade White",
+      "pixels": 219
+    },
+    {
+      "label": 45,
+      "color": "Jade White",
+      "pixels": 36
+    },
+    {
+      "label": 46,
+      "color": "Jade White",
+      "pixels": 112
+    },
+    {
+      "label": 48,
+      "color": "Jade White",
+      "pixels": 40
+    },
+    {
+      "label": 50,
+      "color": "Jade White",
+      "pixels": 62
+    },
+    {
+      "label": 51,
+      "color": "Jade White",
+      "pixels": 50
+    },
+    {
+      "label": 54,
+      "color": "Jade White",
+      "pixels": 65
+    },
+    {
+      "label": 1,
+      "color": "Cyan",
+      "pixels": 55438
+    },
+    {
+      "label": 2,
+      "color": "Cyan",
+      "pixels": 62734
+    },
+    {
+      "label": 3,
+      "color": "Cyan",
+      "pixels": 73664
+    },
+    {
+      "label": 4,
+      "color": "Cyan",
+      "pixels": 15914
+    },
+    {
+      "label": 6,
+      "color": "Cyan",
+      "pixels": 41406
+    },
+    {
+      "label": 7,
+      "color": "Cyan",
+      "pixels": 7360
+    },
+    {
+      "label": 9,
+      "color": "Cyan",
+      "pixels": 25614
+    },
+    {
+      "label": 10,
+      "color": "Cyan",
+      "pixels": 55117
+    },
+    {
+      "label": 13,
+      "color": "Cyan",
+      "pixels": 33627
+    },
+    {
+      "label": 19,
+      "color": "Cyan",
+      "pixels": 63917
+    },
+    {
+      "label": 22,
+      "color": "Cyan",
+      "pixels": 32758
+    },
+    {
+      "label": 1,
+      "color": "Gold",
+      "pixels": 16713
+    },
+    {
+      "label": 2,
+      "color": "Gold",
+      "pixels": 26219
+    },
+    {
+      "label": 3,
+      "color": "Gold",
+      "pixels": 29586
+    },
+    {
+      "label": 4,
+      "color": "Gold",
+      "pixels": 24236
+    },
+    {
+      "label": 5,
+      "color": "Gold",
+      "pixels": 304
+    },
+    {
+      "label": 6,
+      "color": "Gold",
+      "pixels": 10145
+    },
+    {
+      "label": 7,
+      "color": "Gold",
+      "pixels": 13173
+    },
+    {
+      "label": 8,
+      "color": "Gold",
+      "pixels": 31543
+    },
+    {
+      "label": 9,
+      "color": "Gold",
+      "pixels": 179
+    },
+    {
+      "label": 10,
+      "color": "Gold",
+      "pixels": 8838
+    },
+    {
+      "label": 11,
+      "color": "Gold",
+      "pixels": 44967
+    },
+    {
+      "label": 12,
+      "color": "Gold",
+      "pixels": 5048
+    },
+    {
+      "label": 13,
+      "color": "Gold",
+      "pixels": 22294
+    },
+    {
+      "label": 14,
+      "color": "Gold",
+      "pixels": 13262
+    },
+    {
+      "label": 15,
+      "color": "Gold",
+      "pixels": 7354
+    },
+    {
+      "label": 1,
+      "color": "Champagne",
+      "pixels": 16972
+    },
+    {
+      "label": 3,
+      "color": "Champagne",
+      "pixels": 6010
+    },
+    {
+      "label": 5,
+      "color": "Champagne",
+      "pixels": 23868
+    },
+    {
+      "label": 6,
+      "color": "Champagne",
+      "pixels": 722
+    },
+    {
+      "label": 7,
+      "color": "Champagne",
+      "pixels": 16761
+    },
+    {
+      "label": 8,
+      "color": "Champagne",
+      "pixels": 37725
+    },
+    {
+      "label": 10,
+      "color": "Champagne",
+      "pixels": 400
+    },
+    {
+      "label": 11,
+      "color": "Champagne",
+      "pixels": 731
+    },
+    {
+      "label": 12,
+      "color": "Champagne",
+      "pixels": 2614
+    },
+    {
+      "label": 13,
+      "color": "Champagne",
+      "pixels": 30179
+    },
+    {
+      "label": 14,
+      "color": "Champagne",
+      "pixels": 12944
+    },
+    {
+      "label": 15,
+      "color": "Champagne",
+      "pixels": 18211
+    },
+    {
+      "label": 16,
+      "color": "Champagne",
+      "pixels": 9132
+    },
+    {
+      "label": 2,
+      "color": "Cocoa Brown",
+      "pixels": 3143
+    },
+    {
+      "label": 7,
+      "color": "Cocoa Brown",
+      "pixels": 1178
+    },
+    {
+      "label": 9,
+      "color": "Cocoa Brown",
+      "pixels": 446
+    },
+    {
+      "label": 16,
+      "color": "Cocoa Brown",
+      "pixels": 1644
+    },
+    {
+      "label": 23,
+      "color": "Cocoa Brown",
+      "pixels": 5547
+    },
+    {
+      "label": 24,
+      "color": "Cocoa Brown",
+      "pixels": 429
+    },
+    {
+      "label": 36,
+      "color": "Cocoa Brown",
+      "pixels": 40
+    },
+    {
+      "label": 42,
+      "color": "Cocoa Brown",
+      "pixels": 5303
+    },
+    {
+      "label": 48,
+      "color": "Cocoa Brown",
+      "pixels": 19917
+    },
+    {
+      "label": 50,
+      "color": "Cocoa Brown",
+      "pixels": 10092
+    },
+    {
+      "label": 58,
+      "color": "Cocoa Brown",
+      "pixels": 30968
+    },
+    {
+      "label": 70,
+      "color": "Cocoa Brown",
+      "pixels": 31128
+    },
+    {
+      "label": 78,
+      "color": "Cocoa Brown",
+      "pixels": 5249
+    },
+    {
+      "label": 81,
+      "color": "Cocoa Brown",
+      "pixels": 12066
+    },
+    {
+      "label": 88,
+      "color": "Cocoa Brown",
+      "pixels": 36
+    },
+    {
+      "label": 102,
+      "color": "Cocoa Brown",
+      "pixels": 40
+    },
+    {
+      "label": 104,
+      "color": "Cocoa Brown",
+      "pixels": 52274
+    },
+    {
+      "label": 1,
+      "color": "Copper Brown Metallic",
+      "pixels": 9225
+    },
+    {
+      "label": 2,
+      "color": "Copper Brown Metallic",
+      "pixels": 6772
+    },
+    {
+      "label": 3,
+      "color": "Copper Brown Metallic",
+      "pixels": 4126
+    },
+    {
+      "label": 4,
+      "color": "Copper Brown Metallic",
+      "pixels": 3811
+    },
+    {
+      "label": 5,
+      "color": "Copper Brown Metallic",
+      "pixels": 418
+    },
+    {
+      "label": 6,
+      "color": "Copper Brown Metallic",
+      "pixels": 2637
+    },
+    {
+      "label": 9,
+      "color": "Copper Brown Metallic",
+      "pixels": 3049
+    },
+    {
+      "label": 13,
+      "color": "Copper Brown Metallic",
+      "pixels": 97
+    },
+    {
+      "label": 14,
+      "color": "Copper Brown Metallic",
+      "pixels": 2984
+    },
+    {
+      "label": 15,
+      "color": "Copper Brown Metallic",
+      "pixels": 8682
+    },
+    {
+      "label": 16,
+      "color": "Copper Brown Metallic",
+      "pixels": 50
+    },
+    {
+      "label": 17,
+      "color": "Copper Brown Metallic",
+      "pixels": 2058
+    },
+    {
+      "label": 18,
+      "color": "Copper Brown Metallic",
+      "pixels": 10672
+    },
+    {
+      "label": 20,
+      "color": "Copper Brown Metallic",
+      "pixels": 56086
+    }
+  ],
+  "native_project": "C:\\Users\\mason\\Documents\\Codex\\2026-09-15\\i-d\\outputs\\corgi-B-arachne-snug-v2-verified-H2D.3mf",
+  "sliced_plate": "C:\\Users\\mason\\Documents\\Codex\\2026-09-15\\i-d\\outputs\\corgi-B-arachne-snug-v2-sliced.gcode.3mf",
+  "native_dimensions_mm": [
+    108.199997,
+    144.199997,
+    2.5
+  ],
+  "plate_bounds_mm": [
+    40.0,
+    77.9,
+    229.10000000000002,
+    317.5
+  ],
+  "estimated_time_seconds": 13262,
+  "estimated_filament_g": 54.59,
+  "actual_layer_heights_mm": [
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4,
+    1.5,
+    1.6,
+    1.7,
+    1.8,
+    1.9,
+    2.0,
+    2.1,
+    2.2,
+    2.3,
+    2.4,
+    2.5
+  ],
+  "native_sha256": "b1c40d39c643bde24678601ed80673ab45868b0de0e091f7a4a9f6cfa88bc0f4",
+  "sliced_sha256": "c11c8fba315dece32d173fb0773775698c832086521570a84824296c94990a30",
+  "extrusion_segments_checked": 382761,
+  "nominal_projected_void_area_mm2": 48.9424,
+  "projection_resolution_mm": 0.04,
+  "projection_excludes_perimeter_mm": 0.5,
+  "projection_limit": "Nominal extrusion widths across all layers, not a physical pinhole guarantee.",
+  "color_tip_rounding_radius_mm": 0.2,
+  "minimum_color_polygon_before_partition_mm2": 0.25,
+  "native_viewport_capture": "Blank white viewport; exported meshes and G-code independently checked.",
+  "current_ams_mapping_verified": false,
+  "first_print_inspection": "Check ear tips, eye highlights, muzzle and chest junctions for pinholes. Nominal projection is diagnostic, not physical proof.",
+  "tip_refinement_comparison": {
+    "before_nominal_void_area_mm2": 48.1408,
+    "after_nominal_void_area_mm2": 48.9424,
+    "conclusion": "No measured improvement in total projected void area; refinement is not a proven pinhole fix."
+  }
+}

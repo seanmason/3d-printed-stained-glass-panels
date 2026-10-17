@@ -18,7 +18,7 @@ Multicolor PLA panels developed through visual drafts, Bambu Studio slicing, and
 | Original lion, clean color settings | [Updated project](outputs/lion-original-arachne-snug-clean-color-verified-H2D.3mf) | Sliced and verified; physical improvement not confirmed. Old AMS arrangement; remap and re-slice. |
 | Winking and smirking lion | [Latest separated-nozzle project](outputs/lion-wink-clean-color-separated-nozzles-H2D.3mf) | Sent to printer on 2026-10-17. Completion and surface quality not yet recorded. |
 | Both lion inserts | [Two-panel project](outputs/lion-lightbox-two-panels-H2D.3mf) | Earlier 108 × 144 mm panels; predates snug sizing and successful Arachne settings. |
-| Corgi mix B | [Library-matched rendering](outputs/corgi-panel-B-library-palette-v1.png) | Approved composition B; seven-filament rendering delivered. No 3D model yet. |
+| Corgi mix B | [Seven-color editable panel](outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf) | Native-saved and slice-verified; not printed. [Design and material notes](docs/corgi-B.md). |
 
 Current single-panel lion inserts are **108.2 × 144.2 × 2.5 mm**, with **0.8 mm color panes**. The housing and light guide remain in their projects on separate plates. The early square 200 mm lion is also archived.
 

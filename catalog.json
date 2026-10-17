@@ -2,8 +2,56 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "B composition approved; library-palette rendering delivered; no mesh",
+  "corgi_status": "Seven-color B model native-saved and slice-verified; not printed; physical pinholes and light transmission untested.",
   "artifacts": [
+    {
+      "path": "outputs/corgi-B-arachne-snug-H2D.3mf",
+      "bytes": 964649,
+      "sha256": "980f4247c0f42d0ddc8ef204316b051fa6c23ee31e4d09afe80b4465f84926bf",
+      "role": "corgi_manufacturing_artifact"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-manufacturing.svg",
+      "bytes": 256829,
+      "sha256": "8cf4e1c333970ea4fae6e1fb2e0ac5248101a87d4f371c3809a1b9fafc6b432f",
+      "role": "corgi_manufacturing_artifact"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-parts.zip",
+      "bytes": 643537,
+      "sha256": "39d4f0ca76b602142aac6467e2c4fd356a583e72033df61561e2bd02c2a44f76",
+      "role": "corgi_manufacturing_artifact"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-preview.png",
+      "bytes": 110219,
+      "sha256": "1f140dfb0633f3f94f42f172b232c0d08555d9e22d338848ef86b86a36348b7d",
+      "role": "corgi_manufacturing_artifact"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-toolpath-preview.png",
+      "bytes": 435454,
+      "sha256": "580c134f13aa2d91685a8aa6505a33511b166ef46bcea46ff180bc391307e2ae",
+      "role": "diagnostic_nominal_toolpath_projection_pink_marks_voids"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-v2-sliced.gcode.3mf",
+      "bytes": 4871830,
+      "sha256": "c11c8fba315dece32d173fb0773775698c832086521570a84824296c94990a30",
+      "role": "corgi_slice_evidence_requires_current_AMS_check"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf",
+      "bytes": 1072551,
+      "sha256": "b1c40d39c643bde24678601ed80673ab45868b0de0e091f7a4a9f6cfa88bc0f4",
+      "role": "latest_corgi_native_project_not_printed"
+    },
+    {
+      "path": "outputs/corgi-B-arachne-snug-validation.json",
+      "bytes": 13038,
+      "sha256": "65bbf9376daa116dec2d21889bc32d6cf33ce546a3b0eda8dfc3d1e1913e98d7",
+      "role": "corgi_manufacturing_artifact"
+    },
     {
       "path": "outputs/corgi-panel-B-library-palette-v1.json",
       "bytes": 4289,
@@ -14,7 +62,7 @@
       "path": "outputs/corgi-panel-B-library-palette-v1.png",
       "bytes": 1466268,
       "sha256": "75dc4745b895b122aafc2b7aaa9b1021e284ff1a4f6627f9668b79e9b2b4ad39",
-      "role": "latest_corgi_render_no_mesh"
+      "role": "approved_corgi_geometry_input"
     },
     {
       "path": "outputs/corgi-panel-draft-A-attentive-supervisor.png",
@@ -125,6 +173,12 @@
       "role": "historical_output"
     },
     {
+      "path": "outputs/lion-original-arachne-snug-H2D.3mf",
+      "bytes": 1158785,
+      "sha256": "1e372dc7b1ad740b5028c1502356f2b10e5e1f96dfda5c203b97ce5b032498d9",
+      "role": "historical_output"
+    },
+    {
       "path": "outputs/lion-original-arachne-snug-clean-color-H2D.3mf",
       "bytes": 1112940,
       "sha256": "12dde4b501a9189e3ac7b703fed639d279fa0d15a755582c1860f660ab61a82b",
@@ -147,12 +201,6 @@
       "bytes": 1093143,
       "sha256": "11c58eb4adce3e44c65a383fe63c0165f35afb8900a9a56a59af15864573c24b",
       "role": "original_lion_clean_color_slicer_verified_old_routing"
-    },
-    {
-      "path": "outputs/lion-original-arachne-snug-H2D.3mf",
-      "bytes": 1158785,
-      "sha256": "1e372dc7b1ad740b5028c1502356f2b10e5e1f96dfda5c203b97ce5b032498d9",
-      "role": "historical_output"
     },
     {
       "path": "outputs/lion-original-arachne-snug-notes.txt",
@@ -188,6 +236,12 @@
       "path": "outputs/lion-panel-200mm.3mf",
       "bytes": 430804,
       "sha256": "dff25c3b4058ef02f23b14465da2f54f96dd3ddabdf0fbb24afca5317a12a2ce",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-H2D.3mf",
+      "bytes": 535854,
+      "sha256": "545a376c7f5cc8419eaeeb9343d34897a1bd85fffcb7f745b5e2d59cb1090c78",
       "role": "historical_output"
     },
     {
@@ -227,12 +281,6 @@
       "role": "historical_output"
     },
     {
-      "path": "outputs/lion-panel-H2D.3mf",
-      "bytes": 535854,
-      "sha256": "545a376c7f5cc8419eaeeb9343d34897a1bd85fffcb7f745b5e2d59cb1090c78",
-      "role": "historical_output"
-    },
-    {
       "path": "outputs/lion-panel-manufacturing.svg",
       "bytes": 209790,
       "sha256": "a2013648831a6dd312c67c676fc76ad8be06ac396825a1c6a2a344d269c84072",
@@ -242,6 +290,12 @@
       "path": "outputs/lion-panel-model-preview.png",
       "bytes": 13568,
       "sha256": "8c4063ef905f0fe1a7af4fcf9e5ebeba47b037bc851d3197f69b824d322ba8b2",
+      "role": "historical_output"
+    },
+    {
+      "path": "outputs/lion-panel-parts.zip",
+      "bytes": 457769,
+      "sha256": "712f0f0cf8e7b164ddbc0dab2eeabd7b6af1f09a861137eb28992029526a1e7b",
       "role": "historical_output"
     },
     {
@@ -278,12 +332,6 @@
       "path": "outputs/lion-panel-parts/06-Cocoa-Brown.stl",
       "bytes": 157084,
       "sha256": "fb10813d1bfcf24173dcb88eee6b373235417a35024920130e0b82bd8d5a7dcb",
-      "role": "historical_output"
-    },
-    {
-      "path": "outputs/lion-panel-parts.zip",
-      "bytes": 457769,
-      "sha256": "712f0f0cf8e7b164ddbc0dab2eeabd7b6af1f09a861137eb28992029526a1e7b",
       "role": "historical_output"
     },
     {
@@ -413,6 +461,12 @@
       "role": "historical_output"
     },
     {
+      "path": "outputs/lion-wink-arachne-snug-H2D.3mf",
+      "bytes": 1154873,
+      "sha256": "4106052c043dd6b7ae335ffc2b8e4355968968f2bacaf1165982d6fb8244efa1",
+      "role": "historical_output"
+    },
+    {
       "path": "outputs/lion-wink-arachne-snug-clean-color-H2D.3mf",
       "bytes": 1111159,
       "sha256": "833bd402ab3bac487b2772f157116baa070d3a2bc5eb025102fb5970dd30bc6d",
@@ -440,12 +494,6 @@
       "path": "outputs/lion-wink-arachne-snug-clean-color-verified-H2D.3mf",
       "bytes": 1092032,
       "sha256": "b3a70467a6dcf281434077bdaa5d4a0ec5bff77f3fde97322f4f8d0e707e906b",
-      "role": "historical_output"
-    },
-    {
-      "path": "outputs/lion-wink-arachne-snug-H2D.3mf",
-      "bytes": 1154873,
-      "sha256": "4106052c043dd6b7ae335ffc2b8e4355968968f2bacaf1165982d6fb8244efa1",
       "role": "historical_output"
     },
     {
@@ -515,6 +563,12 @@
       "role": "historical_output"
     },
     {
+      "path": "outputs/lion-wink-lightbox-parts.zip",
+      "bytes": 471156,
+      "sha256": "6d0dd09b7f6df6a264af902bfe8ba39b3b9575db79e85a52f0ce309f7f53f03a",
+      "role": "historical_output"
+    },
+    {
       "path": "outputs/lion-wink-lightbox-parts/01-Black.stl",
       "bytes": 1160284,
       "sha256": "3c01c11c257924db8872a8322d34a9b2f4a040473042753376c708b6a2a3c05c",
@@ -551,16 +605,16 @@
       "role": "historical_output"
     },
     {
-      "path": "outputs/lion-wink-lightbox-parts.zip",
-      "bytes": 471156,
-      "sha256": "6d0dd09b7f6df6a264af902bfe8ba39b3b9575db79e85a52f0ce309f7f53f03a",
-      "role": "historical_output"
-    },
-    {
       "path": "outputs/lion-wink-lightbox-validation.json",
       "bytes": 1805,
       "sha256": "0be13bc01bd08ff682c899d91989725efd449a9844a7f46d2d1fac9b5c463d4b",
       "role": "historical_output"
+    },
+    {
+      "path": "sources/example_lithophane.3mf",
+      "bytes": 13418784,
+      "sha256": "e4e967f23dfe09e0b4721361b6c51f50dfe241352f5a0c4c33a15b7ec35af250",
+      "role": "user_supplied_source"
     },
     {
       "path": "work/bambu-template.3mf",
@@ -573,6 +627,12 @@
       "bytes": 5801,
       "sha256": "83ce5ff807efe0466134afb28e6f7efbb3b399b877db0ff670839ce97575a78d",
       "role": "rebuild_support"
+    },
+    {
+      "path": "work/build_corgi.py",
+      "bytes": 10734,
+      "sha256": "79c17df34cf39920f4224f23c145b8b5b90e98da02de9ecf354846788186c0c9",
+      "role": "corgi_generation_or_validation_script"
     },
     {
       "path": "work/build_ironing_test.py",
@@ -615,6 +675,12 @@
       "bytes": 8021,
       "sha256": "9a3725f7c4f1f6374686b5a6e62337677576ff9fd9c6a09f0f494faf2ccd8bf3",
       "role": "rebuild_support"
+    },
+    {
+      "path": "work/check_corgi_toolpaths.py",
+      "bytes": 3316,
+      "sha256": "6d7ae6b53c8332aa97c6a4734ab5a5b49fd6db68503cd35871f1c07bd64f29c2",
+      "role": "corgi_generation_or_validation_script"
     },
     {
       "path": "work/check_lightbox_fit.py",
@@ -713,6 +779,12 @@
       "role": "rebuild_support"
     },
     {
+      "path": "work/validate_corgi.py",
+      "bytes": 5903,
+      "sha256": "a2186e80488efc2062420b1f26a3bc87f49c0d63f6b9ee95db4cc03c3c111ef1",
+      "role": "corgi_generation_or_validation_script"
+    },
+    {
       "path": "work/validate_original_arachne.py",
       "bytes": 3821,
       "sha256": "e101f967df58a10464b9a097a64b23b6c3306e4d828a731cede1fb6a897ed70d",
@@ -729,12 +801,6 @@
       "bytes": 3817,
       "sha256": "719a1656c5522d8df1af223abe7880831f15758f380fcff5472c77803f76ab03",
       "role": "rebuild_support"
-    },
-    {
-      "path": "sources/example_lithophane.3mf",
-      "bytes": 13418784,
-      "sha256": "e4e967f23dfe09e0b4721361b6c51f50dfe241352f5a0c4c33a15b7ec35af250",
-      "role": "user_supplied_source"
     }
   ]
 }

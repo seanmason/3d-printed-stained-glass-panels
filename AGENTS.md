@@ -15,7 +15,7 @@ Read README.md, docs/design-history.md, docs/printing.md, and the relevant catal
 
 Latest wink project: outputs/lion-wink-clean-color-separated-nozzles-H2D.3mf. Its print was started once on 2026-10-17; completion and physical result remain unconfirmed in the saved record. Do not resend it merely because this archive is opened.
 
-Corgi: B's composition was approved. The next rendering used seven verified owned filaments; no corgi mesh exists. Begin from outputs/corgi-panel-B-library-palette-v1.png and its JSON. Preserve the upward/right gaze, long tapered muzzle, very large upright ears, gentle closed mouth, dark saddle, and cream chest. Quantize to actual printable regions rather than reproducing rendered shading. Use material-specific Basic, Silk+, and Metal profiles; do not apply Basic settings indiscriminately.
+Corgi: B is now a seven-color, native-saved and slice-verified model: outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf. Read docs/corgi-B.md for first-print checks and material routing. No corgi print has been sent. The artwork source is outputs/corgi-panel-B-library-palette-v1.png and its JSON. Preserve the upward/right gaze, long tapered muzzle, very large upright ears, gentle closed mouth, dark saddle, and cream chest. Quantize to actual printable regions rather than reproducing rendered shading. Use material-specific Basic, Silk+, and Metal profiles; do not apply Basic settings indiscriminately.
 
 ## Required checks for changes
 
