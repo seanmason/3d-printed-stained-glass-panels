@@ -1,0 +1,352 @@
+[
+  {
+    "job": "01-white-only",
+    "file": "corgi-diagnostic-v4-01-white-only-H2D.3mf",
+    "objects": [
+      {
+        "name": "W1 - 01-white-only",
+        "origin_mm": [
+          120,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 388.42991273117906
+          }
+        ]
+      },
+      {
+        "name": "W2 - 01-white-only",
+        "origin_mm": [
+          160,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 387.9819127311791
+          }
+        ]
+      }
+    ],
+    "geometry_validated": true,
+    "native_saved": true,
+    "slicer_validated": true,
+    "print_started": false,
+    "native_sha256": "3219eacde68c9eae65b7cae939c6c92f0122b3034216c034d3fca79577a63687",
+    "gcode_sha256": "aa42a80386dd8513cf14c9265e3ebe553678a25fadb49c6364af2f673dfc18df",
+    "estimate": "16m 51s",
+    "bounds_mm": [
+      [
+        [
+          120.0,
+          110.0,
+          0.0
+        ],
+        [
+          154.0,
+          132.0,
+          0.7
+        ]
+      ],
+      [
+        [
+          160.0,
+          110.0,
+          0.0
+        ],
+        [
+          194.0,
+          132.0,
+          0.7
+        ]
+      ]
+    ],
+    "segments_checked": 9447,
+    "top_fill_angles_degrees": {
+      "0": [
+        135
+      ],
+      "1": [
+        135
+      ]
+    }
+  },
+  {
+    "job": "02-patterns",
+    "file": "corgi-diagnostic-v4-02-patterns-H2D.3mf",
+    "objects": [
+      {
+        "name": "A1 - 02-patterns",
+        "origin_mm": [
+          120,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 210.6671297060844
+          }
+        ]
+      },
+      {
+        "name": "A2 - 02-patterns",
+        "origin_mm": [
+          160,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 210.21912970608437
+          }
+        ]
+      },
+      {
+        "name": "B - 02-patterns",
+        "origin_mm": [
+          120,
+          138
+        ],
+        "black_height_mm": 0.7,
+        "settings": {
+          "top_surface_pattern": "monotonic"
+        },
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 209.77112970608428
+          }
+        ]
+      },
+      {
+        "name": "C - 02-patterns",
+        "origin_mm": [
+          160,
+          138
+        ],
+        "black_height_mm": 0.7,
+        "settings": {
+          "infill_direction": "90"
+        },
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 209.32312970608436
+          }
+        ]
+      }
+    ],
+    "geometry_validated": true,
+    "native_saved": true,
+    "slicer_validated": true,
+    "print_started": false,
+    "native_sha256": "fb2b3a1d2d8507530922e2d115b73170a30f38e9d4ae7e35f8ff50b2f42c88e8",
+    "gcode_sha256": "dc430a28a44ba39dd1aa03e8d0896c7151a610f9e9a3aa3c771cf0ec5a77303f",
+    "estimate": "33m 29s",
+    "bounds_mm": [
+      [
+        [
+          120.0,
+          110.0,
+          0.0
+        ],
+        [
+          154.0,
+          132.0,
+          0.7
+        ]
+      ],
+      [
+        [
+          160.0,
+          110.0,
+          0.0
+        ],
+        [
+          194.0,
+          132.0,
+          0.7
+        ]
+      ],
+      [
+        [
+          120.0,
+          138.0,
+          0.0
+        ],
+        [
+          154.0,
+          160.0,
+          0.7
+        ]
+      ],
+      [
+        [
+          160.0,
+          138.0,
+          0.0
+        ],
+        [
+          194.0,
+          160.0,
+          0.7
+        ]
+      ]
+    ],
+    "segments_checked": 26976,
+    "top_fill_angles_degrees": {
+      "0": [
+        135
+      ],
+      "1": [
+        135
+      ],
+      "2": [
+        135
+      ],
+      "3": [
+        0
+      ]
+    }
+  },
+  {
+    "job": "03-flow",
+    "file": "corgi-diagnostic-v4-03-flow-H2D.3mf",
+    "objects": [
+      {
+        "name": "F1 - 03-flow",
+        "origin_mm": [
+          120,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 210.6671297060844
+          }
+        ]
+      },
+      {
+        "name": "F2 - 03-flow",
+        "origin_mm": [
+          160,
+          110
+        ],
+        "black_height_mm": 0.7,
+        "settings": {},
+        "parts": [
+          {
+            "name": "Jade White",
+            "slot": 1,
+            "watertight": true,
+            "volume_mm3": 177.7627830250946
+          },
+          {
+            "name": "Black",
+            "slot": 7,
+            "watertight": true,
+            "volume_mm3": 210.21912970608437
+          }
+        ]
+      }
+    ],
+    "geometry_validated": true,
+    "native_saved": true,
+    "slicer_validated": true,
+    "print_started": false,
+    "native_sha256": "646742be4390b7f61491de2d74e4b038a3429a4c838d41bc171eeba2fe137a5b",
+    "gcode_sha256": "2aeb0889fcd5737b46ea3ef4903df9e8cbcdd937a98eb1881f7c98110785eece",
+    "estimate": "22m 34s",
+    "bounds_mm": [
+      [
+        [
+          120.0,
+          110.0,
+          0.0
+        ],
+        [
+          154.0,
+          132.0,
+          0.7
+        ]
+      ],
+      [
+        [
+          160.0,
+          110.0,
+          0.0
+        ],
+        [
+          194.0,
+          132.0,
+          0.7
+        ]
+      ]
+    ],
+    "segments_checked": 13522,
+    "top_fill_angles_degrees": {
+      "0": [
+        135
+      ],
+      "1": [
+        135
+      ]
+    }
+  }
+]

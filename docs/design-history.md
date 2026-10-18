@@ -39,3 +39,10 @@ The next [junction comparison](../tests/junction-v2/README.md) tests speed, over
 User confirmed v2 completed. Sample 1/A had the fewest pinholes but still failed at narrow regions/turnarounds. Corrected ladder orientation: notch upper left, 2 columns × 3 rows numbered 1 2 / 3 4 / 5 6. Only 1 and 3 faintly transmitted: Cocoa 0.4 and 0.6 mm; 5 (Cocoa 0.8) and Copper 0.4/0.6/0.8 did not. This supersedes earlier eight-square interpretations. Simplified artwork was approved for testing.
 
 [Next test](../tests/junction-v3-02mm/README.md) compares original/simplified geometry, 0.2/0.3 mm leading relief and four materials at 0.3/0.4/0.6 mm on dual 0.2 mm nozzles. Prepared and sliced, NOT PRINTED. Estimate 5 h 5 m 44 s exceeds the earlier three-hour window. Nozzle swap and live AMS check remain pending.
+
+
+## 2026-10-18: v3 completed; diagnostic v4 prepared
+
+User supplied a backlit photograph of completed v3. Gold and Champagne transmit strongly; Cocoa transmits weakly, particularly at 0.3/0.4 mm; Copper remains near opaque. Simplified geometry looks cleaner, but user confirms diagonal pinholes remain and dark marks are embedded, not surface or loose debris. Do not claim v3 solved pinholes or that the dark marks have a proven source. Keep dual 0.2 mm nozzles for controlled diagnosis.
+
+Next is [diagnostic v4](../tests/diagnostic-v4/README.md): separate white-only baseline, two-color pattern/direction comparisons and +3% white flow. Native-saved and slice-checked, NOT PRINTED. Total estimated 72m54s. No full Corgi model promotion yet.

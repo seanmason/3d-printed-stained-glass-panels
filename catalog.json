@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v3 sent once; printer accepted and active at layer 0/16. Completion unconfirmed. See tests/junction-v3-02mm/print-attempt.json.",
+  "corgi_status": "v3 completed: embedded dark marks and diagonal pinholes remain. v4 three diagnostic jobs prepared/native-saved/slice-checked, NOT PRINTED.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -1070,6 +1070,125 @@
       "sha256": "4e8c65d84e4a6da8912f52213f8ab4e3ae39574d91c33052ec05772bdb7b6164",
       "role": "junction_v3_prepared_not_printed",
       "source": "archive/outputs/corgi-junction-test-v3-validation.json"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-01-white-only-H2D.3mf",
+      "bytes": 35572,
+      "sha256": "3219eacde68c9eae65b7cae939c6c92f0122b3034216c034d3fca79577a63687",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-01-white-only-toolpaths.png",
+      "bytes": 18064,
+      "sha256": "8c2ce0f805cbb8a9ccaa2a4c60f63ff84170c32b48b0299171e9f8c443ac51fe",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-01-white-only.gcode",
+      "bytes": 468314,
+      "sha256": "aa42a80386dd8513cf14c9265e3ebe553678a25fadb49c6364af2f673dfc18df",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-02-patterns-H2D.3mf",
+      "bytes": 45699,
+      "sha256": "fb2b3a1d2d8507530922e2d115b73170a30f38e9d4ae7e35f8ff50b2f42c88e8",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-02-patterns-toolpaths.png",
+      "bytes": 43761,
+      "sha256": "9b6f6814cf66e41d0d6197119967da08750008e65f6c9e338069fc6eb545b2f9",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-02-patterns.gcode",
+      "bytes": 1159770,
+      "sha256": "dc430a28a44ba39dd1aa03e8d0896c7151a610f9e9a3aa3c771cf0ec5a77303f",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-03-flow-H2D.3mf",
+      "bytes": 34114,
+      "sha256": "646742be4390b7f61491de2d74e4b038a3429a4c838d41bc171eeba2fe137a5b",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-03-flow-toolpaths.png",
+      "bytes": 21752,
+      "sha256": "8a31a853b87c9e7e00c169cbf47c52c1d88ee476cd2683c2ff0654dfa52efedf",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-03-flow.gcode",
+      "bytes": 649609,
+      "sha256": "2aeb0889fcd5737b46ea3ef4903df9e8cbcdd937a98eb1881f7c98110785eece",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-guide.png",
+      "bytes": 64677,
+      "sha256": "dce62827f19190263cfb201e130ea7dadff9396898f00a9028acb0c1b494633f",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-diagnostic-v4-validation.json",
+      "bytes": 7310,
+      "sha256": "9db754b04881760c0ac379c19932f0ae34c8328e5074950478770d22e4422906",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/build_diagnostic_v4.py",
+      "bytes": 4765,
+      "sha256": "e846f370a8cef32fc9ad2300e342d992fcd283d8e4d8573d15013b34717b32e0",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/publish_diagnostic_v4.py",
+      "bytes": 9316,
+      "sha256": "714cdbb1681e92df628c6a2a97fc4141fd502d1e0765440377031b68f987b53d",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/validate_diagnostic_v4.py",
+      "bytes": 5479,
+      "sha256": "516b665c8881de112022995da9fed201e411c2238a5369f68429f6e33b15de5b",
+      "role": "diagnostic_v4_prepared_not_printed"
+    },
+    {
+      "path": "tests/diagnostic-v4/01-white-only.3mf",
+      "bytes": 35572,
+      "sha256": "3219eacde68c9eae65b7cae939c6c92f0122b3034216c034d3fca79577a63687",
+      "role": "diagnostic_v4_prepared_not_printed",
+      "source": "archive/outputs/corgi-diagnostic-v4-01-white-only-H2D.3mf"
+    },
+    {
+      "path": "tests/diagnostic-v4/02-patterns.3mf",
+      "bytes": 45699,
+      "sha256": "fb2b3a1d2d8507530922e2d115b73170a30f38e9d4ae7e35f8ff50b2f42c88e8",
+      "role": "diagnostic_v4_prepared_not_printed",
+      "source": "archive/outputs/corgi-diagnostic-v4-02-patterns-H2D.3mf"
+    },
+    {
+      "path": "tests/diagnostic-v4/03-flow.3mf",
+      "bytes": 34114,
+      "sha256": "646742be4390b7f61491de2d74e4b038a3429a4c838d41bc171eeba2fe137a5b",
+      "role": "diagnostic_v4_prepared_not_printed",
+      "source": "archive/outputs/corgi-diagnostic-v4-03-flow-H2D.3mf"
+    },
+    {
+      "path": "tests/diagnostic-v4/guide.png",
+      "bytes": 64677,
+      "sha256": "dce62827f19190263cfb201e130ea7dadff9396898f00a9028acb0c1b494633f",
+      "role": "diagnostic_v4_prepared_not_printed",
+      "source": "archive/outputs/corgi-diagnostic-v4-guide.png"
+    },
+    {
+      "path": "tests/diagnostic-v4/validation.json",
+      "bytes": 7310,
+      "sha256": "9db754b04881760c0ac379c19932f0ae34c8328e5074950478770d22e4422906",
+      "role": "diagnostic_v4_prepared_not_printed",
+      "source": "archive/outputs/corgi-diagnostic-v4-validation.json"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",

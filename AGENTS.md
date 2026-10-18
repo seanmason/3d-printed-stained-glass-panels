@@ -38,3 +38,6 @@ Current test: tests/junction-v3-02mm/project.3mf is native-saved and slice-verif
 
 
 Latest print status: v3 was sent once on 2026-10-18 after fresh user authorization. Studio reported successful send and the printer showed the v3 job active at layer 0/16. Completion remains unconfirmed. Copper mapping corrected from B3 to B1 before sending; other established assignments preserved. Earlier NOT PRINTED statements describe preparation snapshots. Do not resend without reconciling current printer status.
+
+
+Latest handoff: v3 physically completed; user confirms embedded dark marks and diagonal pinholes. Current prepared test is tests/diagnostic-v4/README.md, three separate jobs, dual 0.2 mm. Native-saved and slice-checked; NOT SENT. Do not mix the white-only baseline with black printing. No print authorization given for v4. Read the diagnostic limitations and evaluation plan.
