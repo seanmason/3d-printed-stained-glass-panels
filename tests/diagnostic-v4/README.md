@@ -1,6 +1,8 @@
 # Corgi diagnostic test v4
 
-**Prepared, native-saved and slice-checked. NOT SENT OR PRINTED.** Both nozzles remain standard 0.2 mm. Eight small coupons across three separate jobs; about **72 min 54 s** including the slicer's startup allowance for each. Physical loading, calibration and cooling can add time.
+**Job 1 sent once on 2026-10-18; startup confirmed at layer 0/7. Completion unconfirmed. Jobs 2 and 3 remain unprinted.** Both nozzles remain standard 0.2 mm. Eight small coupons across three separate jobs; about **72 min 54 s** including the slicer's startup allowance for each. Physical loading, calibration and cooling can add time.
+
+Job 1 used A2 white on the right nozzle only, with bed leveling and flow dynamics calibration on, timelapse and nozzle offset calibration off. Studio reported successful send; Haute showed the white-only job active, cooling chamber, at layer 0/7. Wait for completion and fresh bed clearance before job 2. Validation JSON is the preparation snapshot.
 
 [Identification guide](guide.png) · [Validation](validation.json)
 

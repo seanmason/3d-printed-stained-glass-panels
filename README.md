@@ -12,7 +12,7 @@ Current designs are multicolor PLA lightbox inserts for the Bambu Lab H2D, measu
 
 [Corgi material sample](tests/material-sample/README.md): compare seven filaments at three thicknesses and inspect real corgi junctions before printing the full panel.
 
-[Next diagnostic test: v4](tests/diagnostic-v4/README.md): white-only baseline, two-color pattern/direction comparisons and +3% white flow. Prepared, not printed; three jobs total about 73 minutes. v3 completed with embedded marks and diagonal pinholes.
+[Current diagnostic test: v4](tests/diagnostic-v4/README.md): white-only baseline sent once on 2026-10-18; startup confirmed, completion unconfirmed. Two-color pattern/direction and +3% white flow jobs remain unprinted. Three jobs total about 73 minutes. v3 completed with embedded marks and diagonal pinholes.
 
 ### For continued development
 
