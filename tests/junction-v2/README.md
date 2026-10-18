@@ -2,7 +2,7 @@
 
 [Open editable project](project.3mf) · [Comparison guide](guide.png) · [Validation](validation.json)
 
-**Status: native-saved and slice-verified; NOT SENT.** The user authorized this job with a clear bed. Sending is held because the refreshed printer HMS reports low signal frequency on the right extruder eddy-current sensor (possible missing nozzle / excessive heat-sink-to-sensor distance). An earlier popup reported Z homing failure. Resolve printer health before sending; no retry or print has occurred for this test.
+**Status: sent; startup checks in progress.** Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed. The user reported repairing the fault and requested this retry. Studio still listed the sensor warning, but the normal Send dialog accepted the job without a blocking warning; no checks were disabled or fault bypassed. See [attempt record](print-attempt.json). Earlier validation files are pre-send snapshots.
 
 Estimate: **2 h 47 m 13 s**, **40.67 g** including waste, 15 layers. This leaves about 13 minutes within the requested three hours; real startup and printing duration can vary. H2D, dual standard 0.4 mm nozzles, textured PEI. One plate, five test pieces plus purge tower.
 

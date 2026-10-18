@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "Full panel slice-verified, not printed. First material sample completed with pinholes, excessive black relief, and mixed transmission. Junction v2 prepared, not sent; printer sensor warning.",
+  "corgi_status": "Full panel slice-verified, not printed. First material sample completed with user-reported defects. Junction v2 sent once; startup checks observed, completion unconfirmed.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -982,9 +982,15 @@
       "bytes": 8409,
       "sha256": "ccf03fa0a998982f671659c8954ff36e91acca035f006cc7bda7557c4331d722",
       "role": "junction_v2_reproduction"
+    },
+    {
+      "path": "tests/junction-v2/print-attempt.json",
+      "bytes": 1146,
+      "sha256": "6c0ff30d8a2a08fa54b9009a3d075441c2728f7e741c895769a1d7776c146416",
+      "role": "junction_v2_print_attempt"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
-  "material_sample_status": "Native saved and slice verified; 86 x 52 x 2.5 mm, 21 thickness patches and 3 full-scale detail crops. Not printed.",
-  "junction_v2_status": "slice-verified; not sent; awaiting resolution of right-extruder eddy-current sensor warning"
+  "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
+  "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed."
 }

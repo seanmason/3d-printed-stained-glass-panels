@@ -12,7 +12,7 @@ Current designs are multicolor PLA lightbox inserts for the Bambu Lab H2D, measu
 
 [Corgi material sample](tests/material-sample/README.md): compare seven filaments at three thicknesses and inspect real corgi junctions before printing the full panel.
 
-[Next junction test](tests/junction-v2/README.md): 2 h 47 m comparison of slower motion, overlap, shallow black and thin dark materials. Prepared; held for printer health warning.
+[Next junction test](tests/junction-v2/README.md): 2 h 47 m comparison of slower motion, overlap, shallow black and thin dark materials. Sent once; printer startup checks observed. Completion unconfirmed.
 
 ### For continued development
 

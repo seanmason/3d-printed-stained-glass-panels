@@ -1,0 +1,35 @@
+{
+  "recorded_at_utc": "2026-10-18T01:55:00.320783+00:00",
+  "send_count": 1,
+  "status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
+  "estimate_seconds": 10033,
+  "filament_g": 40.67,
+  "left_ams_slots": [
+    "B4",
+    "B2",
+    "B1"
+  ],
+  "right_ams_slots": [
+    "A2",
+    "A4",
+    "A3",
+    "A1"
+  ],
+  "startup_options": {
+    "bed_leveling": "On",
+    "flow_dynamics": "On",
+    "nozzle_offset": "Auto",
+    "timelapse": "Off"
+  },
+  "fault_context": "User reported repair and requested retry. Right extruder eddy-current sensor warning still listed before sending. Normal Send dialog accepted without blocking warning; no safety checks disabled. Warning clearance not established.",
+  "artifacts": [
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-verified-H2D.3mf",
+      "sha256": "007edc7cabdcec2995ceabae2ef467c5dcc3b724a9ff2da1a05b87af9df964eb"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-verified-sliced.gcode.3mf",
+      "sha256": "7c415838d75837753168aba4ba196a1fe79503a66d6228adff48f607f5c33372"
+    }
+  ]
+}
