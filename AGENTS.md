@@ -43,3 +43,5 @@ Latest print status: v3 was sent once on 2026-10-18 after fresh user authorizati
 Latest handoff: v3 physically completed; user confirms embedded dark marks and diagonal pinholes. Current prepared test is tests/diagnostic-v4/README.md, three separate jobs, dual 0.2 mm. Native-saved and slice-checked; NOT SENT. Do not mix the white-only baseline with black printing. No print authorization given for v4. Read the diagnostic limitations and evaluation plan.
 
 Latest status 2026-10-18: user authorized v4 printing and confirmed clear bed. Job 1 white-only was sent once, successful send and active layer 0/7 confirmed. Completion unconfirmed. Jobs 2 and 3 remain unsent; require completion and fresh bed clearance. GitHub push retry failed through configured proxy; local commits retained.
+
+Latest status: v4 job 1 completed, Studio finished 7/7 and user reports no abnormalities. User confirmed bed clear and ready. Job 2 patterns sent once 2026-10-18 about 18:42 local, successful send and active layer 0/7 confirmed; completion unconfirmed. White A2/right, black B2/left, dual standard 0.2 mm. Job 3 remains unsent and requires fresh bed clearance.
