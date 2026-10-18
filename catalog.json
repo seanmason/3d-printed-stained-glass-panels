@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "Seven-color B model native-saved and slice-verified; not printed; physical pinholes and light transmission untested.",
+  "corgi_status": "Full panel slice-verified, not printed. First material sample completed with pinholes, excessive black relief, and mixed transmission. Junction v2 prepared, not sent; printer sensor warning.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -906,8 +906,85 @@
       "sha256": "0ba327b06488f4f7bf9bb18c87f1b868b155985a58b09c57a1d58ea655d38d2b",
       "role": "published_material_sample",
       "source": "archive/outputs/corgi-material-sample-validation.json"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-verified-H2D.3mf",
+      "bytes": 411564,
+      "sha256": "007edc7cabdcec2995ceabae2ef467c5dcc3b724a9ff2da1a05b87af9df964eb",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-guide.png",
+      "bytes": 86333,
+      "sha256": "a4bd2db64624df4a67bceafe8efd6a20b88ea8e72f6eb54e49347d9a366ec9b9",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-validation.json",
+      "bytes": 7924,
+      "sha256": "b2c29ac1e65ba2c996225f3fcdc059fff45adae1057eeb70a72c3b99ab0b6115",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-toolpath-preview.png",
+      "bytes": 73100,
+      "sha256": "4b4d3074059d4e5d1d9db012d5aa55963d02b9d6ff79ab0dc24b49f3399af166",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-verified-sliced.gcode.3mf",
+      "bytes": 1897673,
+      "sha256": "7c415838d75837753168aba4ba196a1fe79503a66d6228adff48f607f5c33372",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v2-H2D.3mf",
+      "bytes": 346577,
+      "sha256": "3452c4e5941b56508297eddd10e65967488bebbd1c0f74a82ba17386ddbb9052",
+      "role": "junction_v2_test_evidence"
+    },
+    {
+      "path": "tests/junction-v2/project.3mf",
+      "bytes": 411564,
+      "sha256": "007edc7cabdcec2995ceabae2ef467c5dcc3b724a9ff2da1a05b87af9df964eb",
+      "role": "junction_v2_current_test",
+      "source": "archive/outputs/corgi-junction-test-v2-verified-H2D.3mf"
+    },
+    {
+      "path": "tests/junction-v2/guide.png",
+      "bytes": 86333,
+      "sha256": "a4bd2db64624df4a67bceafe8efd6a20b88ea8e72f6eb54e49347d9a366ec9b9",
+      "role": "junction_v2_current_test",
+      "source": "archive/outputs/corgi-junction-test-v2-guide.png"
+    },
+    {
+      "path": "tests/junction-v2/validation.json",
+      "bytes": 7924,
+      "sha256": "b2c29ac1e65ba2c996225f3fcdc059fff45adae1057eeb70a72c3b99ab0b6115",
+      "role": "junction_v2_current_test",
+      "source": "archive/outputs/corgi-junction-test-v2-validation.json"
+    },
+    {
+      "path": "tests/junction-v2/toolpath-preview.png",
+      "bytes": 73100,
+      "sha256": "4b4d3074059d4e5d1d9db012d5aa55963d02b9d6ff79ab0dc24b49f3399af166",
+      "role": "junction_v2_current_test",
+      "source": "archive/outputs/corgi-junction-test-v2-toolpath-preview.png"
+    },
+    {
+      "path": "archive/work/build_junction_test_v2.py",
+      "bytes": 9818,
+      "sha256": "97a7719b1a406ae38e08f70fecde35a258483b75fed07ec2284036150c4f43ab",
+      "role": "junction_v2_reproduction"
+    },
+    {
+      "path": "archive/work/validate_junction_test_v2.py",
+      "bytes": 8409,
+      "sha256": "ccf03fa0a998982f671659c8954ff36e91acca035f006cc7bda7557c4331d722",
+      "role": "junction_v2_reproduction"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
-  "material_sample_status": "Native saved and slice verified; 86 x 52 x 2.5 mm, 21 thickness patches and 3 full-scale detail crops. Not printed."
+  "material_sample_status": "Native saved and slice verified; 86 x 52 x 2.5 mm, 21 thickness patches and 3 full-scale detail crops. Not printed.",
+  "junction_v2_status": "slice-verified; not sent; awaiting resolution of right-extruder eddy-current sensor warning"
 }

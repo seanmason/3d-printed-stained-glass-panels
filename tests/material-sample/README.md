@@ -2,7 +2,7 @@
 
 ## [Download editable H2D sample](sample-H2D.3mf)
 
-An **86 × 52 mm** coupon with 21 thickness patches and three actual corgi detail crops. It uses the same seven materials and Arachne/no-ironing settings as the full corgi. No print has been sent. Verify the current AMS loading before printing.
+An **86 × 52 mm** coupon with 21 thickness patches and three actual corgi detail crops. It uses the same seven materials and Arachne/no-ironing settings as the full corgi. The user confirmed completion and reported pinholes and excessive black relief; see the physical feedback below. Verify the current AMS loading before any reprint.
 
 ![Sample identification guide](guide.png)
 
@@ -44,3 +44,7 @@ Open `sample-H2D.3mf`, confirm H2D dual standard 0.4 mm nozzles/textured PEI and
 Studio estimates **2 h 44 min and 47.51 g total filament**, including purge/tower overhead. Seven-color changes and conservative purging mean waste can outweigh this small coupon. The sample tests local material behavior and junctions; it does not establish full-panel fit, warping, or the exact thermal conditions of a larger print. [Validation report](validation.json) records the slice estimate and checks. Archived G-code is evidence, not the download to send blindly.
 
 [Finished panels](../../models/README.md) · [Full corgi notes](../../docs/corgi-B.md)
+
+## Physical feedback received
+
+The user confirmed this sample completed and reported pinholes near narrow turn-arounds and excessive black relief around the eye. Transmission varied substantially; exact swatch identities need confirmation. See the [next junction test](../junction-v2/README.md) and its controlled comparison plan. Earlier validation files remain historical snapshots.

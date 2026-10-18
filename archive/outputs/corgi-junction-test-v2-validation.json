@@ -1,0 +1,316 @@
+{
+  "project": "corgi-junction-test-v2-H2D.3mf",
+  "variants": [
+    {
+      "name": "A - shallow control",
+      "origin_mm": [
+        120,
+        152
+      ],
+      "black_height_mm": 1.0,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 208.52524500862958
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 42.76756973593075
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 213.22327111563257
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 216.5081048246976
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 28.82466554181897
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 24.559248135509293
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1080.9658914559036
+        }
+      ]
+    },
+    {
+      "name": "B - slower detail motion",
+      "origin_mm": [
+        120,
+        128
+      ],
+      "black_height_mm": 1.0,
+      "settings": {
+        "outer_wall_speed": "35",
+        "inner_wall_speed": "35",
+        "internal_solid_infill_speed": "35",
+        "sparse_infill_speed": "35",
+        "top_surface_speed": "35",
+        "gap_infill_speed": "35",
+        "small_perimeter_speed": "35",
+        "initial_layer_speed": "35",
+        "initial_layer_infill_speed": "35",
+        "default_acceleration": "1000",
+        "outer_wall_acceleration": "1000",
+        "inner_wall_acceleration": "1000",
+        "top_surface_acceleration": "1000",
+        "sparse_infill_acceleration": "1000"
+      },
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 208.52524500862958
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 42.76756973593075
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 213.22327111563257
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 216.5081048246976
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 28.82466554181897
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 24.559248135509293
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1079.941892173067
+        }
+      ]
+    },
+    {
+      "name": "C - overlap 25 percent",
+      "origin_mm": [
+        120,
+        104
+      ],
+      "black_height_mm": 1.0,
+      "settings": {
+        "infill_wall_overlap": "25%"
+      },
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 208.52524500862958
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 42.76756973593075
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 213.22327111563257
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 216.5081048246976
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 28.82466554181897
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 24.559248135509293
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1078.91789289023
+        }
+      ]
+    },
+    {
+      "name": "D - flush black",
+      "origin_mm": [
+        120,
+        80
+      ],
+      "black_height_mm": 0.8,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 208.52524500862958
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 42.76756973593075
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 213.22327111563257
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 216.5081048246976
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 28.82466554181897
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 24.559248135509293
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1011.895921634566
+        }
+      ]
+    },
+    {
+      "name": "E - Cocoa and Copper thickness ladder",
+      "origin_mm": [
+        220,
+        120
+      ],
+      "black_height_mm": 1.6,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 144.0
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 144.0
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 560.0000083446503
+        }
+      ]
+    }
+  ],
+  "colored_panes_mm": 0.8,
+  "crop_dimensions_mm": [
+    26,
+    16
+  ],
+  "coupon_dimensions_mm": [
+    86,
+    20,
+    1.6
+  ],
+  "modeled_gap_area_mm2": 0,
+  "modeled_overlap_area_mm2": 0,
+  "slicer_validated": true,
+  "print_started": false,
+  "source_sha256": "3452c4e5941b56508297eddd10e65967488bebbd1c0f74a82ba17386ddbb9052",
+  "native_project": "corgi-junction-test-v2-verified-H2D.3mf",
+  "sliced_plate": "corgi-junction-test-v2-verified-sliced.gcode.3mf",
+  "estimated_time_seconds": 10033,
+  "estimated_filament_g": 40.67,
+  "actual_layer_heights_mm": [
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4,
+    1.5,
+    1.6
+  ],
+  "plate_bounds_mm": [
+    40.0,
+    80.0,
+    246.00000000000003,
+    290.5
+  ],
+  "native_sha256": "007edc7cabdcec2995ceabae2ef467c5dcc3b724a9ff2da1a05b87af9df964eb",
+  "sliced_sha256": "7c415838d75837753168aba4ba196a1fe79503a66d6228adff48f607f5c33372",
+  "extrusion_segments_checked": 155672,
+  "slow_variant_max_deposition_speed_mm_s": 35.0,
+  "preview_limit": "Nominal deposited line widths, not a physical pinhole guarantee.",
+  "slow_variant_acceleration_segment_counts": {
+    "2000.0": 787,
+    "5000.0": 13055,
+    "8000.0": 20095
+  },
+  "motion_test_limit": "35 mm/s deposition cap verified above the first layer. First-layer speeds remain shared defaults; some paths retain higher acceleration despite object overrides. Interpret B as a speed comparison, not a uniform acceleration comparison."
+}

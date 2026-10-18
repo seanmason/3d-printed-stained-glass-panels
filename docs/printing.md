@@ -42,3 +42,9 @@ Dark tint within a light extrusion suggests purge carryover. Dark hairs or surfa
 The user reported completing cleaning before the latest job. Prior instructions included cooling and powering down for inspection, removing residue, inspecting the blocker without prying it, and washing the plate with warm water and dish soap. The nozzle-camera lens under the toolhead was gently cleaned with a lint-free cloth lightly dampened with IPA, without spraying the lens, then allowed to dry. The exact camera warning was not preserved; identify the affected camera before repeating maintenance.
 
 The earlier maintenance guidance consulted the [Bambu H2D manual](https://csm.bblcdn.com/hub/4668d0ca43994ff3bff4b37f1a65c2e7.pdf), sections 9.7, 11.5, 11.8.4 and 11.8.5. For future hardware work consult the instructions applicable to the actual component.
+
+## First material sample: user feedback, 2026-10-17
+
+The user confirmed completion. Pinholes occur in narrow eye/muzzle/chest regions, particularly near tool turn-arounds. Tall raised black around the eye hides the colored area. The user described the lightest 12 swatches as transmitting well, one adjacent swatch as somewhat translucent, and six darker swatches as black under backlighting. Exact swatch-to-filament mapping is unconfirmed; do not infer it from those counts. Flow dynamics calibration was enabled for that sample, so simply enabling it again is not a new treatment.
+
+The next [junction comparison](../tests/junction-v2/README.md) tests speed, overlap, shallow/flush black, and thinner dark materials. It is slice-verified but not sent because printer HMS needs attention. No full Corgi panel has been physically validated.

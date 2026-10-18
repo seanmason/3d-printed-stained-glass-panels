@@ -9,3 +9,5 @@ archive/** -text
 
 # Published evidence copies retain the archived bytes.
 tests/material-sample/validation.json -text
+
+tests/junction-v2/validation.json -text
