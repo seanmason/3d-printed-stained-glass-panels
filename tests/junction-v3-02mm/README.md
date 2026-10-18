@@ -48,3 +48,6 @@ Validated watertight positive-volume geometry, nonoverlapping object placement, 
 ## Reproduction
 
 Archived build_junction_test_v3.py generates geometry. Open/save the intermediate -H2D project natively, run finalize_junction_test_v3.py to restore material-specific embedded profiles and generate the guide, then open/save the -ready project natively, slice/export and run validate_junction_test_v3.py. Finalizer overwrites the ready file and resets validation: do not rerun it over a validated final without completing the native save/slice/check sequence again. The intermediate generated models are superseded and not published as current projects.
+
+
+Latest print status: v3 was sent once on 2026-10-18 after fresh user authorization. Studio reported successful send and the printer showed the v3 job active at layer 0/16. Completion remains unconfirmed. Copper mapping corrected from B3 to B1 before sending; other established assignments preserved. Earlier NOT PRINTED statements describe preparation snapshots. Do not resend without reconciling current printer status.

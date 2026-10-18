@@ -26,3 +26,6 @@ The archive is preserved for future iteration; normal downloading starts in `mod
 ### Provenance
 
 Developed through visual drafts, Python geometry generation, Bambu Studio saving/slicing and user print feedback. No Fusion source is required. Lion artwork was inspired by Apple's emoji styling. The user supplied the lightbox; upstream authorship/license were not recorded, so no blanket license is asserted for third-party inputs. Personal reference photographs are not bundled.
+
+
+Latest print status: v3 was sent once on 2026-10-18 after fresh user authorization. Studio reported successful send and the printer showed the v3 job active at layer 0/16. Completion remains unconfirmed. Copper mapping corrected from B3 to B1 before sending; other established assignments preserved. Earlier NOT PRINTED statements describe preparation snapshots. Do not resend without reconciling current printer status.

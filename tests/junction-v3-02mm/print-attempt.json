@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-18T11:48:05.319131-05:00",
+  "status": "sent_once_printer_accepted_startup_layer_0_of_16",
+  "completion_confirmed": false,
+  "printer": "Haute H2D",
+  "reported_nozzles_mm": [
+    0.2,
+    0.2
+  ],
+  "mapping": {
+    "Cocoa": "B4",
+    "Black": "B2",
+    "Copper": "B1",
+    "White": "A2",
+    "Cyan": "A4",
+    "Gold": "A3",
+    "Champagne": "A1"
+  },
+  "mapping_correction": "Send dialog incorrectly selected B3 for Copper; corrected to established B1 before send. Names based on established inventory; current dialog shows PLA and slot/color.",
+  "bed_leveling": "On",
+  "flow_dynamics": "On",
+  "nozzle_offset": "Auto",
+  "timelapse": "Off",
+  "estimated_seconds": 18344,
+  "note": "Prepared file and validation remain pre-send snapshots; job name contains historical NOT PRINTED label. Do not resend."
+}

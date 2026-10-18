@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "Full panel unprinted. v2 completed: A best, residual pinholes; only Cocoa .4/.6 faintly transmitted. v3 dual .2 prepared and slice-verified, NOT PRINTED, 5h05m44s.",
+  "corgi_status": "v3 sent once; printer accepted and active at layer 0/16. Completion unconfirmed. See tests/junction-v3-02mm/print-attempt.json.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
