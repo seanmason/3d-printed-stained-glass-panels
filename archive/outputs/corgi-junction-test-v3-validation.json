@@ -1,0 +1,422 @@
+{
+  "geometry_validated": true,
+  "native_final_verified": true,
+  "slicer_validated": true,
+  "print_started": false,
+  "parts": [
+    {
+      "name": "A - original geometry / relief 0.2",
+      "origin_mm": [
+        120,
+        152
+      ],
+      "black_height_mm": 1.0,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 208.52524500862958
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 42.76756973593075
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 213.22327111563257
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 216.5081048246976
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 28.82466554181897
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 24.559248135509293
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1080.9658914559036
+        }
+      ]
+    },
+    {
+      "name": "B - simplified / relief 0.2",
+      "origin_mm": [
+        120,
+        128
+      ],
+      "black_height_mm": 1.0,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 289.83802999999983
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 35.3372968000001
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 223.1368216
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 199.11808319999992
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 18.833113200000007
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 15.109181200000009
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1021.2363591938906
+        }
+      ]
+    },
+    {
+      "name": "C - simplified / relief 0.3",
+      "origin_mm": [
+        120,
+        104
+      ],
+      "black_height_mm": 1.1,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 289.83802999999983
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 35.3372968000001
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 223.1368216
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 199.11808319999992
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 18.833113200000007
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 15.109181200000009
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1047.3408010343658
+        }
+      ]
+    },
+    {
+      "name": "D - four-material transmission grid",
+      "origin_mm": [
+        220,
+        120
+      ],
+      "black_height_mm": 1.6,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 103.99999999999996
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 104.00000000000006
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 104.00000000000001
+        },
+        {
+          "name": "Copper Brown Metallic",
+          "slot": 8,
+          "watertight": true,
+          "volume_mm3": 104.0
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 1020.8000152111053
+        }
+      ]
+    }
+  ],
+  "modeled_gap_area_mm2": 0,
+  "modeled_overlap_area_mm2": 0,
+  "grid_columns": [
+    "Cocoa",
+    "Copper",
+    "Gold",
+    "Champagne"
+  ],
+  "grid_thickness_rows_mm": [
+    0.3,
+    0.4,
+    0.6
+  ],
+  "source_render": "corgi-simplified-review-v2.png",
+  "native_sha256": "c37800cd680e88fcc2b9c52d8efed00a2f3a4494497452b820aee4f5c5f87d8f",
+  "native_objects": [
+    {
+      "parts": 7,
+      "bounds_mm": [
+        [
+          120.0,
+          152.0,
+          0.0
+        ],
+        [
+          206.0,
+          172.0,
+          1.600000024
+        ]
+      ]
+    },
+    {
+      "parts": 7,
+      "bounds_mm": [
+        [
+          120.0,
+          128.0,
+          0.0
+        ],
+        [
+          206.0,
+          148.0,
+          1.600000024
+        ]
+      ]
+    },
+    {
+      "parts": 7,
+      "bounds_mm": [
+        [
+          120.0,
+          104.0,
+          0.0
+        ],
+        [
+          206.0,
+          124.0,
+          1.600000024
+        ]
+      ]
+    },
+    {
+      "parts": 5,
+      "bounds_mm": [
+        [
+          220.0,
+          120.0,
+          0.0
+        ],
+        [
+          270.0,
+          152.0,
+          1.600000024
+        ]
+      ]
+    }
+  ],
+  "estimated_time_seconds": 18344,
+  "estimated_filament_g": 27.05,
+  "actual_layer_heights_mm": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4,
+    1.5,
+    1.6
+  ],
+  "swatch_layers": [
+    {
+      "number": 1,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3
+      ]
+    },
+    {
+      "number": 2,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3
+      ]
+    },
+    {
+      "number": 3,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3
+      ]
+    },
+    {
+      "number": 4,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3
+      ]
+    },
+    {
+      "number": 5,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4
+      ]
+    },
+    {
+      "number": 6,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4
+      ]
+    },
+    {
+      "number": 7,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4
+      ]
+    },
+    {
+      "number": 8,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4
+      ]
+    },
+    {
+      "number": 9,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6
+      ]
+    },
+    {
+      "number": 10,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6
+      ]
+    },
+    {
+      "number": 11,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6
+      ]
+    },
+    {
+      "number": 12,
+      "deposition_z_mm": [
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6
+      ]
+    }
+  ],
+  "sliced_sha256": "fb8b6e9479c59deb2e858e6b5cbc0bcc56cca3d63ef869130f78fdf346f93f07",
+  "extrusion_segments_checked": 215219,
+  "preview_limit": "Nominal line-width projection; physical pinholes remain to be tested. Studio viewport stale."
+}

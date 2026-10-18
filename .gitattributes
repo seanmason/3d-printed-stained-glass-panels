@@ -11,3 +11,5 @@ archive/** -text
 tests/material-sample/validation.json -text
 
 tests/junction-v2/validation.json -text
+
+tests/junction-v3-02mm/validation.json -text

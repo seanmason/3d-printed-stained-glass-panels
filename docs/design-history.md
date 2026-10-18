@@ -33,3 +33,9 @@ The library initially showed a transient signed-out/empty state, then finished s
 The user confirmed completion. Pinholes occur in narrow eye/muzzle/chest regions, particularly near tool turn-arounds. Tall raised black around the eye hides the colored area. The user described the lightest 12 swatches as transmitting well, one adjacent swatch as somewhat translucent, and six darker swatches as black under backlighting. Exact swatch-to-filament mapping is unconfirmed; do not infer it from those counts. Flow dynamics calibration was enabled for that sample, so simply enabling it again is not a new treatment.
 
 The next [junction comparison](../tests/junction-v2/README.md) tests speed, overlap, shallow/flush black, and thinner dark materials. It is slice-verified but not sent because printer HMS needs attention. No full Corgi panel has been physically validated.
+
+## 2026-10-18: v2 physical feedback and v3 preparation
+
+User confirmed v2 completed. Sample 1/A had the fewest pinholes but still failed at narrow regions/turnarounds. Corrected ladder orientation: notch upper left, 2 columns × 3 rows numbered 1 2 / 3 4 / 5 6. Only 1 and 3 faintly transmitted: Cocoa 0.4 and 0.6 mm; 5 (Cocoa 0.8) and Copper 0.4/0.6/0.8 did not. This supersedes earlier eight-square interpretations. Simplified artwork was approved for testing.
+
+[Next test](../tests/junction-v3-02mm/README.md) compares original/simplified geometry, 0.2/0.3 mm leading relief and four materials at 0.3/0.4/0.6 mm on dual 0.2 mm nozzles. Prepared and sliced, NOT PRINTED. Estimate 5 h 5 m 44 s exceeds the earlier three-hour window. Nozzle swap and live AMS check remain pending.

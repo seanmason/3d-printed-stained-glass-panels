@@ -2,7 +2,7 @@
 
 [Open editable project](project.3mf) · [Comparison guide](guide.png) · [Validation](validation.json)
 
-**Status: sent; startup checks in progress.** Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed. The user reported repairing the fault and requested this retry. Studio still listed the sensor warning, but the normal Send dialog accepted the job without a blocking warning; no checks were disabled or fault bypassed. See [attempt record](print-attempt.json). Earlier validation files are pre-send snapshots.
+**Status: completed, with user feedback.** Sample 1/A was best but still had narrow-region pinholes. Of the six ladder squares, only 1 and 3 faintly transmitted (Cocoa 0.4 and 0.6 mm). See [next test](../junction-v3-02mm/README.md). Earlier attempt records remain historical snapshots.
 
 Estimate: **2 h 47 m 13 s**, **40.67 g** including waste, 15 layers. This leaves about 13 minutes within the requested three hours; real startup and printing duration can vary. H2D, dual standard 0.4 mm nozzles, textured PEI. One plate, five test pieces plus purge tower.
 

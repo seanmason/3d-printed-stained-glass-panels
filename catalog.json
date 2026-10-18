@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "Full panel slice-verified, not printed. First material sample completed with user-reported defects. Junction v2 sent once; startup checks observed, completion unconfirmed.",
+  "corgi_status": "Full panel unprinted. v2 completed: A best, residual pinholes; only Cocoa .4/.6 faintly transmitted. v3 dual .2 prepared and slice-verified, NOT PRINTED, 5h05m44s.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -988,6 +988,88 @@
       "bytes": 1146,
       "sha256": "6c0ff30d8a2a08fa54b9009a3d075441c2728f7e741c895769a1d7776c146416",
       "role": "junction_v2_print_attempt"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v3-02mm-ready.3mf",
+      "bytes": 258496,
+      "sha256": "c37800cd680e88fcc2b9c52d8efed00a2f3a4494497452b820aee4f5c5f87d8f",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v3-02mm-sliced.gcode.3mf",
+      "bytes": 2328286,
+      "sha256": "fb8b6e9479c59deb2e858e6b5cbc0bcc56cca3d63ef869130f78fdf346f93f07",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v3-guide.png",
+      "bytes": 95908,
+      "sha256": "f24098638f5998a3491f965c84ae66f88b2a92b0bfec0b9c867af1d876b4063f",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v3-toolpath-preview.png",
+      "bytes": 44890,
+      "sha256": "fa7de17240c030ca7e2dc63f54524b290936fd948ad9737c0486c9fd836f6a60",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-junction-test-v3-validation.json",
+      "bytes": 8272,
+      "sha256": "4e8c65d84e4a6da8912f52213f8ab4e3ae39574d91c33052ec05772bdb7b6164",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/outputs/corgi-simplified-review-v2.png",
+      "bytes": 1404386,
+      "sha256": "709d2fdb136debb6a467d890804f1b1366e6f9df500d628110aee64f8a6899ac",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/build_junction_test_v3.py",
+      "bytes": 4487,
+      "sha256": "f123d82c811056a00688c0e4b9919b3f3e638497cdc07c273fa604f0bd0598bb",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/finalize_junction_test_v3.py",
+      "bytes": 5200,
+      "sha256": "6f942c16c019a19c5695d2f10a7bd074bc6238f2d7134ae03cfd528bcc2e4c4a",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "archive/work/validate_junction_test_v3.py",
+      "bytes": 6995,
+      "sha256": "f83b98021832c72d7f538ead74faa0872e14330b02d42b2d6bb8bfb2dea23227",
+      "role": "junction_v3_prepared_not_printed"
+    },
+    {
+      "path": "tests/junction-v3-02mm/project.3mf",
+      "bytes": 258496,
+      "sha256": "c37800cd680e88fcc2b9c52d8efed00a2f3a4494497452b820aee4f5c5f87d8f",
+      "role": "junction_v3_prepared_not_printed",
+      "source": "archive/outputs/corgi-junction-test-v3-02mm-ready.3mf"
+    },
+    {
+      "path": "tests/junction-v3-02mm/guide.png",
+      "bytes": 95908,
+      "sha256": "f24098638f5998a3491f965c84ae66f88b2a92b0bfec0b9c867af1d876b4063f",
+      "role": "junction_v3_prepared_not_printed",
+      "source": "archive/outputs/corgi-junction-test-v3-guide.png"
+    },
+    {
+      "path": "tests/junction-v3-02mm/toolpath-preview.png",
+      "bytes": 44890,
+      "sha256": "fa7de17240c030ca7e2dc63f54524b290936fd948ad9737c0486c9fd836f6a60",
+      "role": "junction_v3_prepared_not_printed",
+      "source": "archive/outputs/corgi-junction-test-v3-toolpath-preview.png"
+    },
+    {
+      "path": "tests/junction-v3-02mm/validation.json",
+      "bytes": 8272,
+      "sha256": "4e8c65d84e4a6da8912f52213f8ab4e3ae39574d91c33052ec05772bdb7b6164",
+      "role": "junction_v3_prepared_not_printed",
+      "source": "archive/outputs/corgi-junction-test-v3-validation.json"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
