@@ -1258,8 +1258,8 @@
     },
     {
       "path": "designs/picture-lamp/README.md",
-      "bytes": 7540,
-      "sha256": "a4acb1149705e9ba59383ee70daea3d8e1b795bc646d26665247bdd6df4d7d02",
+      "bytes": 7879,
+      "sha256": "2b3e486050be8fd265e0c296c4adf48820c5a64b49c57dc94fb7b10bb1bf3465",
       "role": "picture_lamp_concept_not_manufacturing_model"
     },
     {
@@ -1267,10 +1267,29 @@
       "bytes": 2045040,
       "sha256": "71a41c6dcb4361cdd2cbf1e966664d15a406a77ab407b51dd344f47eb6658a0b",
       "role": "picture_lamp_concept_not_manufacturing_model"
+    },
+    {
+      "path": "designs/sculpture-lamp/corgi-bust-three-views-v1.png",
+      "bytes": 2216510,
+      "sha256": "b5833ab4dc111b8b4f95e680f15f979ee20540d8bc756d5e3166fc331951333b",
+      "role": "sculpture_lamp_concept_not_manufacturing_model"
+    },
+    {
+      "path": "designs/sculpture-lamp/prompt-v1.json",
+      "bytes": 2629,
+      "sha256": "d0f63c579c24b2e34a71500e85ac545e0e2fe70f45bd94f00d02d1f187601dfc",
+      "role": "sculpture_lamp_concept_not_manufacturing_model"
+    },
+    {
+      "path": "designs/sculpture-lamp/README.md",
+      "bytes": 2384,
+      "sha256": "98d1d365afafa58fdbdae390a7d18cb990671083dfd1445ff280d0cc1a74c0ed",
+      "role": "sculpture_lamp_concept_not_manufacturing_model"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
   "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
   "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
-  "picture_lamp_status": "Concept C selected; premium non-Bambu component-backed design proposal; no CAD, order or print."
+  "picture_lamp_status": "Superseded: user clarified fully volumetric sculpture, not a flat picture lamp.",
+  "sculpture_lamp_status": "Corgi bust concept v1 shown from three angles; high-quality non-Bambu lighting required; no CAD or print yet."
 }

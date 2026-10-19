@@ -1,4 +1,6 @@
-# Arched picture lamp — design development v1
+# Arched picture lamp — superseded direction
+
+**Superseded 2026-10-19:** User clarified that the lamp must be a true 3D sculpture. Continue at [sculpture-lamp](../sculpture-lamp/README.md). Preserve the electronics research, but do not build this flat enclosure or carry its planar LED arrangement into the sculpture.
 
 Selected by the user on 2026-10-19 from concept C. Tabletop, 3D printed stained-glass appearance, no direct light-source leaks. User explicitly requests non-Bambu, high-quality electronics. This is a component-backed design proposal, not a completed CAD model, shopping order or authorized print.
 

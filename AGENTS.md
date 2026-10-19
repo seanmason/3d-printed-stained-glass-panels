@@ -55,3 +55,6 @@ Latest handoff: production v6 now supersedes the old seven-color full Corgi. Rea
 
 
 2026-10-19: user confirms completed Corgi production-v6 turned out really well. General positive physical feedback; no detailed defect audit. New task is a tabletop stained-glass lamp; user selected picture-lamp concept C and explicitly requests high-quality NON-Bambu electronics. Read designs/picture-lamp/README.md for verified component candidates, packaging targets, cost and evidence limits. No parts purchased, CAD completed or lamp print authorized. Do not treat concept C's illustrative generic dog as replacing the approved Corgi geometry.
+
+
+Latest correction 2026-10-19: user wants a SCULPTURE in full 3D, not flat panels/picture lamp. Current concept designs/sculpture-lamp/README.md shows one internally illuminated Corgi bust from three views. Prior arched flat enclosure is superseded. Keep premium non-Bambu electronics as candidates but redesign the optical/heat-spreader layout for volume. Curved-wall thickness/printing is not physically validated by flat-pane results. No sculpture CAD, purchases or new print yet.
