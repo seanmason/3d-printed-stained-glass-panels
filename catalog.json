@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v4 jobs 1 and 2 completed. White-only clean per user; patterns retain angle-dependent bright color-boundary lines and fill texture, no winner. User confirmed plate realignment. Job 3 flow sent once 2026-10-18 about 20:16 local, active at layer 0/7; completion unconfirmed.",
+  "corgi_status": "All v4 jobs completed per user. White-only clean; pattern variants retain boundary brightness. Job 3 +3% white flow has no pinholes found from any angle in either sample; F2 has faint dark streak of unconfirmed cause. Candidate white setting needs repeatability and surface-quality checks; no full panel promotion or further print authorization.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
