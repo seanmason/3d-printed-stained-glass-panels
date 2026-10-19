@@ -1,0 +1,13 @@
+{
+  "source": "form-v4",
+  "user_feedback": "Proportions closer, expression does not come across well",
+  "eye_change": "15 percent wider and about 32 percent taller orbital contour",
+  "pupil_center_up_mm": 3.7,
+  "previous_pupil_center_up_mm": 1.5,
+  "pupil_method": "Black surface draped onto curved brown lens by ray casting, with a small physical cream catchlight",
+  "inner_brow_lift_mm": 2.8,
+  "head_side_tilt_deg": 3,
+  "head_upward_pitch_deg": 3,
+  "mouth": "Shortened closed line, tapered toward corners",
+  "status": "Actual 3D expression study awaiting user review; planar lamp design remains pending"
+}

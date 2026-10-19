@@ -50,3 +50,8 @@ The user rejected both CAD v1 and v2 for likeness. [CAD revision 3](cad-v3/READM
 ## Current form development
 
 The user rejected CAD v1, v2 and v3 for poor likeness. [Continuous form study v4](form-v4/README.md) develops the skull, muzzle, eyes, ears and posture as a continuous sculptural surface, with actual geometry renders for review. Planar stained-glass divisions follow only after the underlying form is accepted. This changes the development sequence; the final panes still must be flat. No sculpture print or hardware purchase.
+
+
+## Expression revision
+
+User found v4 proportions closer but its expression ineffective. [V5 expression study](form-v5-expression/README.md) revises the eyes, upward gaze, subtle brow and head inclination, and tapered mouth. Actual geometry renders, Blender master and Fusion mesh reference are available for review. Planar sections and lamp engineering remain pending.

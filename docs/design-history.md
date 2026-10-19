@@ -72,3 +72,8 @@ User rejected both CAD interpretations and asked to revisit the original concept
 ## 2026-10-19: continuous sculpt before engineering
 
 User rejected CAD v3, bringing all three attempted CAD forms into rejected history. User approved building an unsegmented sculptural form before dividing it into planar stained-glass sections. [Form study v4](../designs/sculpture-lamp/form-v4/README.md) contains actual Blender geometry renders and the editable master, with a mesh reference in Fusion. Visual likeness and expression remain subject to review; final flat-pane requirement remains. No lamp print or purchase occurred.
+
+
+## 2026-10-19: attentive expression revision
+
+User found the continuous sculpt proportions closer but its expression ineffective. [V5](../designs/sculpture-lamp/form-v5-expression/README.md) revises open eye contours, upward-looking conforming pupils with small cream catchlights, subtle inner brow, tapered mouth and a restrained head inclination. Actual three-quarter/front/close-up renders and editable Blender/Fusion mesh references saved. User expression review remains pending; no planar lamp assembly or print.

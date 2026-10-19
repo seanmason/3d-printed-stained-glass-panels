@@ -70,3 +70,6 @@ Latest geometry decision: user requires every stained-glass section FLAT and acc
 
 
 Latest 2026-10-19: user rejected CAD v3 as well, then approved starting with an UNSEGMENTED SCULPTURAL FORM before planar-pane engineering. Current form-v4/README.md has a Blender master, actual clay renders and a Fusion mesh reference. All earlier CAD anatomy directions are rejected. Continuous field blends skull/cheek/muzzle/chest; ears have thickness/twist and recesses, eyes have shallow shaped openings. This is visual review, not user-approved likeness or print-ready lamp. Preserve the flat-pane final requirement; do not start pane/lighting/base engineering until shape review. No new print or purchases. Native mesh/closedness checks never establish likeness.
+
+
+Latest expression feedback: user says form-v4 proportions are closer, but expression does not come across. Current form-v5-expression/README.md keeps main anatomy and revises eyes, upward pupil placement/catchlights, inner brow, tapered closed mouth and a restrained 3-degree head inclination. Actual Blender renders and master plus Fusion mesh reference saved for review. This is not user-approved likeness or a lamp release. Continue expression review before flat-pane engineering; do not interpret physical render catchlights as validated printable detail. No printing or hardware purchase.
