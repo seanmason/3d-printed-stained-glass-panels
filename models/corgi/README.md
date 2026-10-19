@@ -2,7 +2,7 @@
 
 ## [Download editable H2D project](panel-H2D.3mf)
 
-**Status:** Native-saved and slice-verified. Sent once on 2026-10-18 at about 22:41 local; Haute showed heating/homing at layer 0/25. Completion and physical quality are unconfirmed. Estimated duration 4h34m21s, 27.49 g including purge.
+**Status:** Native-saved and slice-verified. Sent once on 2026-10-18 at about 22:41 local; Haute showed heating/homing at layer 0/25. User confirmed on 2026-10-19 that the completed panel turned out really well. This is general positive feedback; no detailed new defect audit was supplied. Estimated duration 4h34m21s, 27.49 g including purge.
 
 108.2 × 144.2 mm insert, 2.5 mm maximum at the black perimeter. White, Cyan, Gold and Champagne panes are 0.4 mm; Cocoa is 0.3 mm. Interior black leading is 0.7 mm, giving 0.3 mm relief over the light panes. The black outer border is 2.6 mm wide and 2.5 mm tall. This standalone project contains only the panel. Original housing/light-guide projects remain unchanged in the archive.
 

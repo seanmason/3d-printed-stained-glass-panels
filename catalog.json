@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "Production v6 full simplified six-color panel native-saved, slice-verified and sent once 2026-10-18 about 22:41. Correct job heating/homing 0/25 observed. Completion and physical result unconfirmed; dark speck source unresolved.",
+  "corgi_status": "Production v6 completed; user reports it turned out really well on 2026-10-19. General physical approval, no detailed new defect audit.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -1255,9 +1255,22 @@
       "role": "corgi_production_v6_print_started",
       "bytes": 5286,
       "sha256": "990b785dd7952bcdb636e2db97fb9a28bccaf2b38940911be9c746381fed0d3e"
+    },
+    {
+      "path": "designs/picture-lamp/README.md",
+      "bytes": 7540,
+      "sha256": "a4acb1149705e9ba59383ee70daea3d8e1b795bc646d26665247bdd6df4d7d02",
+      "role": "picture_lamp_concept_not_manufacturing_model"
+    },
+    {
+      "path": "designs/picture-lamp/concept-C.png",
+      "bytes": 2045040,
+      "sha256": "71a41c6dcb4361cdd2cbf1e966664d15a406a77ab407b51dd344f47eb6658a0b",
+      "role": "picture_lamp_concept_not_manufacturing_model"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
   "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
-  "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed."
+  "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
+  "picture_lamp_status": "Concept C selected; premium non-Bambu component-backed design proposal; no CAD, order or print."
 }

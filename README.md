@@ -10,7 +10,11 @@ Current designs are multicolor PLA lightbox inserts for the Bambu Lab H2D, measu
 
 ### Current production print
 
-[Corgi production v6](models/corgi/README.md) is native-saved, slice-verified and sent once on 2026-10-18 at about 22:41. Correct job startup confirmed; completion and physical quality pending. Simplified six-color artwork, thin panes, shallow leading and tested white flow.
+[Corgi production v6](models/corgi/README.md) is native-saved, slice-verified and sent once on 2026-10-18 at about 22:41. User confirmed completion and a very good result on 2026-10-19. Simplified six-color artwork, thin panes, shallow leading and tested white flow.
+
+### New lamp design
+
+[Arched picture lamp](designs/picture-lamp/README.md): selected concept C, premium non-Bambu lighting, replaceable artwork and concealed source. Component-backed proposal; no CAD model or print yet.
 
 ### Tests
 

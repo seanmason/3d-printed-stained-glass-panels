@@ -57,3 +57,8 @@ Panel stays 108.2 × 144.2 mm with 2.6 mm wide, 2.5 mm tall black rim. Light pan
 Live material dialogs verified A1 Champagne Silk+, A2 Jade White Basic, A3 Gold Silk+, A4 Cyan Basic, B4 Cocoa Basic and B2 Black Basic. Send dialog matched those slots to right lights/left darks. Bed leveling/flow dynamics On, nozzle offset Auto, timelapse Off. Sent ONCE about 22:41 local. Studio reported successful send; Haute showed the correct production-v6 job heating/homing at 0/25. Estimate 4h34m21s and 27.49 g; indicated finish about 03:15. Completion and physical result remain unconfirmed. No other job queued.
 
 V4 +3% white physically eliminated angle-dependent seam pinholes per user. V5 completed with a small dark spot even without active black deposition; source unresolved. These remain distinct findings: do not claim the full colored panel is physically proven or the dark-spot cause fixed. This product print intentionally proceeds with the best present assumptions instead of further diagnosis. Current human download: [Corgi model](../models/corgi/README.md). Original housing/light-guide and historical projects are untouched; v6 is a standalone insert project.
+
+
+## 2026-10-19: Corgi success and picture lamp
+
+User confirms full Corgi production-v6 completed and turned out really well. Three tabletop lamp concepts were rendered; user selected C, the arched picture lamp, and requests premium non-Bambu electronics. [Current lamp proposal](../designs/picture-lamp/README.md) records researched parts, optical stack, opaque seams/baffles and limitations. No lamp CAD or print completed.

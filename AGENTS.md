@@ -52,3 +52,6 @@ Latest physical status: v5 completed per user photos, small dark spot in two-not
 
 
 Latest handoff: production v6 now supersedes the old seven-color full Corgi. Read models/corgi/README.md and archive/outputs/corgi-production-v6-02mm-validation.json. Full panel SENT ONCE at about 22:41 on 2026-10-18; correct job heating/homing at 0/25 confirmed, completion/quality unconfirmed. No resend without reconciliation and fresh authorization. Preserve simplified expression, thin panes, white-only +3% flow, six active materials and dual 0.2 routing. Dark speck remains unresolved. Do not rerun the builder over the native artifact; use a new working copy/version.
+
+
+2026-10-19: user confirms completed Corgi production-v6 turned out really well. General positive physical feedback; no detailed defect audit. New task is a tabletop stained-glass lamp; user selected picture-lamp concept C and explicitly requests high-quality NON-Bambu electronics. Read designs/picture-lamp/README.md for verified component candidates, packaging targets, cost and evidence limits. No parts purchased, CAD completed or lamp print authorized. Do not treat concept C's illustrative generic dog as replacing the approved Corgi geometry.
