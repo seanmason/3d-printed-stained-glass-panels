@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v4 jobs 1 and 2 completed. White-only clean per user; patterns retain angle-dependent bright color-boundary lines and fill texture, no winner. Job 3 flow authorized but not sent pending physical check of plate-offset warning 0500-808C 184418.",
+  "corgi_status": "v4 jobs 1 and 2 completed. White-only clean per user; patterns retain angle-dependent bright color-boundary lines and fill texture, no winner. User confirmed plate realignment. Job 3 flow sent once 2026-10-18 about 20:16 local, active at layer 0/7; completion unconfirmed.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
