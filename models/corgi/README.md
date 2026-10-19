@@ -1,19 +1,32 @@
-# Corgi B
+# Corgi B — simplified production v6
 
 ## [Download editable H2D project](panel-H2D.3mf)
 
-108.2 × 144.2 × 2.5 mm insert, 0.8 mm colored panes. Arachne walls, zero seam gap, 0.1 mm layers with a 0.2 mm first layer, no ironing. The housing and light guide remain on separate plates; choose plate 1 for the panel.
+**Status:** Native-saved and slice-verified. Sent once on 2026-10-18 at about 22:41 local; Haute showed heating/homing at layer 0/25. Completion and physical quality are unconfirmed. Estimated duration 4h34m21s, 27.49 g including purge.
 
-**Status:** Geometry and slice verified; not printed. Test the mixed-material palette before the full panel.
+108.2 × 144.2 mm insert, 2.5 mm maximum at the black perimeter. White, Cyan, Gold and Champagne panes are 0.4 mm; Cocoa is 0.3 mm. Interior black leading is 0.7 mm, giving 0.3 mm relief over the light panes. The black outer border is 2.6 mm wide and 2.5 mm tall. This standalone project contains only the panel. Original housing/light-guide projects remain unchanged in the archive.
 
-**Materials:** Basic Jade White, Cyan, Cocoa Brown and Black; Silk+ Gold and Champagne; Metal Copper Brown Metallic.
+Dual standard 0.2 mm nozzles; 0.1 mm first and subsequent layers; Arachne, 100% infill, 20% infill/wall overlap, zero seam gap, no ironing. White flow ratio 1.0094 (tested +3% over 0.98); other materials retain 0.98. Copper was replaced with Cocoa because Copper remained nearly opaque in backlit tests. Simplified artwork removes raster shading seams and retains two 1.2 mm eye highlights.
 
-Open the project in Bambu Studio, verify the current AMS material names and nozzle groups, and re-slice. This is an editable project, not a pre-authorized print job. Preserve the intended dark/light nozzle separation.
+### Verified spool mapping at send
 
-![Panel preview](preview.png)
+| Nozzle | Slot | Material |
+|---|---|---|
+| Right | A2 | Bambu PLA Basic Jade White |
+| Right | A4 | Bambu PLA Basic Cyan |
+| Right | A3 | Bambu PLA Silk+ Gold |
+| Right | A1 | Bambu PLA Silk+ Champagne |
+| Left | B4 | Bambu PLA Basic Cocoa Brown |
+| Left | B2 | Bambu PLA Basic Black |
 
-Actual flat manufacturing geometry; not an illuminated photograph.
+Black uses 220°C first layer, 215°C afterward, 0.6 mm retraction and 2 mm wipe. Basic lights/Cocoa use 220°C; Silk+ uses 230°C. Maximum volumetric speed 2 mm³/s. Conservative purge volumes and a separate prime tower; no purging into the artwork. Bed leveling and flow calibration On; nozzle offset Auto; timelapse Off.
 
-[Back to all finished models](../README.md) · [Printing notes](../../docs/printing.md) · [Corgi details](../../docs/corgi-B.md) · [Material sample](../../tests/material-sample/README.md)
+**Remaining uncertainty:** An occasional small dark spot persisted even in the latest white-only test after nozzle/wiper/flow-blocker cleaning. Its source is unresolved. The +3% correction eliminated pinholes in the user's two-color coupons, but Gold/Champagne and this complete panel do not yet have equivalent physical confirmation. Dark Cocoa is expected to transmit weakly.
 
-Source preserved at [`corgi-B-arachne-snug-v2-verified-H2D.3mf`](../../archive/outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf). The downloadable project is an exact copy; hashes are in the root catalog.
+![Actual manufacturing geometry](preview.png)
+
+Flat color preview, not a prediction of illuminated appearance.
+
+[Validation record](../../archive/outputs/corgi-production-v6-02mm-validation.json) · [Saved source](../../archive/outputs/corgi-production-v6-02mm-H2D.3mf) · [Printing lessons](../../docs/printing.md) · [All models](../README.md)
+
+The download is byte-identical to the archived native source. Recheck hardware and loaded materials and re-slice for a future print. This record does not authorize another send.

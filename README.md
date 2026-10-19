@@ -8,13 +8,17 @@
 
 Current designs are multicolor PLA lightbox inserts for the Bambu Lab H2D, measuring 108.2 × 144.2 mm. Each model folder contains one editable project, a preview, and its validation status. Verify loaded materials and re-slice before printing.
 
+### Current production print
+
+[Corgi production v6](models/corgi/README.md) is native-saved, slice-verified and sent once on 2026-10-18 at about 22:41. Correct job startup confirmed; completion and physical quality pending. Simplified six-color artwork, thin panes, shallow leading and tested white flow.
+
 ### Tests
 
 [Corgi material sample](tests/material-sample/README.md): compare seven filaments at three thicknesses and inspect real corgi junctions before printing the full panel.
 
 [Current diagnostic test: v5](tests/diagnostic-v5/README.md): white-only +3% flow completed after cleaning. A small dark spot remains in sample 2; no obvious open pinholes in supplied photos. Source unresolved despite no active black deposition. White extrusion inspection proposed before next print.
 
-[Previous diagnostic test: v4](tests/diagnostic-v4/README.md): all three jobs completed. The +3% white flow samples have no pinholes found by the user from any angle; one has a faint dark streak of unconfirmed cause. No full panel promotion yet.
+[Previous diagnostic test: v4](tests/diagnostic-v4/README.md): all three jobs completed. The +3% white flow samples have no pinholes found by the user from any angle; one has a faint dark streak of unconfirmed cause. Superseded by the production-v6 preparation and print-start record.
 
 ### For continued development
 

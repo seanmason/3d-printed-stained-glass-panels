@@ -1,0 +1,134 @@
+{
+  "project": "corgi-production-v6-02mm-H2D.3mf",
+  "artwork": "corgi-simplified-review-v2.png",
+  "dimensions_mm": [
+    108.2,
+    144.2,
+    2.5
+  ],
+  "colored_panes_mm": 0.4,
+  "cocoa_mm": 0.3,
+  "interior_black_mm": 0.7,
+  "perimeter_black_mm": 2.5,
+  "perimeter_width_mm": 2.6,
+  "parts": [
+    {
+      "name": "Corgi B simplified - production v6 - 108.2 x 144.2",
+      "origin_mm": [
+        175,
+        150
+      ],
+      "black_height_mm": 0.7,
+      "settings": {},
+      "parts": [
+        {
+          "name": "Jade White",
+          "slot": 1,
+          "watertight": true,
+          "volume_mm3": 459.70523999999995
+        },
+        {
+          "name": "Cyan",
+          "slot": 2,
+          "watertight": true,
+          "volume_mm3": 1799.94474
+        },
+        {
+          "name": "Gold",
+          "slot": 3,
+          "watertight": true,
+          "volume_mm3": 931.6138
+        },
+        {
+          "name": "Champagne",
+          "slot": 4,
+          "watertight": true,
+          "volume_mm3": 474.5874400000001
+        },
+        {
+          "name": "Cocoa Brown",
+          "slot": 6,
+          "watertight": true,
+          "volume_mm3": 803.1037499999998
+        },
+        {
+          "name": "Black",
+          "slot": 7,
+          "watertight": true,
+          "volume_mm3": 4946.3516150000005
+        }
+      ]
+    }
+  ],
+  "geometry_validated": true,
+  "native_saved": true,
+  "slicer_validated": true,
+  "print_started": true,
+  "source_settings": "diagnostic-v4/03-flow.3mf",
+  "white_flow_ratio": 1.0094,
+  "other_flow_ratio": 0.98,
+  "palette_change": "Copper regions merged into Cocoa; six active colors, Copper unused",
+  "unrelated_models": "Standalone panel project; all original housing and light-guide source projects unchanged",
+  "limitations": [
+    "Full simplified panel not yet physically validated",
+    "White flow increase not calibrated for other materials",
+    "Occasional dark speck unresolved even in white-only test",
+    "Dark brown transmission remains faint"
+  ],
+  "bounds_mm": [
+    [
+      120.9000015,
+      77.9000015,
+      0.0
+    ],
+    [
+      229.0999985,
+      222.0999985,
+      2.5
+    ]
+  ],
+  "segments_checked": 221331,
+  "tool_top_heights": {
+    "0": 0.4,
+    "1": 0.4,
+    "2": 0.4,
+    "3": 0.4,
+    "5": 0.3,
+    "6": 2.5
+  },
+  "estimate": "4h 34m 21s",
+  "native_sha256": "1c36adf5ed168001c91a2e1440127321194d7ba3ce70dc38dce13e368a51cea0",
+  "gcode_sha256": "cc1d89cde354e83d7ae664402327e74cfa33a6a90a2b929e7677eece8c598f75",
+  "prime_tower_bounds_mm": [
+    [
+      40.0,
+      235.0
+    ],
+    [
+      85.0,
+      305.25
+    ]
+  ],
+  "send_requested_at": "2026-10-18T22:41:01.113989",
+  "send_attempts": 1,
+  "send_confirmed": true,
+  "printer": "Haute H2D",
+  "startup_observed_at": "2026-10-18T22:41:32.214437",
+  "print_completed": false,
+  "physical_result": "unconfirmed",
+  "bed_clearance": "User explicitly confirmed clear and ready for this job",
+  "send_settings": {
+    "bed_leveling": "On",
+    "flow_dynamics": "On",
+    "nozzle_offset": "Auto",
+    "timelapse": "Off"
+  },
+  "ams_mapping": {
+    "1": "A2 Jade White Basic",
+    "2": "A4 Cyan Basic",
+    "3": "A3 Gold Silk+",
+    "4": "A1 Champagne Silk+",
+    "6": "B4 Cocoa Brown Basic",
+    "7": "B2 Black Basic"
+  }
+}

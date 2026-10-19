@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v5 white-only +3% flow completed per supplied photos. Small dark spot in two-notch sample 2 despite no active black printing. No obvious open pinholes in photos; all-angle physical confirmation not supplied for v5. Spot source unresolved; white extrusion purge inspection proposed before next print. No full panel promotion.",
+  "corgi_status": "Production v6 full simplified six-color panel native-saved, slice-verified and sent once 2026-10-18 about 22:41. Correct job heating/homing 0/25 observed. Completion and physical result unconfirmed; dark speck source unresolved.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -832,17 +832,17 @@
     },
     {
       "path": "models/corgi/panel-H2D.3mf",
-      "bytes": 1072551,
-      "sha256": "b1c40d39c643bde24678601ed80673ab45868b0de0e091f7a4a9f6cfa88bc0f4",
-      "role": "curated_current_model",
-      "source": "archive/outputs/corgi-B-arachne-snug-v2-verified-H2D.3mf"
+      "bytes": 400257,
+      "sha256": "1c36adf5ed168001c91a2e1440127321194d7ba3ce70dc38dce13e368a51cea0",
+      "role": "corgi_production_v6_print_started",
+      "source": "archive/outputs/corgi-production-v6-02mm-H2D.3mf"
     },
     {
       "path": "models/corgi/preview.png",
-      "bytes": 110219,
-      "sha256": "1f140dfb0633f3f94f42f172b232c0d08555d9e22d338848ef86b86a36348b7d",
-      "role": "curated_model_preview",
-      "source": "archive/outputs/corgi-B-arachne-snug-preview.png"
+      "bytes": 35760,
+      "sha256": "6b2b14bd90545446d559428184655611be646a546386248cb57d9d0cfb99a22b",
+      "role": "corgi_production_v6_print_started",
+      "source": "archive/outputs/corgi-production-v6-02mm-preview.png"
     },
     {
       "path": "archive/outputs/corgi-material-sample-H2D.3mf",
@@ -1207,6 +1207,54 @@
       "bytes": 467716,
       "sha256": "c3d1c89ba80af33e8fa13c815bad86e4619a3f2e0096d078472ac20a547adc5d",
       "role": "diagnostic_v5_white_flow_test"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm-H2D.3mf",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 400257,
+      "sha256": "1c36adf5ed168001c91a2e1440127321194d7ba3ce70dc38dce13e368a51cea0"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm-preview.png",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 35760,
+      "sha256": "6b2b14bd90545446d559428184655611be646a546386248cb57d9d0cfb99a22b"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm-manufacturing.svg",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 157234,
+      "sha256": "e4a0d6db7dc2756a359eca5d99b5e829cc5192e3ac1db830ab4bfb34c78d9602"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm-validation.json",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 3409,
+      "sha256": "5e907b523564dfbb401c959d720f3fdb5eaef069946e3bd452604b07f09e8091"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm.gcode",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 8633681,
+      "sha256": "cc1d89cde354e83d7ae664402327e74cfa33a6a90a2b929e7677eece8c598f75"
+    },
+    {
+      "path": "archive/outputs/corgi-production-v6-02mm-toolpaths.png",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 120519,
+      "sha256": "c4dfbadf85762b90cc853154956911ebc83c88264d2d1b9d3f6f25183d760566"
+    },
+    {
+      "path": "archive/work/build_corgi_production_v6.py",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 8494,
+      "sha256": "796f57d683db66a5b53a3f9b2393defb64dc784536cd32beac188e2ae6d291a6"
+    },
+    {
+      "path": "archive/work/validate_corgi_production_v6.py",
+      "role": "corgi_production_v6_print_started",
+      "bytes": 5286,
+      "sha256": "990b785dd7952bcdb636e2db97fb9a28bccaf2b38940911be9c746381fed0d3e"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
