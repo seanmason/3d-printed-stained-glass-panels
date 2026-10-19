@@ -1282,9 +1282,15 @@
     },
     {
       "path": "designs/sculpture-lamp/README.md",
-      "bytes": 2384,
-      "sha256": "98d1d365afafa58fdbdae390a7d18cb990671083dfd1445ff280d0cc1a74c0ed",
+      "bytes": 2666,
+      "sha256": "f91380d5d356cf846805405177eaf469b7812f30babae2b383d297ddf9c89408",
       "role": "sculpture_lamp_concept_not_manufacturing_model"
+    },
+    {
+      "path": "designs/sculpture-lamp/electronics-and-base.md",
+      "role": "sculpture_lamp_proposed_architecture",
+      "bytes": 4404,
+      "sha256": "8ac8254dea6b3cee287c52bdc10fc5610328e575eb0a8e6e1f87e81864d9dd40"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",

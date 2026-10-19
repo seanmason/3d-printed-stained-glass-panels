@@ -58,3 +58,6 @@ Latest handoff: production v6 now supersedes the old seven-color full Corgi. Rea
 
 
 Latest correction 2026-10-19: user wants a SCULPTURE in full 3D, not flat panels/picture lamp. Current concept designs/sculpture-lamp/README.md shows one internally illuminated Corgi bust from three views. Prior arched flat enclosure is superseded. Keep premium non-Bambu electronics as candidates but redesign the optical/heat-spreader layout for volume. Curved-wall thickness/printing is not physically validated by flat-pane results. No sculpture CAD, purchases or new print yet.
+
+
+Sculpture electronics/base refinement: see designs/sculpture-lamp/electronics-and-base.md. Proposed five 50 mm Waveform 24 V LED sections on removable aluminum core with upper head tabs, external FilmGrade dimmer, Flexfire 24V-WMPS2-1 Class 2 adapter (supersedes prior Mean Well candidate), low oval 190 x 175 x 30 mm base with captive ~0.55 kg steel disc. Dimensions, optics, thermal behavior and stability are unvalidated. No components purchased or print authorized.

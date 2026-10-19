@@ -12,6 +12,8 @@ Generated with the built-in image tool. [Exact prompt](prompt-v1.json). This is 
 
 ## Construction direction
 
+[Electronics and weighted-base proposal](electronics-and-base.md): internal removable lighting core, external dimmer and Class 2-rated 24 V adapter, 190 x 175 x 30 mm starting base with captive steel ballast. This refines the earlier power-supply candidate; no components ordered.
+
 - A hollow sculptural body with broad colored curved or gently faceted shell regions and connected black ribs wrapping around the full form.
 - Break the shell into printable, serviceable sections with joints concealed beneath black leading. Overlap and seal joints to avoid unfiltered white leakage.
 - Concealed internal diffuser and low-voltage lighting, accessible through the opaque weighted base.
