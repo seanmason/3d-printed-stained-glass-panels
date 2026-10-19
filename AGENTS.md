@@ -61,3 +61,6 @@ Latest correction 2026-10-19: user wants a SCULPTURE in full 3D, not flat panels
 
 
 Sculpture electronics/base refinement: see designs/sculpture-lamp/electronics-and-base.md. Proposed five 50 mm Waveform 24 V LED sections on removable aluminum core with upper head tabs, external FilmGrade dimmer, Flexfire 24V-WMPS2-1 Class 2 adapter (supersedes prior Mean Well candidate), low oval 190 x 175 x 30 mm base with captive ~0.55 kg steel disc. Dimensions, optics, thermal behavior and stability are unvalidated. No components purchased or print authorized.
+
+
+Latest geometry decision: user requires every stained-glass section FLAT and accepts abstract art. Current designs/sculpture-lamp/README.md v2 is a full 3D polyhedral Corgi assembled from planar colored inserts in angled black edge frames. Curved/bulging shell v1 is superseded. Print panes flat, validate planarity in CAD and hide joint clearances under opaque ledges; new assembled joints require testing. Rendering is not a validated model.

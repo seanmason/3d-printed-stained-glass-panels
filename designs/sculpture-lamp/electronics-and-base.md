@@ -1,3 +1,5 @@
+> Geometry update: every colored pane is now planar. Use this electronics/base architecture inside the faceted sculpture; earlier references to a curved shell are superseded. The diffuser may have a separate shape from the planar exterior inserts.
+
 # Electronics and base — proposed sculpture architecture
 
 2026-10-19 recommendation. Design targets, not manufactured dimensions or verified assembly. Retains premium non-Bambu electronics.
@@ -24,7 +26,7 @@ Power path: wall outlet -> external 24 V adapter -> external dimmer -> rear base
 
 ## First physical step
 
-Build the base/light-core prototype and representative curved colored shell/diffuser sections before committing to the entire sculpture. Assess face/ear illumination, source hiding, dimming, stability and temperatures at full output after equilibrium. Preserve the successful flat-panel print findings as starting points, not proof of curved-shell performance. No purchase or print has been made/authorized for this sculpture.
+Build the base/light-core prototype and representative flat colored inserts assembled at the intended dihedral angles, plus diffuser sections before committing to the entire sculpture. Assess face/ear illumination, source hiding, dimming, stability and temperatures at full output after equilibrium. Preserve the successful flat-panel print findings as starting points, not proof of assembled facet-joint performance. No purchase or print has been made/authorized for this sculpture.
 
 ## Primary sources
 

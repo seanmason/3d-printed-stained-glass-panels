@@ -1282,20 +1282,32 @@
     },
     {
       "path": "designs/sculpture-lamp/README.md",
-      "bytes": 2666,
-      "sha256": "f91380d5d356cf846805405177eaf469b7812f30babae2b383d297ddf9c89408",
+      "bytes": 4776,
+      "sha256": "1bfd7268e4e7eccc0a1e1607748c7c8d5d64ca6d631b21b47b0af60ace2019e1",
       "role": "sculpture_lamp_concept_not_manufacturing_model"
     },
     {
       "path": "designs/sculpture-lamp/electronics-and-base.md",
       "role": "sculpture_lamp_proposed_architecture",
-      "bytes": 4404,
-      "sha256": "8ac8254dea6b3cee287c52bdc10fc5610328e575eb0a8e6e1f87e81864d9dd40"
+      "bytes": 4746,
+      "sha256": "c2a5b61b9d28c12ab5cbdb2c2de6398202bf3de0e36e9535a5c676264b5a7461"
+    },
+    {
+      "path": "designs/sculpture-lamp/prompt-v2-planar.json",
+      "role": "sculpture_lamp_planar_facet_concept_not_manufacturing_model",
+      "bytes": 2845,
+      "sha256": "ea0846dc25aaaa17acec64e6df5f3771eb41af14035cd92dbce8f54230d1b962"
+    },
+    {
+      "path": "designs/sculpture-lamp/corgi-planar-facets-three-views-v2.png",
+      "role": "sculpture_lamp_planar_facet_concept_not_manufacturing_model",
+      "bytes": 2054868,
+      "sha256": "f3ebb756f8f6c306e42e5d67cd8d12758de6ea9fcd14339df8585a6e9f7f9c9d"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
   "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
   "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
   "picture_lamp_status": "Superseded: user clarified fully volumetric sculpture, not a flat picture lamp.",
-  "sculpture_lamp_status": "Corgi bust concept v1 shown from three angles; high-quality non-Bambu lighting required; no CAD or print yet."
+  "sculpture_lamp_status": "Planar-facet v2 concept: every colored insert must be flat; full volumetric abstract Corgi assembled in angled black edge frame. Rendering only; no CAD or print."
 }
