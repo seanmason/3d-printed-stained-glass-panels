@@ -1,10 +1,12 @@
 # Corgi diagnostic test v4
 
-**Job 1 completed with no abnormalities reported by the user. Job 2 sent once on 2026-10-18; startup confirmed at layer 0/7. Job 2 completion unconfirmed; job 3 remains unprinted.** Both nozzles remain standard 0.2 mm. Eight small coupons across three separate jobs; about **72 min 54 s** including the slicer's startup allowance for each. Physical loading, calibration and cooling can add time.
+**Jobs 1 and 2 completed. Job 1 had no abnormalities reported. Job 2 retains angle-dependent bright boundary lines. Job 3 authorized but not yet sent; plate-offset warning requires physical alignment check.** Both nozzles remain standard 0.2 mm. Eight small coupons across three separate jobs; about **72 min 54 s** including the slicer's startup allowance for each. Physical loading, calibration and cooling can add time.
 
 Job 1 used A2 white on the right nozzle only, with bed leveling and flow dynamics calibration on, timelapse and nozzle offset calibration off. Studio confirmed finished at layer 7/7; the user reported no abnormalities and cleared the bed. This clean baseline is encouraging but does not establish the cause of prior defects.
 
-Job 2 was authorized and sent once at about 18:42 local time on 2026-10-18. Studio reported successful send and Haute displayed the correct four-coupon job active at layer 0/7. White A2/right and Black B2/left, both standard 0.2 mm; bed leveling and flow dynamics on, nozzle offset Auto, timelapse off. Slicer estimate 33m29s. Wait for completion and fresh bed clearance before job 3. Validation JSON is the preparation snapshot.
+Job 2 was authorized and sent once at about 18:42 local time on 2026-10-18. Studio subsequently confirmed finished at layer 7/7, and the user supplied backlit photos. A1/A2 have similar diagonal broad-pane texture. B has finer diagonal texture but angle-dependent bright boundary lines remain. C changes the broad-pane texture toward vertical/grid; bright lines remain along the same sloping color boundary. This separates interior texture from boundary brightness. Photos cannot distinguish an open gap from thin plastic or edge optics. No large cloudy dark marks are apparent, but tiny dark specks remain. No winning process established.
+
+White A2/right and Black B2/left, both standard 0.2 mm; bed leveling and flow dynamics on, nozzle offset Auto, timelapse off. Slicer estimate 33m29s. The user authorized job 3 and confirmed a clear bed; Studio then showed plate-offset warning 0500-808C 184418 before any job 3 send. Requested physical plate realignment; warning dialog dismissed without selecting either Resume button. Validation JSON remains the preparation snapshot.
 
 [Identification guide](guide.png) · [Validation](validation.json)
 

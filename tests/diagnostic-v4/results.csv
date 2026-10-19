@@ -1,9 +1,9 @@
 sample,notches,dark_inclusions,broad_pane_holes,taper_holes,triangle_holes,edge_holes,ridges,transmission,notes
 W1,1,,,,,,,,User reports first test completed with no abnormalities; no per-region counts supplied
 W2,2,,,,,,,,User reports first test completed with no abnormalities; no per-region counts supplied
-A1,1,,,,,,,,
-A2,2,,,,,,,,
-B,3,,,,,,,,
-C,4,,,,,,,,
+A1,1,,,,,,,,Completed; photo shows diagonal broad-pane bright texture; no measured hole counts
+A2,2,,,,,,,,Completed; similar diagonal texture to A1; tiny dark specks visible in photo
+B,3,,,,,,,,Completed; finer diagonal texture is not a confirmed winner; user reports angle-dependent bright boundary lines and photo shows sloping seam line
+C,4,,,,,,,,Completed; internal texture rotated toward vertical/grid; angle-dependent bright sloping boundary line remains despite changed fill direction
 F1,1,,,,,,,,
 F2,2,,,,,,,,

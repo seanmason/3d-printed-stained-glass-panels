@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v3 completed: embedded dark marks and diagonal pinholes remain. v4 job 1 completed, user reports no abnormalities. Job 2 patterns sent once 2026-10-18, active at layer 0/7; completion unconfirmed. Job 3 prepared/native-saved/slice-checked, not sent.",
+  "corgi_status": "v4 jobs 1 and 2 completed. White-only clean per user; patterns retain angle-dependent bright color-boundary lines and fill texture, no winner. Job 3 flow authorized but not sent pending physical check of plate-offset warning 0500-808C 184418.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
