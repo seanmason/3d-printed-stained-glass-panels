@@ -1,0 +1,1403 @@
+{
+  "parts": [
+    {
+      "id": "P001-leading",
+      "isSolid": true,
+      "volume_mm3": 98.76059483666104,
+      "relative_volume_error": 3.237568907122082e-14
+    },
+    {
+      "id": "P001-bib-bottom",
+      "isSolid": true,
+      "volume_mm3": 1075.0032918426195,
+      "relative_volume_error": 6.556802190492411e-15
+    },
+    {
+      "id": "P002-leading",
+      "isSolid": true,
+      "volume_mm3": 108.7271122764881,
+      "relative_volume_error": 7.240892678360788e-14
+    },
+    {
+      "id": "P002-shoulder-front",
+      "isSolid": true,
+      "volume_mm3": 1284.3234543152662,
+      "relative_volume_error": 3.5407540784101906e-16
+    },
+    {
+      "id": "P003-leading",
+      "isSolid": true,
+      "volume_mm3": 113.96950592225058,
+      "relative_volume_error": 9.476438013974038e-14
+    },
+    {
+      "id": "P003-saddle-low",
+      "isSolid": true,
+      "volume_mm3": 1074.013350726405,
+      "relative_volume_error": 2.9003544057113973e-14
+    },
+    {
+      "id": "P004-leading",
+      "isSolid": true,
+      "volume_mm3": 112.65766808882424,
+      "relative_volume_error": 2.7536781445569404e-13
+    },
+    {
+      "id": "P004-back-low",
+      "isSolid": true,
+      "volume_mm3": 1057.4516425445827,
+      "relative_volume_error": 2.9887835637151446e-14
+    },
+    {
+      "id": "P005-leading",
+      "isSolid": true,
+      "volume_mm3": 78.26182592660528,
+      "relative_volume_error": 1.1748285823741702e-13
+    },
+    {
+      "id": "P005-bib-upper",
+      "isSolid": true,
+      "volume_mm3": 487.4063115247853,
+      "relative_volume_error": 1.877651195767267e-14
+    },
+    {
+      "id": "P006-leading",
+      "isSolid": true,
+      "volume_mm3": 83.01844389021198,
+      "relative_volume_error": 1.0767038259213748e-13
+    },
+    {
+      "id": "P006-chest-upper",
+      "isSolid": true,
+      "volume_mm3": 573.7435600373401,
+      "relative_volume_error": 4.1215037332281666e-14
+    },
+    {
+      "id": "P007-leading",
+      "isSolid": true,
+      "volume_mm3": 90.96272429867851,
+      "relative_volume_error": 1.548211878144859e-13
+    },
+    {
+      "id": "P007-ruff-front",
+      "isSolid": true,
+      "volume_mm3": 707.2715798384321,
+      "relative_volume_error": 3.2148001124996456e-14
+    },
+    {
+      "id": "P008-leading",
+      "isSolid": true,
+      "volume_mm3": 92.07347740607233,
+      "relative_volume_error": 1.453906762170294e-13
+    },
+    {
+      "id": "P008-saddle-middle",
+      "isSolid": true,
+      "volume_mm3": 522.3424860125758,
+      "relative_volume_error": 3.504134042954367e-14
+    },
+    {
+      "id": "P009-leading",
+      "isSolid": true,
+      "volume_mm3": 84.39326614260511,
+      "relative_volume_error": 1.1113640389487546e-13
+    },
+    {
+      "id": "P009-ruff-side",
+      "isSolid": true,
+      "volume_mm3": 536.0123003583149,
+      "relative_volume_error": 6.999215582003211e-15
+    },
+    {
+      "id": "P010-leading",
+      "isSolid": true,
+      "volume_mm3": 117.82128803869018,
+      "relative_volume_error": 1.6451700837944946e-13
+    },
+    {
+      "id": "P010-back-middle",
+      "isSolid": true,
+      "volume_mm3": 1124.1044269183615,
+      "relative_volume_error": 4.854502909126885e-15
+    },
+    {
+      "id": "P011-leading",
+      "isSolid": true,
+      "volume_mm3": 84.74447507252614,
+      "relative_volume_error": 1.095019837114353e-13
+    },
+    {
+      "id": "P011-throat",
+      "isSolid": true,
+      "volume_mm3": 743.4872793869597,
+      "relative_volume_error": 5.351859312962944e-15
+    },
+    {
+      "id": "P012-leading",
+      "isSolid": true,
+      "volume_mm3": 65.55118940198095,
+      "relative_volume_error": 5.376396677957767e-14
+    },
+    {
+      "id": "P012-jaw-ruff",
+      "isSolid": true,
+      "volume_mm3": 365.88397424351854,
+      "relative_volume_error": 1.7089505184305393e-15
+    },
+    {
+      "id": "P013-leading",
+      "isSolid": true,
+      "volume_mm3": 87.73179121628827,
+      "relative_volume_error": 3.2104569683412703e-13
+    },
+    {
+      "id": "P013-neck-side",
+      "isSolid": true,
+      "volume_mm3": 846.185707011064,
+      "relative_volume_error": 1.8271887367081117e-14
+    },
+    {
+      "id": "P014-leading",
+      "isSolid": true,
+      "volume_mm3": 100.54756805028434,
+      "relative_volume_error": 1.1518773469584227e-13
+    },
+    {
+      "id": "P014-nape",
+      "isSolid": true,
+      "volume_mm3": 825.633961422652,
+      "relative_volume_error": 8.399481398595791e-15
+    },
+    {
+      "id": "P015-leading",
+      "isSolid": true,
+      "volume_mm3": 88.35483078631943,
+      "relative_volume_error": 9.103456706578864e-14
+    },
+    {
+      "id": "P015-cheek-side",
+      "isSolid": true,
+      "volume_mm3": 923.717741859828,
+      "relative_volume_error": 3.8153342841225986e-15
+    },
+    {
+      "id": "P016-leading",
+      "isSolid": true,
+      "volume_mm3": 84.33347833262009,
+      "relative_volume_error": 2.0894975750140372e-14
+    },
+    {
+      "id": "P016-skull-back",
+      "isSolid": true,
+      "volume_mm3": 544.5782306527259,
+      "relative_volume_error": 0.0
+    },
+    {
+      "id": "P017-leading",
+      "isSolid": true,
+      "volume_mm3": 75.81417280215364,
+      "relative_volume_error": 1.5220391652704272e-13
+    },
+    {
+      "id": "P017-crown-back",
+      "isSolid": true,
+      "volume_mm3": 429.9257606996346,
+      "relative_volume_error": 2.9881002342444453e-14
+    },
+    {
+      "id": "P018-leading",
+      "isSolid": true,
+      "volume_mm3": 78.11530596207037,
+      "relative_volume_error": 8.714040513246367e-14
+    },
+    {
+      "id": "P018-forehead-top",
+      "isSolid": true,
+      "volume_mm3": 642.4580371697656,
+      "relative_volume_error": 2.4773847255677033e-14
+    },
+    {
+      "id": "P019-leading",
+      "isSolid": true,
+      "volume_mm3": 58.13601338079866,
+      "relative_volume_error": 7.956571049169416e-14
+    },
+    {
+      "id": "P019-temple-top",
+      "isSolid": true,
+      "volume_mm3": 232.09325602180397,
+      "relative_volume_error": 3.26963245205419e-14
+    },
+    {
+      "id": "P020-leading",
+      "isSolid": true,
+      "volume_mm3": 45.19867884417661,
+      "relative_volume_error": 7.938817919787713e-14
+    },
+    {
+      "id": "P020-ear-root-back",
+      "isSolid": true,
+      "volume_mm3": 104.8088103816692,
+      "relative_volume_error": 4.2167979965937885e-14
+    },
+    {
+      "id": "P021-leading",
+      "isSolid": true,
+      "volume_mm3": 47.59469459863658,
+      "relative_volume_error": 4.762316535518899e-11
+    },
+    {
+      "id": "P021-forehead-blaze",
+      "isSolid": true,
+      "volume_mm3": 188.2511722639798,
+      "relative_volume_error": 2.245187829947761e-12
+    },
+    {
+      "id": "P022-leading",
+      "isSolid": true,
+      "volume_mm3": 45.15566691782896,
+      "relative_volume_error": 5.274799071735425e-10
+    },
+    {
+      "id": "P022-forehead-blaze",
+      "isSolid": true,
+      "volume_mm3": 129.1087106424244,
+      "relative_volume_error": 4.510557783376422e-11
+    },
+    {
+      "id": "P023-leading",
+      "isSolid": true,
+      "volume_mm3": 57.441127484038624,
+      "relative_volume_error": 3.071030610094863e-10
+    },
+    {
+      "id": "P023-muzzle-top",
+      "isSolid": true,
+      "volume_mm3": 291.5299131266842,
+      "relative_volume_error": 1.0802456111568916e-11
+    },
+    {
+      "id": "P024-leading",
+      "isSolid": true,
+      "volume_mm3": 51.54277917717859,
+      "relative_volume_error": 1.0890541220544246e-14
+    },
+    {
+      "id": "P024-muzzle-upper",
+      "isSolid": true,
+      "volume_mm3": 224.4782805060513,
+      "relative_volume_error": 8.483023513652221e-15
+    },
+    {
+      "id": "P025-leading",
+      "isSolid": true,
+      "volume_mm3": 48.695159818485,
+      "relative_volume_error": 8.40479048273748e-14
+    },
+    {
+      "id": "P025-muzzle-cheek",
+      "isSolid": true,
+      "volume_mm3": 221.47714464871743,
+      "relative_volume_error": 1.4629387064769835e-14
+    },
+    {
+      "id": "P026-leading",
+      "isSolid": true,
+      "volume_mm3": 43.69674309021717,
+      "relative_volume_error": 1.853727901629003e-14
+    },
+    {
+      "id": "P026-muzzle-front",
+      "isSolid": true,
+      "volume_mm3": 205.14548549392975,
+      "relative_volume_error": 1.1083532981278182e-14
+    },
+    {
+      "id": "P027-leading",
+      "isSolid": true,
+      "volume_mm3": 71.22443329430489,
+      "relative_volume_error": 5.985665616944254e-16
+    },
+    {
+      "id": "P027-lower-jaw",
+      "isSolid": true,
+      "volume_mm3": 478.0378755870172,
+      "relative_volume_error": 8.442600357056192e-15
+    },
+    {
+      "id": "P028-leading",
+      "isSolid": true,
+      "volume_mm3": 65.65305227288728,
+      "relative_volume_error": 3.6862087507228127e-13
+    },
+    {
+      "id": "P028-lower-cheek",
+      "isSolid": true,
+      "volume_mm3": 266.9952021836487,
+      "relative_volume_error": 5.450253453752448e-14
+    },
+    {
+      "id": "P029-leading",
+      "isSolid": true,
+      "volume_mm3": 41.543112743372596,
+      "relative_volume_error": 8.380834211274201e-14
+    },
+    {
+      "id": "P029-muzzle-transition",
+      "isSolid": true,
+      "volume_mm3": 122.21660727088242,
+      "relative_volume_error": 8.604421873650547e-15
+    },
+    {
+      "id": "P030-leading",
+      "isSolid": true,
+      "volume_mm3": 71.28982429287132,
+      "relative_volume_error": 1.1900548709618491e-13
+    },
+    {
+      "id": "P030-cheek-front",
+      "isSolid": true,
+      "volume_mm3": 387.56406105247146,
+      "relative_volume_error": 5.3827319966835794e-14
+    },
+    {
+      "id": "P031-leading",
+      "isSolid": true,
+      "volume_mm3": 29.987396598898517,
+      "relative_volume_error": 3.1987861637557636e-15
+    },
+    {
+      "id": "P031-cheek-upper",
+      "isSolid": true,
+      "volume_mm3": 10.367809174167522,
+      "relative_volume_error": 2.964075901222668e-14
+    },
+    {
+      "id": "P032-leading",
+      "isSolid": true,
+      "volume_mm3": 121.09998986678283,
+      "relative_volume_error": 6.630168113904157e-14
+    },
+    {
+      "id": "P032-eye-surround",
+      "isSolid": true,
+      "volume_mm3": 549.3891955508765,
+      "relative_volume_error": 2.545277765380477e-14
+    },
+    {
+      "id": "P033-socket",
+      "isSolid": true,
+      "volume_mm3": 448.2500000000007,
+      "relative_volume_error": 1.1413067925204033e-15
+    },
+    {
+      "id": "P034-leading",
+      "isSolid": true,
+      "volume_mm3": 2.412293023605197,
+      "relative_volume_error": 1.0787921468312452e-13
+    },
+    {
+      "id": "P034-iris",
+      "isSolid": true,
+      "volume_mm3": 15.984757372013602,
+      "relative_volume_error": 1.844727626937328e-14
+    },
+    {
+      "id": "P035-leading",
+      "isSolid": true,
+      "volume_mm3": 2.189060317168619,
+      "relative_volume_error": 1.0893985141437669e-13
+    },
+    {
+      "id": "P035-iris",
+      "isSolid": true,
+      "volume_mm3": 12.986540768913478,
+      "relative_volume_error": 1.2173816070024268e-14
+    },
+    {
+      "id": "P036-leading",
+      "isSolid": true,
+      "volume_mm3": 2.1131795401739657,
+      "relative_volume_error": 5.001621013973053e-14
+    },
+    {
+      "id": "P036-iris",
+      "isSolid": true,
+      "volume_mm3": 12.045346644008974,
+      "relative_volume_error": 1.990878140798904e-14
+    },
+    {
+      "id": "P037-leading",
+      "isSolid": true,
+      "volume_mm3": 2.2881363316073386,
+      "relative_volume_error": 4.1145674402225026e-14
+    },
+    {
+      "id": "P037-iris",
+      "isSolid": true,
+      "volume_mm3": 14.146618400748409,
+      "relative_volume_error": 1.381243536785374e-15
+    },
+    {
+      "id": "P038-leading",
+      "isSolid": true,
+      "volume_mm3": 2.128960879305606,
+      "relative_volume_error": 6.591581445986086e-14
+    },
+    {
+      "id": "P038-iris",
+      "isSolid": true,
+      "volume_mm3": 11.67775814339434,
+      "relative_volume_error": 7.605727133529824e-15
+    },
+    {
+      "id": "P039-leading",
+      "isSolid": true,
+      "volume_mm3": 1.846596503477833,
+      "relative_volume_error": 5.495211555942546e-14
+    },
+    {
+      "id": "P039-iris",
+      "isSolid": true,
+      "volume_mm3": 9.049992035532266,
+      "relative_volume_error": 1.1384396392913932e-14
+    },
+    {
+      "id": "P040-leading",
+      "isSolid": true,
+      "volume_mm3": 1.904415275572587,
+      "relative_volume_error": 1.1799377114140375e-13
+    },
+    {
+      "id": "P040-iris",
+      "isSolid": true,
+      "volume_mm3": 8.056601593135353,
+      "relative_volume_error": 7.937446760790219e-15
+    },
+    {
+      "id": "P041-pupil",
+      "isSolid": true,
+      "volume_mm3": 67.09999999999987,
+      "relative_volume_error": 8.471448414427448e-16
+    },
+    {
+      "id": "P042-leading",
+      "isSolid": true,
+      "volume_mm3": 0.5155653352109268,
+      "relative_volume_error": 9.087385912014066e-14
+    },
+    {
+      "id": "P042-catchlight",
+      "isSolid": true,
+      "volume_mm3": 2.2985216962869175,
+      "relative_volume_error": 1.3910864170156084e-14
+    },
+    {
+      "id": "P043-leading",
+      "isSolid": true,
+      "volume_mm3": 79.39947834375008,
+      "relative_volume_error": 1.628710674249857e-14
+    },
+    {
+      "id": "P043-ear",
+      "isSolid": true,
+      "volume_mm3": 382.1761213405374,
+      "relative_volume_error": 1.0411533055230015e-14
+    },
+    {
+      "id": "P044-leading",
+      "isSolid": true,
+      "volume_mm3": 86.88307446436285,
+      "relative_volume_error": 2.420732128571861e-14
+    },
+    {
+      "id": "P044-ear",
+      "isSolid": true,
+      "volume_mm3": 400.98243703042664,
+      "relative_volume_error": 1.9988212248722295e-14
+    },
+    {
+      "id": "P045-leading",
+      "isSolid": true,
+      "volume_mm3": 82.54286114517335,
+      "relative_volume_error": 2.362081032660283e-13
+    },
+    {
+      "id": "P045-ear",
+      "isSolid": true,
+      "volume_mm3": 367.5359202260471,
+      "relative_volume_error": 4.237707367019485e-14
+    },
+    {
+      "id": "P046-leading",
+      "isSolid": true,
+      "volume_mm3": 83.42009558734416,
+      "relative_volume_error": 4.909570409963129e-13
+    },
+    {
+      "id": "P046-ear",
+      "isSolid": true,
+      "volume_mm3": 344.66973976151786,
+      "relative_volume_error": 1.1049734352395598e-14
+    },
+    {
+      "id": "P047-leading",
+      "isSolid": true,
+      "volume_mm3": 65.19391970034772,
+      "relative_volume_error": 1.1465654488259783e-13
+    },
+    {
+      "id": "P047-ear",
+      "isSolid": true,
+      "volume_mm3": 240.03731435785997,
+      "relative_volume_error": 1.7760807006050367e-15
+    },
+    {
+      "id": "P048-leading",
+      "isSolid": true,
+      "volume_mm3": 67.85988366217785,
+      "relative_volume_error": 9.842489193459855e-14
+    },
+    {
+      "id": "P048-ear",
+      "isSolid": true,
+      "volume_mm3": 199.45390806223946,
+      "relative_volume_error": 2.1517142309649293e-14
+    },
+    {
+      "id": "P049-leading",
+      "isSolid": true,
+      "volume_mm3": 81.24904240353246,
+      "relative_volume_error": 1.0686688697037307e-13
+    },
+    {
+      "id": "P049-ear",
+      "isSolid": true,
+      "volume_mm3": 281.25798751985815,
+      "relative_volume_error": 3.6176650717753804e-14
+    },
+    {
+      "id": "P050-leading",
+      "isSolid": true,
+      "volume_mm3": 66.01496457838087,
+      "relative_volume_error": 1.0978625757115722e-14
+    },
+    {
+      "id": "P050-ear",
+      "isSolid": true,
+      "volume_mm3": 184.70986129108402,
+      "relative_volume_error": 2.938958679987576e-14
+    },
+    {
+      "id": "P051-leading",
+      "isSolid": true,
+      "volume_mm3": 74.6775667464234,
+      "relative_volume_error": 1.436736061099612e-13
+    },
+    {
+      "id": "P051-ear",
+      "isSolid": true,
+      "volume_mm3": 331.7067788809599,
+      "relative_volume_error": 3.7186523393968885e-14
+    },
+    {
+      "id": "P052-leading",
+      "isSolid": true,
+      "volume_mm3": 92.56553109198529,
+      "relative_volume_error": 1.0623729315771411e-13
+    },
+    {
+      "id": "P052-ear",
+      "isSolid": true,
+      "volume_mm3": 461.62009115919625,
+      "relative_volume_error": 1.3545285819313717e-14
+    },
+    {
+      "id": "P053-leading",
+      "isSolid": true,
+      "volume_mm3": 73.42162797525292,
+      "relative_volume_error": 1.169050112982249e-13
+    },
+    {
+      "id": "P053-ear",
+      "isSolid": true,
+      "volume_mm3": 192.9813572905511,
+      "relative_volume_error": 5.3756093789298066e-14
+    },
+    {
+      "id": "P054-leading",
+      "isSolid": true,
+      "volume_mm3": 65.30897171942517,
+      "relative_volume_error": 8.638490506590944e-14
+    },
+    {
+      "id": "P054-ear",
+      "isSolid": true,
+      "volume_mm3": 184.91128411122767,
+      "relative_volume_error": 4.3037279627165536e-15
+    },
+    {
+      "id": "P055-leading",
+      "isSolid": true,
+      "volume_mm3": 98.76059483666235,
+      "relative_volume_error": 3.4677960294062813e-14
+    },
+    {
+      "id": "P055-bib-bottom",
+      "isSolid": true,
+      "volume_mm3": 1075.0032918426066,
+      "relative_volume_error": 1.1844545892502344e-14
+    },
+    {
+      "id": "P056-leading",
+      "isSolid": true,
+      "volume_mm3": 108.7271122764907,
+      "relative_volume_error": 4.077903457849761e-14
+    },
+    {
+      "id": "P056-shoulder-front",
+      "isSolid": true,
+      "volume_mm3": 1284.3234543152962,
+      "relative_volume_error": 4.957055709774125e-15
+    },
+    {
+      "id": "P057-leading",
+      "isSolid": true,
+      "volume_mm3": 113.96950592221833,
+      "relative_volume_error": 4.2095335177853823e-13
+    },
+    {
+      "id": "P057-saddle-low",
+      "isSolid": true,
+      "volume_mm3": 1074.0133507263806,
+      "relative_volume_error": 2.1170470114682832e-16
+    },
+    {
+      "id": "P058-leading",
+      "isSolid": true,
+      "volume_mm3": 112.65766808880184,
+      "relative_volume_error": 1.194563995829379e-13
+    },
+    {
+      "id": "P058-back-low",
+      "isSolid": true,
+      "volume_mm3": 1057.4516425446302,
+      "relative_volume_error": 6.450612008018205e-16
+    },
+    {
+      "id": "P059-leading",
+      "isSolid": true,
+      "volume_mm3": 78.26182592658843,
+      "relative_volume_error": 1.1040120217673671e-13
+    },
+    {
+      "id": "P059-bib-upper",
+      "isSolid": true,
+      "volume_mm3": 487.4063115247792,
+      "relative_volume_error": 1.0496186808636941e-14
+    },
+    {
+      "id": "P060-leading",
+      "isSolid": true,
+      "volume_mm3": 83.01844389018605,
+      "relative_volume_error": 1.3796872554732688e-13
+    },
+    {
+      "id": "P060-chest-upper",
+      "isSolid": true,
+      "volume_mm3": 573.7435600373378,
+      "relative_volume_error": 2.6353845986507523e-14
+    },
+    {
+      "id": "P061-leading",
+      "isSolid": true,
+      "volume_mm3": 90.96272429869468,
+      "relative_volume_error": 4.374362521498805e-14
+    },
+    {
+      "id": "P061-ruff-front",
+      "isSolid": true,
+      "volume_mm3": 707.2715798384056,
+      "relative_volume_error": 2.298582080437206e-14
+    },
+    {
+      "id": "P062-leading",
+      "isSolid": true,
+      "volume_mm3": 92.07347740610003,
+      "relative_volume_error": 5.741542627679602e-13
+    },
+    {
+      "id": "P062-saddle-middle",
+      "isSolid": true,
+      "volume_mm3": 522.3424860125766,
+      "relative_volume_error": 4.592374428965083e-14
+    },
+    {
+      "id": "P063-leading",
+      "isSolid": true,
+      "volume_mm3": 84.39326614260042,
+      "relative_volume_error": 1.478450948783371e-13
+    },
+    {
+      "id": "P063-ruff-side",
+      "isSolid": true,
+      "volume_mm3": 536.0123003583124,
+      "relative_volume_error": 1.8028282559705127e-14
+    },
+    {
+      "id": "P064-leading",
+      "isSolid": true,
+      "volume_mm3": 117.82128803866654,
+      "relative_volume_error": 2.665561499403271e-14
+    },
+    {
+      "id": "P064-back-middle",
+      "isSolid": true,
+      "volume_mm3": 1124.1044269183653,
+      "relative_volume_error": 2.0227095454695184e-16
+    },
+    {
+      "id": "P065-leading",
+      "isSolid": true,
+      "volume_mm3": 84.74447507254136,
+      "relative_volume_error": 1.3549403191247397e-13
+    },
+    {
+      "id": "P065-throat",
+      "isSolid": true,
+      "volume_mm3": 743.4872793869642,
+      "relative_volume_error": 1.6208488204973038e-14
+    },
+    {
+      "id": "P066-leading",
+      "isSolid": true,
+      "volume_mm3": 65.55118940198685,
+      "relative_volume_error": 4.314124753683883e-14
+    },
+    {
+      "id": "P066-jaw-ruff",
+      "isSolid": true,
+      "volume_mm3": 365.88397424351444,
+      "relative_volume_error": 2.4080666396067582e-14
+    },
+    {
+      "id": "P067-leading",
+      "isSolid": true,
+      "volume_mm3": 87.73179121626468,
+      "relative_volume_error": 1.4092318680407663e-14
+    },
+    {
+      "id": "P067-neck-side",
+      "isSolid": true,
+      "volume_mm3": 846.1857070110605,
+      "relative_volume_error": 1.62566056721825e-14
+    },
+    {
+      "id": "P068-leading",
+      "isSolid": true,
+      "volume_mm3": 100.54756805029143,
+      "relative_volume_error": 4.621642852213541e-14
+    },
+    {
+      "id": "P068-nape",
+      "isSolid": true,
+      "volume_mm3": 825.6339614226746,
+      "relative_volume_error": 1.1566498975115429e-14
+    },
+    {
+      "id": "P069-leading",
+      "isSolid": true,
+      "volume_mm3": 88.3548307863256,
+      "relative_volume_error": 2.911176084612821e-14
+    },
+    {
+      "id": "P069-cheek-side",
+      "isSolid": true,
+      "volume_mm3": 923.7177418598267,
+      "relative_volume_error": 4.4307107815619136e-14
+    },
+    {
+      "id": "P070-leading",
+      "isSolid": true,
+      "volume_mm3": 84.33347833261634,
+      "relative_volume_error": 4.111592002446905e-14
+    },
+    {
+      "id": "P070-skull-back",
+      "isSolid": true,
+      "volume_mm3": 544.5782306527265,
+      "relative_volume_error": 2.9226576431359068e-15
+    },
+    {
+      "id": "P071-leading",
+      "isSolid": true,
+      "volume_mm3": 75.81417280214728,
+      "relative_volume_error": 8.49117908703836e-14
+    },
+    {
+      "id": "P071-crown-back",
+      "isSolid": true,
+      "volume_mm3": 429.925760699617,
+      "relative_volume_error": 5.81754027906008e-15
+    },
+    {
+      "id": "P072-leading",
+      "isSolid": true,
+      "volume_mm3": 78.11530596207038,
+      "relative_volume_error": 1.0060259715710178e-13
+    },
+    {
+      "id": "P072-forehead-top",
+      "isSolid": true,
+      "volume_mm3": 642.4580371698145,
+      "relative_volume_error": 2.955166065498553e-14
+    },
+    {
+      "id": "P073-leading",
+      "isSolid": true,
+      "volume_mm3": 58.1360133808004,
+      "relative_volume_error": 2.8721877059214316e-14
+    },
+    {
+      "id": "P073-temple-top",
+      "isSolid": true,
+      "volume_mm3": 232.0932560218042,
+      "relative_volume_error": 3.4288280396073926e-14
+    },
+    {
+      "id": "P074-leading",
+      "isSolid": true,
+      "volume_mm3": 45.19867884417063,
+      "relative_volume_error": 7.467204974057588e-14
+    },
+    {
+      "id": "P074-ear-root-back",
+      "isSolid": true,
+      "volume_mm3": 104.80881038166285,
+      "relative_volume_error": 2.3185609563265848e-14
+    },
+    {
+      "id": "P075-leading",
+      "isSolid": true,
+      "volume_mm3": 47.5946945933076,
+      "relative_volume_error": 6.432979759750913e-11
+    },
+    {
+      "id": "P075-forehead-blaze",
+      "isSolid": true,
+      "volume_mm3": 188.25117226147637,
+      "relative_volume_error": 1.1044162124168526e-11
+    },
+    {
+      "id": "P076-leading",
+      "isSolid": true,
+      "volume_mm3": 45.15566699818288,
+      "relative_volume_error": 1.2520053298537505e-09
+    },
+    {
+      "id": "P076-forehead-blaze",
+      "isSolid": true,
+      "volume_mm3": 129.1087106240672,
+      "relative_volume_error": 1.872589113106864e-10
+    },
+    {
+      "id": "P077-leading",
+      "isSolid": true,
+      "volume_mm3": 57.44112749803987,
+      "relative_volume_error": 5.508508032584534e-10
+    },
+    {
+      "id": "P077-muzzle-top",
+      "isSolid": true,
+      "volume_mm3": 291.5299131125984,
+      "relative_volume_error": 3.751768154051345e-11
+    },
+    {
+      "id": "P078-leading",
+      "isSolid": true,
+      "volume_mm3": 51.54277917717945,
+      "relative_volume_error": 1.378549521587873e-15
+    },
+    {
+      "id": "P078-muzzle-upper",
+      "isSolid": true,
+      "volume_mm3": 224.47828050605534,
+      "relative_volume_error": 4.178205611201818e-15
+    },
+    {
+      "id": "P079-leading",
+      "isSolid": true,
+      "volume_mm3": 48.695159818488946,
+      "relative_volume_error": 5.442685503578577e-14
+    },
+    {
+      "id": "P079-muzzle-cheek",
+      "isSolid": true,
+      "volume_mm3": 221.47714464870933,
+      "relative_volume_error": 2.220073651057176e-14
+    },
+    {
+      "id": "P080-leading",
+      "isSolid": true,
+      "volume_mm3": 43.696743090221105,
+      "relative_volume_error": 7.626301630386023e-14
+    },
+    {
+      "id": "P080-muzzle-front",
+      "isSolid": true,
+      "volume_mm3": 205.1454854939371,
+      "relative_volume_error": 2.4660860883343955e-14
+    },
+    {
+      "id": "P081-leading",
+      "isSolid": true,
+      "volume_mm3": 71.22443329430226,
+      "relative_volume_error": 2.454122902947173e-14
+    },
+    {
+      "id": "P081-lower-jaw",
+      "isSolid": true,
+      "volume_mm3": 478.0378755870248,
+      "relative_volume_error": 1.3912454109515224e-14
+    },
+    {
+      "id": "P082-leading",
+      "isSolid": true,
+      "volume_mm3": 65.65305227286345,
+      "relative_volume_error": 7.489302570463832e-14
+    },
+    {
+      "id": "P082-lower-cheek",
+      "isSolid": true,
+      "volume_mm3": 266.99520218364006,
+      "relative_volume_error": 1.447723573652983e-14
+    },
+    {
+      "id": "P083-leading",
+      "isSolid": true,
+      "volume_mm3": 41.5431127433705,
+      "relative_volume_error": 1.0433283405871725e-14
+    },
+    {
+      "id": "P083-muzzle-transition",
+      "isSolid": true,
+      "volume_mm3": 122.21660727088206,
+      "relative_volume_error": 2.5580713678420776e-15
+    },
+    {
+      "id": "P084-leading",
+      "isSolid": true,
+      "volume_mm3": 71.28982429289965,
+      "relative_volume_error": 1.546871993075847e-13
+    },
+    {
+      "id": "P084-cheek-front",
+      "isSolid": true,
+      "volume_mm3": 387.56406105244844,
+      "relative_volume_error": 7.480090785582072e-15
+    },
+    {
+      "id": "P085-leading",
+      "isSolid": true,
+      "volume_mm3": 29.987396598898282,
+      "relative_volume_error": 2.4405553693841135e-14
+    },
+    {
+      "id": "P085-cheek-upper",
+      "isSolid": true,
+      "volume_mm3": 10.36780917416735,
+      "relative_volume_error": 4.9515487598461404e-14
+    },
+    {
+      "id": "P086-leading",
+      "isSolid": true,
+      "volume_mm3": 121.09998986677769,
+      "relative_volume_error": 1.3131253308776255e-13
+    },
+    {
+      "id": "P086-eye-surround",
+      "isSolid": true,
+      "volume_mm3": 549.389195550858,
+      "relative_volume_error": 2.0693315165695064e-15
+    },
+    {
+      "id": "P087-socket",
+      "isSolid": true,
+      "volume_mm3": 448.2500000000018,
+      "relative_volume_error": 0.0
+    },
+    {
+      "id": "P088-leading",
+      "isSolid": true,
+      "volume_mm3": 2.4122930236050237,
+      "relative_volume_error": 1.1284975870436818e-13
+    },
+    {
+      "id": "P088-iris",
+      "isSolid": true,
+      "volume_mm3": 15.984757372013664,
+      "relative_volume_error": 2.778204257435768e-15
+    },
+    {
+      "id": "P089-leading",
+      "isSolid": true,
+      "volume_mm3": 2.1890603171687752,
+      "relative_volume_error": 1.5823665568569025e-14
+    },
+    {
+      "id": "P089-iris",
+      "isSolid": true,
+      "volume_mm3": 12.986540768913382,
+      "relative_volume_error": 6.976006961474596e-15
+    },
+    {
+      "id": "P090-leading",
+      "isSolid": true,
+      "volume_mm3": 2.11317954017394,
+      "relative_volume_error": 7.712583664404128e-14
+    },
+    {
+      "id": "P090-iris",
+      "isSolid": true,
+      "volume_mm3": 12.045346644008786,
+      "relative_volume_error": 2.3743065234713135e-14
+    },
+    {
+      "id": "P091-leading",
+      "isSolid": true,
+      "volume_mm3": 2.2881363316073107,
+      "relative_volume_error": 3.8816673964362124e-16
+    },
+    {
+      "id": "P091-iris",
+      "isSolid": true,
+      "volume_mm3": 14.146618400748066,
+      "relative_volume_error": 3.063849299778442e-14
+    },
+    {
+      "id": "P092-leading",
+      "isSolid": true,
+      "volume_mm3": 2.1289608793054104,
+      "relative_volume_error": 6.424705966341469e-14
+    },
+    {
+      "id": "P092-iris",
+      "isSolid": true,
+      "volume_mm3": 11.677758143394389,
+      "relative_volume_error": 1.85579742058129e-14
+    },
+    {
+      "id": "P093-leading",
+      "isSolid": true,
+      "volume_mm3": 1.8465965034775893,
+      "relative_volume_error": 1.0461343662298322e-14
+    },
+    {
+      "id": "P093-iris",
+      "isSolid": true,
+      "volume_mm3": 9.049992035532544,
+      "relative_volume_error": 2.1591096607250193e-15
+    },
+    {
+      "id": "P094-leading",
+      "isSolid": true,
+      "volume_mm3": 1.9044152755730812,
+      "relative_volume_error": 2.0124234089928363e-13
+    },
+    {
+      "id": "P094-iris",
+      "isSolid": true,
+      "volume_mm3": 8.056601593135904,
+      "relative_volume_error": 9.172160701357727e-14
+    },
+    {
+      "id": "P095-pupil",
+      "isSolid": true,
+      "volume_mm3": 67.10000000000008,
+      "relative_volume_error": 4.235724207213705e-16
+    },
+    {
+      "id": "P096-leading",
+      "isSolid": true,
+      "volume_mm3": 0.5155653352109236,
+      "relative_volume_error": 8.462897306686086e-14
+    },
+    {
+      "id": "P096-catchlight",
+      "isSolid": true,
+      "volume_mm3": 2.298521696286943,
+      "relative_volume_error": 2.898096702115851e-15
+    },
+    {
+      "id": "P097-leading",
+      "isSolid": true,
+      "volume_mm3": 79.39947834374827,
+      "relative_volume_error": 1.020181411343253e-13
+    },
+    {
+      "id": "P097-ear",
+      "isSolid": true,
+      "volume_mm3": 382.17612134053627,
+      "relative_volume_error": 5.6519750871247914e-15
+    },
+    {
+      "id": "P098-leading",
+      "isSolid": true,
+      "volume_mm3": 86.88307446437679,
+      "relative_volume_error": 1.195645395936487e-13
+    },
+    {
+      "id": "P098-ear",
+      "isSolid": true,
+      "volume_mm3": 400.98243703041527,
+      "relative_volume_error": 4.819852598982745e-15
+    },
+    {
+      "id": "P099-leading",
+      "isSolid": true,
+      "volume_mm3": 82.54286114520637,
+      "relative_volume_error": 1.9316726812280725e-13
+    },
+    {
+      "id": "P099-ear",
+      "isSolid": true,
+      "volume_mm3": 367.5359202260284,
+      "relative_volume_error": 3.495335273526928e-14
+    },
+    {
+      "id": "P100-leading",
+      "isSolid": true,
+      "volume_mm3": 83.42009558737917,
+      "relative_volume_error": 2.4224181550889575e-13
+    },
+    {
+      "id": "P100-ear",
+      "isSolid": true,
+      "volume_mm3": 344.66973976152946,
+      "relative_volume_error": 1.7316747865694504e-14
+    },
+    {
+      "id": "P101-leading",
+      "isSolid": true,
+      "volume_mm3": 65.19391970036565,
+      "relative_volume_error": 1.680612093241133e-13
+    },
+    {
+      "id": "P101-ear",
+      "isSolid": true,
+      "volume_mm3": 240.03731435785355,
+      "relative_volume_error": 2.758845354939826e-14
+    },
+    {
+      "id": "P102-leading",
+      "isSolid": true,
+      "volume_mm3": 67.85988366218612,
+      "relative_volume_error": 8.146230417566182e-14
+    },
+    {
+      "id": "P102-ear",
+      "isSolid": true,
+      "volume_mm3": 199.45390806224583,
+      "relative_volume_error": 3.5196914903864283e-14
+    },
+    {
+      "id": "P103-leading",
+      "isSolid": true,
+      "volume_mm3": 84.17738564146256,
+      "relative_volume_error": 2.5998332087223842e-14
+    },
+    {
+      "id": "P103-ear",
+      "isSolid": true,
+      "volume_mm3": 59.57484304289666,
+      "relative_volume_error": 1.753253165627716e-14
+    },
+    {
+      "id": "P104-leading",
+      "isSolid": true,
+      "volume_mm3": 102.86126019895794,
+      "relative_volume_error": 8.993926772531472e-14
+    },
+    {
+      "id": "P104-ear",
+      "isSolid": true,
+      "volume_mm3": 399.8602555409748,
+      "relative_volume_error": 1.0946182301515955e-14
+    },
+    {
+      "id": "P105-leading",
+      "isSolid": true,
+      "volume_mm3": 74.67756674642467,
+      "relative_volume_error": 5.956270028135215e-14
+    },
+    {
+      "id": "P105-ear",
+      "isSolid": true,
+      "volume_mm3": 331.7067788809573,
+      "relative_volume_error": 5.77504994643657e-14
+    },
+    {
+      "id": "P106-leading",
+      "isSolid": true,
+      "volume_mm3": 70.3559345181558,
+      "relative_volume_error": 3.676129918364226e-14
+    },
+    {
+      "id": "P106-ear",
+      "isSolid": true,
+      "volume_mm3": 227.51900680466971,
+      "relative_volume_error": 3.4477962579743355e-14
+    },
+    {
+      "id": "P107-leading",
+      "isSolid": true,
+      "volume_mm3": 89.2752220981041,
+      "relative_volume_error": 1.6713929240707802e-14
+    },
+    {
+      "id": "P107-ear",
+      "isSolid": true,
+      "volume_mm3": 429.1636650768601,
+      "relative_volume_error": 2.344393516296714e-14
+    },
+    {
+      "id": "P108-leading",
+      "isSolid": true,
+      "volume_mm3": 65.30897171942135,
+      "relative_volume_error": 1.9779314535241193e-13
+    },
+    {
+      "id": "P108-ear",
+      "isSolid": true,
+      "volume_mm3": 184.9112841112292,
+      "relative_volume_error": 9.222274205821078e-16
+    },
+    {
+      "id": "P109-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 17.457966891937872,
+      "relative_volume_error": 6.715532921222186e-15
+    },
+    {
+      "id": "P110-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 20.572529256267973,
+      "relative_volume_error": 1.8996133134625976e-15
+    },
+    {
+      "id": "P111-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 57.414426189711726,
+      "relative_volume_error": 7.177896115849422e-15
+    },
+    {
+      "id": "P112-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 93.98399999999918,
+      "relative_volume_error": 3.4777159777158643e-15
+    },
+    {
+      "id": "P113-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 97.78711391255413,
+      "relative_volume_error": 1.8892173406695552e-15
+    },
+    {
+      "id": "P114-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 19.50118519475165,
+      "relative_volume_error": 6.1940986597945385e-15
+    },
+    {
+      "id": "P115-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 18.871845696698532,
+      "relative_volume_error": 4.518112836527062e-15
+    },
+    {
+      "id": "P116-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 57.41442618971167,
+      "relative_volume_error": 7.30165294543304e-15
+    },
+    {
+      "id": "P117-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 34.166687050400434,
+      "relative_volume_error": 1.6637088277524966e-15
+    },
+    {
+      "id": "P118-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 41.73845890782304,
+      "relative_volume_error": 1.0214216159671344e-14
+    },
+    {
+      "id": "P119-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 91.04575778482052,
+      "relative_volume_error": 1.0925932786623355e-15
+    },
+    {
+      "id": "P120-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 23.694725151392113,
+      "relative_volume_error": 9.146151011340178e-15
+    },
+    {
+      "id": "P121-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 17.83628885166424,
+      "relative_volume_error": 8.365752301421137e-15
+    },
+    {
+      "id": "P122-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 59.75598431307517,
+      "relative_volume_error": 6.777720491747209e-15
+    },
+    {
+      "id": "P123-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 17.836288851664108,
+      "relative_volume_error": 1.991845786052654e-15
+    },
+    {
+      "id": "P124-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 23.694725151391733,
+      "relative_volume_error": 7.34690818943719e-15
+    },
+    {
+      "id": "P125-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 59.75598431307534,
+      "relative_volume_error": 4.0428508196386856e-15
+    },
+    {
+      "id": "P126-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 40.88271311936159,
+      "relative_volume_error": 1.2166020234026915e-15
+    },
+    {
+      "id": "P127-nose-edge",
+      "isSolid": true,
+      "volume_mm3": 35.50427861540111,
+      "relative_volume_error": 1.4609399693024032e-14
+    },
+    {
+      "id": "P128-nose-tip",
+      "isSolid": true,
+      "volume_mm3": 91.04575778482001,
+      "relative_volume_error": 6.243390163784778e-15
+    },
+    {
+      "id": "plinth-envelope",
+      "isSolid": true,
+      "volume_mm3": 362399.7821771599,
+      "relative_volume_error": 3.212345248320954e-16
+    }
+  ],
+  "status": "Appearance review only; not slice or fit verified"
+}

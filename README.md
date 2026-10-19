@@ -14,7 +14,7 @@ Current designs are multicolor PLA lightbox inserts for the Bambu Lab H2D, measu
 
 ### New lamp design
 
-[Illuminated sculpture lamp](designs/sculpture-lamp/README.md): user clarified a fully three-dimensional sculptural form. New Corgi bust concept shown from three angles; premium non-Bambu lighting and concealed source. Earlier flat picture lamp is superseded. No CAD or print yet.
+[Illuminated sculpture lamp](designs/sculpture-lamp/README.md): user clarified a fully three-dimensional sculptural form. New Corgi bust concept shown from three angles; premium non-Bambu lighting and concealed source. Earlier flat picture lamp is superseded. A new landmark-based [Fusion form study](designs/sculpture-lamp/cad-v3/README.md) follows two rejected CAD interpretations. Visual review and assembly engineering remain; no lamp print yet.
 
 ### Tests
 

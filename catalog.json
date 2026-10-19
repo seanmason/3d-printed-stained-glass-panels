@@ -1282,8 +1282,8 @@
     },
     {
       "path": "designs/sculpture-lamp/README.md",
-      "bytes": 5120,
-      "sha256": "1972f16e2647d263de74b0955bf82b06e5f3c948cbb641dc15338a3a1970c6a7",
+      "bytes": 5171,
+      "sha256": "bcde83481c1a4bdfa4b40dd010c220499c75212226c5e0162cc45d1ce5e97be1",
       "role": "sculpture_lamp_concept_not_manufacturing_model"
     },
     {
@@ -1381,11 +1381,101 @@
       "bytes": 9063,
       "sha256": "ffd45ef672132c3d1d23fe88f71c46df0e39da341d3afe5a7c64b3e9d27fb014",
       "role": "sculpture_lamp_cad_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/cad-three-views.png",
+      "bytes": 52145,
+      "sha256": "8a15ce5d0610a61a22621f819ccbe2e74ac13116f7f31630132475e53bd8fc69",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/corgi-form-revision-v3.f3d",
+      "bytes": 1919337,
+      "sha256": "8c51524947579b47ca2304fcc22afd1163fdcd185e45720e58951bdd3a11002c",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/corgi-form-revision-v3.step",
+      "bytes": 4903095,
+      "sha256": "dc2bf7a955ff17acfe6924c8e58495826e74484e5c9101663030448d6624e743",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/form-study.json",
+      "bytes": 73653,
+      "sha256": "eb03c860d2fff08439bc4575ce06379464659dc82f8a1958ca6c95776f5697d6",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/fusion-body-input.json",
+      "bytes": 230113,
+      "sha256": "5f462517a0b551d774f4673f8e01b7c9a903962004caccf463b9f98c62e9e553",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/fusion-front.png",
+      "bytes": 281362,
+      "sha256": "382f875f797aae78b99d73d1159b894dc125b08d4790cee429671b7e205f8bc7",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/fusion-rear.png",
+      "bytes": 191360,
+      "sha256": "e9443697905c518582f9ffeab81bbad20ecec6909e1f8911d6d7aff1ec6409af",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/fusion-side.png",
+      "bytes": 168913,
+      "sha256": "71f9623ffa4d936fb14a40ade6f5ef4754d927bb30ee72deef9c2c06577fdd6a",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/fusion-validation.json",
+      "bytes": 38099,
+      "sha256": "1bbfa6e32bbf59c994871d8d319e2c9e24b1b527b9c233a744a954307c4f6a80",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/README.md",
+      "bytes": 3183,
+      "sha256": "4190593903af0bb8cbff1c1de94e269bb8ea80c61cd03fc89ca0d5416432ca1d",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/source/build.py",
+      "bytes": 23224,
+      "sha256": "7ea76a14cff4f7925ec94a398cdf0c06f37184cc2cb3cf2afcc9efe89ff3fad6",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/source/fusion_build.py",
+      "bytes": 2514,
+      "sha256": "cdb44d10d6ac0c999fb5ed54db20a752b09085878d254c0e3c2125d9582e016e",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/source/fusion_finish.py",
+      "bytes": 2359,
+      "sha256": "0e9e468955728a61cba4dce60f8748ec4f256db2f36826dd619d597b9162f7b2",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/source/rebuild_landmarks.py",
+      "bytes": 9441,
+      "sha256": "1cdfd4cba7509b0956775900c6d550e41c33abba4c3c6cb896a9abe72724e9a2",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/cad-v3/source/requirements.txt",
+      "bytes": 55,
+      "sha256": "6791821f607fac2c61a6d357cdf1c6786d3f34efceb969afc1adfc25e22e6e9d",
+      "role": "sculpture_lamp_v3_form_study_not_print_ready"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
   "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
   "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
   "picture_lamp_status": "Superseded: user clarified fully volumetric sculpture, not a flat picture lamp.",
-  "sculpture_lamp_status": "CAD v1 rejected for likeness. CAD v2 native Fusion appearance revision created; not user-approved or manufacturing-ready. See designs/sculpture-lamp/cad-v2/README.md."
+  "sculpture_lamp_status": "V1 and V2 rejected for likeness. V3 rebuilt from anatomical landmarks; native Fusion visual study, awaiting review, not manufacturing-ready."
 }

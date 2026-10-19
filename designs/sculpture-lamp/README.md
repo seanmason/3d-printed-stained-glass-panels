@@ -44,4 +44,4 @@ The earlier picture-lamp design is preserved as superseded history at [picture-l
 
 ## CAD status
 
-The user rejected the first CAD interpretation. [CAD revision 2](cad-v2/README.md) is an actual Fusion form study with revised anatomy and palette, awaiting visual review. Native solids/volumes and pane planarity checked; assembly, printability, optical and thermal engineering remain unfinished. No sculpture print sent.
+The user rejected both CAD v1 and v2 for likeness. [CAD revision 3](cad-v3/README.md) starts over with explicit anatomical landmarks and connected planar patches. Native Fusion archive, STEP and screenshots are saved for visual review. It is not yet user-approved or a manufacturing-ready lamp; joints, lighting, thermal and stability work remain. No sculpture print sent.

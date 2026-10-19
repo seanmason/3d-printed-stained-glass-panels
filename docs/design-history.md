@@ -62,3 +62,8 @@ V4 +3% white physically eliminated angle-dependent seam pinholes per user. V5 co
 ## 2026-10-19: Corgi success and picture lamp
 
 User confirms full Corgi production-v6 completed and turned out really well. Three tabletop lamp concepts were rendered; user selected C, the arched picture lamp, and requests premium non-Bambu electronics. [Current lamp proposal](../designs/picture-lamp/README.md) records researched parts, optical stack, opaque seams/baffles and limitations. No lamp CAD or print completed.
+
+
+## 2026-10-19: sculpture rebuilt from landmarks
+
+User rejected both CAD interpretations and asked to revisit the original concept from scratch. [V3](../designs/sculpture-lamp/cad-v3/README.md) replaces ring-derived anatomy with a named anatomical landmark network, constrained planar facets, fuller muzzle, inset eyes, broad folded ears and shoulder volume. Native Fusion form study, STEP, source and actual screenshots saved; 233 solids positive and closed. Not user-approved or engineered for assembly/light sealing/heat/stability. Earlier production panels remain untouched.

@@ -64,3 +64,6 @@ Sculpture electronics/base refinement: see designs/sculpture-lamp/electronics-an
 
 
 Latest geometry decision: user requires every stained-glass section FLAT and accepts abstract art. Current designs/sculpture-lamp/README.md v2 is a full 3D polyhedral Corgi assembled from planar colored inserts in angled black edge frames. Curved/bulging shell v1 is superseded. Print panes flat, validate planarity in CAD and hide joint clearances under opaque ledges; new assembled joints require testing. Rendering is not a validated model.
+
+
+2026-10-19 latest sculpture status: user rejected BOTH CAD v1 and v2 for poor likeness and requested starting over. CAD v3 uses a new anatomical landmark mesh, broad planar face patches, inset eyes, volumetric ear folds and a wider shoulder silhouette. See designs/sculpture-lamp/cad-v3/README.md and native Fusion screenshots. 233 individually closed solids checked; not visual-approved, assembly-qualified, slice-verified or printed. Keep the approved planar three-view concept as target. Do not equate native solid validation with a sealed/printable lamp. No new printer authorization.
