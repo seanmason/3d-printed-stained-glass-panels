@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "v4 completed: +3% white flow pinhole-free per user, F2 dark streak unresolved. After user cleaning, v5 white-only +3% test sent once 2026-10-18 about 21:39 local, active layer 0/7; completion unconfirmed.",
+  "corgi_status": "v5 white-only +3% flow completed per supplied photos. Small dark spot in two-notch sample 2 despite no active black printing. No obvious open pinholes in photos; all-angle physical confirmation not supplied for v5. Spot source unresolved; white extrusion purge inspection proposed before next print. No full panel promotion.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",

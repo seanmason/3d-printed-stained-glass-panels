@@ -1,6 +1,6 @@
 # White-only +3% flow after cleaning
 
-Sent once on 2026-10-18 about 21:39 local. Studio reported successful send and Haute showed this job active at layer 0/7, heating/homing. Completion and physical results are unconfirmed. Estimate 16m51s; 1.02 g.
+Completed per user's supplied physical samples and two backlit photos. Sent once on 2026-10-18 about 21:39 local; startup previously confirmed. Estimate 16m51s; 1.02 g. Validation JSON is the preparation/startup snapshot, not the latest physical status.
 
 [Editable project](01-white-only-plus3.3mf) · [Validation](validation.json) · [Sliced evidence](sliced-evidence.gcode)
 
@@ -11,3 +11,7 @@ Two coupons use identical geometry and placement to v4 white-only W1/W2 (one/two
 Opened and Ctrl+S saved in Studio, then checked persisted settings and sliced. All 3D entries remained byte-identical to the previously validated v4 white-only project. Captured G-code confirms seven layers, white flow 1.0094 and one active filament. The old inherited plate title and W1/W2 labels remain; identify this run by filename and keep its physical samples separate from v4.
 
 Backlight both coupons at multiple angles; record pinholes, streaks/specks and surface ridges separately. The aim is to test current white flow after cleaning without active black deposition. Clean results would support proceeding to a separately cleared two-color repeat. Marks would focus investigation on white-path residue or thickness variation, but the idle left nozzle's historical residue is not eliminated as a possibility. Single repeats cannot prove causation. No additional job is queued or sent.
+
+Latest observations: user identifies a small dark spot on sample 2 (two notches, upper coupon). It is clearest near the lower-middle of the pane in the second photograph. No large cloudy streak or obvious open pinholes are apparent at the supplied resolution; all-angle absence of pinholes has not been explicitly confirmed for this run. Regular diagonal line texture remains; darker raised frame is expected from its greater thickness. Reflected-light/tactile ridges were not assessed. The latest spot has not yet been confirmed embedded or sample-bound as was the earlier v4 streak.
+
+Interpretation: active black deposition/nozzle changes are not necessary for some dark marks to occur, because this slice printed only white. This does not identify the source or exclude the idle nozzle, external residue, incoming filament particles, or local optical density. Proposed next step is first verify the spot follows the sample and inspect both faces with magnification, then a short manual white purge at the existing PLA temperature and inspection of fresh extrusion for dark particles. Flecks in fresh extrusion would support investigating the white feed path/hotend; clean extrusion would not prove those clean indefinitely. Keep +3% white as a candidate and avoid changing multiple settings together. Next print, if requested, should follow the inspection evidence; an actual artwork/eye coupon will still be needed before full panel promotion. No new print authorization or machine action on this turn.
