@@ -1282,8 +1282,8 @@
     },
     {
       "path": "designs/sculpture-lamp/README.md",
-      "bytes": 5171,
-      "sha256": "bcde83481c1a4bdfa4b40dd010c220499c75212226c5e0162cc45d1ce5e97be1",
+      "bytes": 5634,
+      "sha256": "ac3db77c03e56e7ed5ca5dae81f7576065190b74d984efcc90c4eb0a784f118c",
       "role": "sculpture_lamp_concept_not_manufacturing_model"
     },
     {
@@ -1438,8 +1438,8 @@
     },
     {
       "path": "designs/sculpture-lamp/cad-v3/README.md",
-      "bytes": 3183,
-      "sha256": "4190593903af0bb8cbff1c1de94e269bb8ea80c61cd03fc89ca0d5416432ca1d",
+      "bytes": 3244,
+      "sha256": "876b2a4769bdd9777532ec2c09e9438a83298281adf0840012a75865796af7f6",
       "role": "sculpture_lamp_v3_form_study_not_print_ready"
     },
     {
@@ -1471,11 +1471,113 @@
       "bytes": 55,
       "sha256": "6791821f607fac2c61a6d357cdf1c6786d3f34efceb969afc1adfc25e22e6e9d",
       "role": "sculpture_lamp_v3_form_study_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/.gitignore",
+      "bytes": 115,
+      "sha256": "44544cab7fc93b63607561fa43a96fc5b224b28190e9aa33a11dea2d20f47d9f",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/anatomy.json",
+      "bytes": 420,
+      "sha256": "ae841ae9c86eb0769d77defa4838cd1e3ab05394fe740f8b9ba8d16d401a2e8a",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/concept-comparison.png",
+      "bytes": 2349009,
+      "sha256": "10803b67dd7ef02e7bb4e5ec04b08c415f93c13771319d3ff49ea9782d7d1dde",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/corgi-continuous-form-mesh.f3d",
+      "bytes": 12710827,
+      "sha256": "e92c280b08327085c5f94c2a033039b2fd412f1a0f8dbb6ea4b0c6405162198e",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/corgi-continuous-form-mm.stl",
+      "bytes": 17134484,
+      "sha256": "3313d12556e02fe9fc1966bb5c987ce5763397e629c312e78bfa2a5b69c04425",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/corgi-continuous-form.blend",
+      "bytes": 6555265,
+      "sha256": "20ff4a01f2ac20ce4d02dcf776dda48ebc0bf37de48f19ee617c4e7e35ffb33f",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/front.png",
+      "bytes": 1360677,
+      "sha256": "200d73bca0bfad6dd4c1f31a4a62400ca1e5547c6f9731458bc39953849c6a30",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/fusion-mesh-reference.png",
+      "bytes": 449127,
+      "sha256": "b1530cf3de4c19094d3422e483439127f655726247f25b51b06617904ed61bd9",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/profile.png",
+      "bytes": 1293218,
+      "sha256": "87401385f5be477409fcd092b1b0074611c5db4acf1770c55f17d2f65c41d6aa",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/README.md",
+      "bytes": 3691,
+      "sha256": "81800a13cdb1b9a7cc441e363307c28d40c2a0cdb3b29eb94edb878b48abdcb0",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/rear.png",
+      "bytes": 1402308,
+      "sha256": "d9a8618527ca1a9f18980c748dc83bda137012befb502f77c80dadf92fdaf45d",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/sculpt-validation.json",
+      "bytes": 717,
+      "sha256": "f4a0fd29078e8f96aa53e899cb76f939261cac5f02471c530acb6be5b8ffebc3",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/three-quarter.png",
+      "bytes": 1419436,
+      "sha256": "71e47c98f09a4346a7d912abeb4cc81a292e57234c7a32ec4ebce9c386ae9994",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/source/export_form.py",
+      "bytes": 614,
+      "sha256": "1d105ae848e5681218fcf9d9bfecdc220b5ab7582dc7dbda883b449133162a40",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/source/requirements.txt",
+      "bytes": 45,
+      "sha256": "c98517d9977d9172d3d7f581bde96f20a1deebfc030b977d1fe1865a386f085c",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/source/sculpt_field.py",
+      "bytes": 3123,
+      "sha256": "b698c69a7d4765bd6dff059a421b6db2161bacd7d84e27e2874edc976c6fcf65",
+      "role": "continuous_sculptural_form_review_not_print_ready"
+    },
+    {
+      "path": "designs/sculpture-lamp/form-v4/source/sculpt_form.py",
+      "bytes": 11656,
+      "sha256": "a6171c301115791a22cbef8fb95cc6f5930dc51bba2079460bdb1490288d7988",
+      "role": "continuous_sculptural_form_review_not_print_ready"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
   "material_sample_status": "User confirmed completed; pinholes at tight junctions, excessive black relief, mixed transmission. See docs/printing.md.",
   "junction_v2_status": "Sent once; printer accepted job and entered heatbed surface foreign object detection at layer 0/15. Completion unconfirmed.",
   "picture_lamp_status": "Superseded: user clarified fully volumetric sculpture, not a flat picture lamp.",
-  "sculpture_lamp_status": "V1 and V2 rejected for likeness. V3 rebuilt from anatomical landmarks; native Fusion visual study, awaiting review, not manufacturing-ready."
+  "sculpture_lamp_status": "CAD v1/v2/v3 rejected for likeness. User approved continuous sculpt before facets. Form-v4 has actual clay renders, Blender master and Fusion mesh reference, awaiting shape review. Not a lamp assembly or print release."
 }

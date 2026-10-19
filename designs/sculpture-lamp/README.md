@@ -45,3 +45,8 @@ The earlier picture-lamp design is preserved as superseded history at [picture-l
 ## CAD status
 
 The user rejected both CAD v1 and v2 for likeness. [CAD revision 3](cad-v3/README.md) starts over with explicit anatomical landmarks and connected planar patches. Native Fusion archive, STEP and screenshots are saved for visual review. It is not yet user-approved or a manufacturing-ready lamp; joints, lighting, thermal and stability work remain. No sculpture print sent.
+
+
+## Current form development
+
+The user rejected CAD v1, v2 and v3 for poor likeness. [Continuous form study v4](form-v4/README.md) develops the skull, muzzle, eyes, ears and posture as a continuous sculptural surface, with actual geometry renders for review. Planar stained-glass divisions follow only after the underlying form is accepted. This changes the development sequence; the final panes still must be flat. No sculpture print or hardware purchase.

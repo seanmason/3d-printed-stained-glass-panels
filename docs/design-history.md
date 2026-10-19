@@ -67,3 +67,8 @@ User confirms full Corgi production-v6 completed and turned out really well. Thr
 ## 2026-10-19: sculpture rebuilt from landmarks
 
 User rejected both CAD interpretations and asked to revisit the original concept from scratch. [V3](../designs/sculpture-lamp/cad-v3/README.md) replaces ring-derived anatomy with a named anatomical landmark network, constrained planar facets, fuller muzzle, inset eyes, broad folded ears and shoulder volume. Native Fusion form study, STEP, source and actual screenshots saved; 233 solids positive and closed. Not user-approved or engineered for assembly/light sealing/heat/stability. Earlier production panels remain untouched.
+
+
+## 2026-10-19: continuous sculpt before engineering
+
+User rejected CAD v3, bringing all three attempted CAD forms into rejected history. User approved building an unsegmented sculptural form before dividing it into planar stained-glass sections. [Form study v4](../designs/sculpture-lamp/form-v4/README.md) contains actual Blender geometry renders and the editable master, with a mesh reference in Fusion. Visual likeness and expression remain subject to review; final flat-pane requirement remains. No lamp print or purchase occurred.

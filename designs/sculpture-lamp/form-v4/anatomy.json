@@ -1,0 +1,19 @@
+{
+  "method": "Smooth implicit union of anatomical volumes and interpolated tapered muzzle/chest contours",
+  "units": "mm",
+  "bounds": [
+    [
+      -82.99827575683594,
+      -113.0,
+      23.0
+    ],
+    [
+      82.99827575683594,
+      101.0,
+      256.18450927734375
+    ]
+  ],
+  "watertight": true,
+  "volume_mm3": 2956477.4028448258,
+  "status": "Unsegmented sculptural form for visual review"
+}

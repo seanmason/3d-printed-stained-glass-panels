@@ -1,6 +1,6 @@
 # Corgi sculpture: landmark reconstruction v3
 
-**Current status: native Fusion form study for visual review. Not approved, printable assembly, or qualified lamp.**
+**Rejected by the user for poor likeness.** Preserved as history. The current approach starts with a [continuous sculptural form](../form-v4/README.md) before panel engineering.
 
 The user rejected v1 and v2 because their shapes did not match the approved concept. V3 starts with a new anatomical landmark network, using [the approved three-view rendering](../corgi-planar-facets-three-views-v2.png) as the reference. It does not reuse the old ring-stack head/body mesh.
 

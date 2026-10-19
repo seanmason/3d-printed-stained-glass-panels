@@ -1,0 +1,27 @@
+{
+  "vertices": 171346,
+  "faces": 170754,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "volume_mm3": 2982022.661933922,
+  "status": "Continuous form for visual review; not a planar-pane assembly",
+  "exported_stl": {
+    "watertight": false,
+    "winding_consistent": true,
+    "volume_mm3": 2982022.4477387615,
+    "bounds_mm": [
+      [
+        -98.82464599609375,
+        -113.0,
+        22.999998092651367
+      ],
+      [
+        98.82464599609375,
+        100.95030975341797,
+        315.3336486816406
+      ]
+    ],
+    "nonmanifold_edges": 1,
+    "status": "Auxiliary reference only. One coincident edge at the ear recess needs retopology; do not print this study mesh."
+  }
+}

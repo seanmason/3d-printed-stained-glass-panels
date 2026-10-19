@@ -67,3 +67,6 @@ Latest geometry decision: user requires every stained-glass section FLAT and acc
 
 
 2026-10-19 latest sculpture status: user rejected BOTH CAD v1 and v2 for poor likeness and requested starting over. CAD v3 uses a new anatomical landmark mesh, broad planar face patches, inset eyes, volumetric ear folds and a wider shoulder silhouette. See designs/sculpture-lamp/cad-v3/README.md and native Fusion screenshots. 233 individually closed solids checked; not visual-approved, assembly-qualified, slice-verified or printed. Keep the approved planar three-view concept as target. Do not equate native solid validation with a sealed/printable lamp. No new printer authorization.
+
+
+Latest 2026-10-19: user rejected CAD v3 as well, then approved starting with an UNSEGMENTED SCULPTURAL FORM before planar-pane engineering. Current form-v4/README.md has a Blender master, actual clay renders and a Fusion mesh reference. All earlier CAD anatomy directions are rejected. Continuous field blends skull/cheek/muzzle/chest; ears have thickness/twist and recesses, eyes have shallow shaped openings. This is visual review, not user-approved likeness or print-ready lamp. Preserve the flat-pane final requirement; do not start pane/lighting/base engineering until shape review. No new print or purchases. Native mesh/closedness checks never establish likeness.
