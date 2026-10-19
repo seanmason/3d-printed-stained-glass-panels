@@ -40,3 +40,8 @@ Generated with the built-in image tool. [Exact prompt](prompt-v1.json). This is 
 - Thermal qualification and stability remain required; no new print has been authorized or sent.
 
 The earlier picture-lamp design is preserved as superseded history at [picture-lamp](../picture-lamp/README.md).
+
+
+## CAD status
+
+The user rejected the first CAD interpretation. [CAD revision 2](cad-v2/README.md) is an actual Fusion form study with revised anatomy and palette, awaiting visual review. Native solids/volumes and pane planarity checked; assembly, printability, optical and thermal engineering remain unfinished. No sculpture print sent.
