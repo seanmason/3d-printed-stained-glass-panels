@@ -1,0 +1,25 @@
+{
+  "source": "archive-repo\\tests\\diagnostic-v4\\01-white-only.3mf",
+  "flow_source": "archive-repo\\tests\\diagnostic-v4\\03-flow.3mf",
+  "geometry_identical_to_validated_white_only": true,
+  "changed_entries": [
+    "Metadata/project_settings.config",
+    "Metadata/filament_settings_1.config"
+  ],
+  "white_flow_ratio": 1.0094,
+  "nozzles_mm": [
+    "0.2",
+    "0.2"
+  ],
+  "status": "native-save invoked; settings and geometry checked; sliced; print started, completion unconfirmed",
+  "sha256_generated": "ccbd99be36801adacc7c53ce0322f56980dba9d4b75f20c8618f4fd99d169427",
+  "layers": 7,
+  "active_filament_numbers": [
+    1
+  ],
+  "estimate": "16m51s",
+  "print_started_local": "2026-10-18T21:39:00-05:00",
+  "mapping": "A2/right only",
+  "maintenance": "User cleaned nozzles, wiping pad and flow blocker; no replacement reported",
+  "sha256_native": "ccbd99be36801adacc7c53ce0322f56980dba9d4b75f20c8618f4fd99d169427"
+}

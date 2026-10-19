@@ -2,7 +2,7 @@
   "archived_date": "2026-10-17",
   "basis": "Conversation decisions, workspace artifacts, and archived validation records",
   "latest_wink_physical_result": "unknown; print start confirmed, completion not confirmed",
-  "corgi_status": "All v4 jobs completed per user. White-only clean; pattern variants retain boundary brightness. Job 3 +3% white flow has no pinholes found from any angle in either sample; F2 has faint dark streak of unconfirmed cause. Candidate white setting needs repeatability and surface-quality checks; no full panel promotion or further print authorization.",
+  "corgi_status": "v4 completed: +3% white flow pinhole-free per user, F2 dark streak unresolved. After user cleaning, v5 white-only +3% test sent once 2026-10-18 about 21:39 local, active layer 0/7; completion unconfirmed.",
   "artifacts": [
     {
       "path": "archive/outputs/corgi-B-arachne-snug-H2D.3mf",
@@ -1189,6 +1189,24 @@
       "sha256": "9db754b04881760c0ac379c19932f0ae34c8328e5074950478770d22e4422906",
       "role": "diagnostic_v4_prepared_not_printed",
       "source": "archive/outputs/corgi-diagnostic-v4-validation.json"
+    },
+    {
+      "path": "tests/diagnostic-v5/01-white-only-plus3.3mf",
+      "bytes": 35924,
+      "sha256": "ccbd99be36801adacc7c53ce0322f56980dba9d4b75f20c8618f4fd99d169427",
+      "role": "diagnostic_v5_white_flow_test"
+    },
+    {
+      "path": "tests/diagnostic-v5/validation.json",
+      "bytes": 953,
+      "sha256": "425fb46241c8cc80e4ea8c3665b69df1219a62f8eca07b79af22f88c390b6b0a",
+      "role": "diagnostic_v5_white_flow_test"
+    },
+    {
+      "path": "tests/diagnostic-v5/sliced-evidence.gcode",
+      "bytes": 467716,
+      "sha256": "c3d1c89ba80af33e8fa13c815bad86e4619a3f2e0096d078472ac20a547adc5d",
+      "role": "diagnostic_v5_white_flow_test"
     }
   ],
   "layout": "models/ for current human-facing downloads; tests/ for coupons; archive/ for preserved development evidence",
